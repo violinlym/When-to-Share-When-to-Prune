@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "pilot_identity": "815e2a961410e2a7393580fde19a29547134a0c89381edde016cbca402d80e14",
+  "formal_identity": "07baa8d5a2ad5a6e66a71be91503748a3907a6bc169459d62e5251f5d4145c19",
+  "pilot_summary_sha256": "14d7f093dca1d73ba15f0d2dd6e149f3a25f3e9a2831b61ba55aa9e802829994",
+  "pilot_audit_sha256": "0425465897c38abd4bb37fe70ba1d32246037cd6ad74f232285b2391f78c6239",
+  "basis": "Explicit user authorization for full comparison after valid preliminary tests; no accuracy threshold or formula tuning",
+  "descriptive_development_correct": {
+    "gsm_training_pilot": {
+      "full": 30,
+      "bound": 28,
+      "loop": 27,
+      "capped_version": 25,
+      "hierarchy_version": 27,
+      "recent_density": 26,
+      "joint_hierarchy": 28
+    },
+    "math_training_pilot": {
+      "full": 28,
+      "bound": 18,
+      "loop": 18,
+      "capped_version": 24,
+      "hierarchy_version": 24,
+      "recent_density": 24,
+      "joint_hierarchy": 15
+    },
+    "mbpp_training_pilot": {
+      "full": 14,
+      "bound": 3,
+      "loop": 4,
+      "capped_version": 16,
+      "hierarchy_version": 16,
+      "recent_density": 16,
+      "joint_hierarchy": 8
+    }
+  }
+}

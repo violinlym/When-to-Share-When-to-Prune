@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "independent_scalar_reference_cases": 72,
+  "monotone_merge_cost": true,
+  "nested_native_route_distance_bounds": true,
+  "retained_metadata": "3 float32 scalar costs +3 uint8 anchor IDs per K/V component/token",
+  "scope": "CPU prototype only. No GPU experiment, model output or accuracy result; no optimal-allocation claim."
+}

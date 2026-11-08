@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "identity": "2d119cc56f805613980e9008a474f25a42ca4d6009f1ace34cab60773c3b35c4",
+  "responses": 576,
+  "every_step_current_length_payload": true,
+  "hierarchy_context_coverage": 1.0,
+  "hierarchy_retention": 0.4,
+  "fts_retention": 0.5,
+  "full_retention": 1.0,
+  "reused_controls": 384,
+  "new_candidate_responses": 192
+}

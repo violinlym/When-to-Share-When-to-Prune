@@ -1,0 +1,12 @@
+{
+  "modules": {
+    "evalplus.eval": "3c833c39b842e33f251c83db4347e0a95191909f23b390c12d73ab29a28a4daf",
+    "evalplus.sanitize": "0269b69cb27199bfd56d7a00aedc17df5c72f7e60f9d60281a958d9d3dbc50f0"
+  },
+  "dataset": "original_MBPP_training_three_assertions",
+  "method": "Frozen EvalPlus sanitize and untrusted_check; actual training tests, notofficialMBPP+",
+  "min_time_limit": 4,
+  "gt_time_limit_factor": 4,
+  "reference_time": 0,
+  "atol": 0
+}

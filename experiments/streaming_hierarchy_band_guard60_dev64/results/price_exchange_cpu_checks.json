@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "initial_pruned_roots": 2,
+  "final_pruned_roots": 2,
+  "current_length_retention": 0.4,
+  "recent_protection": true,
+  "peak_veto": true,
+  "deep_only": true,
+  "irreversible": true,
+  "global_context_union": 1.0
+}

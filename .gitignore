@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.so
+*.o
+.venv/
+.env
+.env.*
+logs/
+*.safetensors
+*.pt
+*.pth
+*.tar.gz

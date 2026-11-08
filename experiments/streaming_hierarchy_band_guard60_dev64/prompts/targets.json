@@ -1,0 +1,2562 @@
+{
+  "0": {
+    "kind": "numeric",
+    "gold": "60"
+  },
+  "1": {
+    "kind": "numeric",
+    "gold": "14"
+  },
+  "2": {
+    "kind": "numeric",
+    "gold": "750"
+  },
+  "3": {
+    "kind": "numeric",
+    "gold": "770"
+  },
+  "4": {
+    "kind": "numeric",
+    "gold": "632"
+  },
+  "5": {
+    "kind": "numeric",
+    "gold": "90"
+  },
+  "6": {
+    "kind": "numeric",
+    "gold": "4"
+  },
+  "7": {
+    "kind": "numeric",
+    "gold": "81"
+  },
+  "8": {
+    "kind": "numeric",
+    "gold": "450"
+  },
+  "9": {
+    "kind": "numeric",
+    "gold": "80"
+  },
+  "10": {
+    "kind": "numeric",
+    "gold": "4"
+  },
+  "11": {
+    "kind": "numeric",
+    "gold": "7"
+  },
+  "12": {
+    "kind": "numeric",
+    "gold": "20"
+  },
+  "13": {
+    "kind": "numeric",
+    "gold": "3"
+  },
+  "14": {
+    "kind": "numeric",
+    "gold": "10"
+  },
+  "15": {
+    "kind": "numeric",
+    "gold": "46"
+  },
+  "16": {
+    "kind": "numeric",
+    "gold": "184"
+  },
+  "17": {
+    "kind": "numeric",
+    "gold": "2"
+  },
+  "18": {
+    "kind": "numeric",
+    "gold": "300"
+  },
+  "19": {
+    "kind": "numeric",
+    "gold": "13"
+  },
+  "20": {
+    "kind": "numeric",
+    "gold": "90,000"
+  },
+  "21": {
+    "kind": "numeric",
+    "gold": "75"
+  },
+  "22": {
+    "kind": "numeric",
+    "gold": "12"
+  },
+  "23": {
+    "kind": "numeric",
+    "gold": "11"
+  },
+  "24": {
+    "kind": "numeric",
+    "gold": "80"
+  },
+  "25": {
+    "kind": "numeric",
+    "gold": "5"
+  },
+  "26": {
+    "kind": "numeric",
+    "gold": "60"
+  },
+  "27": {
+    "kind": "numeric",
+    "gold": "27"
+  },
+  "28": {
+    "kind": "numeric",
+    "gold": "80"
+  },
+  "29": {
+    "kind": "numeric",
+    "gold": "180"
+  },
+  "30": {
+    "kind": "numeric",
+    "gold": "12"
+  },
+  "31": {
+    "kind": "numeric",
+    "gold": "7"
+  },
+  "32": {
+    "kind": "numeric",
+    "gold": "8"
+  },
+  "33": {
+    "kind": "numeric",
+    "gold": "3"
+  },
+  "34": {
+    "kind": "numeric",
+    "gold": "240"
+  },
+  "35": {
+    "kind": "numeric",
+    "gold": "10"
+  },
+  "36": {
+    "kind": "numeric",
+    "gold": "338"
+  },
+  "37": {
+    "kind": "numeric",
+    "gold": "20"
+  },
+  "38": {
+    "kind": "numeric",
+    "gold": "21600"
+  },
+  "39": {
+    "kind": "numeric",
+    "gold": "12"
+  },
+  "40": {
+    "kind": "numeric",
+    "gold": "121"
+  },
+  "41": {
+    "kind": "numeric",
+    "gold": "8"
+  },
+  "42": {
+    "kind": "numeric",
+    "gold": "67"
+  },
+  "43": {
+    "kind": "numeric",
+    "gold": "4"
+  },
+  "44": {
+    "kind": "numeric",
+    "gold": "80"
+  },
+  "45": {
+    "kind": "numeric",
+    "gold": "19"
+  },
+  "46": {
+    "kind": "numeric",
+    "gold": "225"
+  },
+  "47": {
+    "kind": "numeric",
+    "gold": "72"
+  },
+  "48": {
+    "kind": "numeric",
+    "gold": "27"
+  },
+  "49": {
+    "kind": "numeric",
+    "gold": "17"
+  },
+  "50": {
+    "kind": "numeric",
+    "gold": "30"
+  },
+  "51": {
+    "kind": "numeric",
+    "gold": "2"
+  },
+  "52": {
+    "kind": "numeric",
+    "gold": "200"
+  },
+  "53": {
+    "kind": "numeric",
+    "gold": "5"
+  },
+  "54": {
+    "kind": "numeric",
+    "gold": "72"
+  },
+  "55": {
+    "kind": "numeric",
+    "gold": "7"
+  },
+  "56": {
+    "kind": "numeric",
+    "gold": "300"
+  },
+  "57": {
+    "kind": "numeric",
+    "gold": "8"
+  },
+  "58": {
+    "kind": "numeric",
+    "gold": "4"
+  },
+  "59": {
+    "kind": "numeric",
+    "gold": "250"
+  },
+  "60": {
+    "kind": "numeric",
+    "gold": "15"
+  },
+  "61": {
+    "kind": "numeric",
+    "gold": "15"
+  },
+  "62": {
+    "kind": "numeric",
+    "gold": "50"
+  },
+  "63": {
+    "kind": "numeric",
+    "gold": "220"
+  },
+  "64": {
+    "kind": "numeric",
+    "gold": "240"
+  },
+  "65": {
+    "kind": "numeric",
+    "gold": "36"
+  },
+  "66": {
+    "kind": "numeric",
+    "gold": "33"
+  },
+  "67": {
+    "kind": "numeric",
+    "gold": "420"
+  },
+  "68": {
+    "kind": "numeric",
+    "gold": "3"
+  },
+  "69": {
+    "kind": "numeric",
+    "gold": "224"
+  },
+  "70": {
+    "kind": "numeric",
+    "gold": "25"
+  },
+  "71": {
+    "kind": "numeric",
+    "gold": "46"
+  },
+  "72": {
+    "kind": "numeric",
+    "gold": "37"
+  },
+  "73": {
+    "kind": "numeric",
+    "gold": "4"
+  },
+  "74": {
+    "kind": "numeric",
+    "gold": "50"
+  },
+  "75": {
+    "kind": "numeric",
+    "gold": "360000"
+  },
+  "76": {
+    "kind": "numeric",
+    "gold": "40"
+  },
+  "77": {
+    "kind": "numeric",
+    "gold": "1"
+  },
+  "78": {
+    "kind": "numeric",
+    "gold": "504"
+  },
+  "79": {
+    "kind": "numeric",
+    "gold": "9"
+  },
+  "80": {
+    "kind": "numeric",
+    "gold": "56"
+  },
+  "81": {
+    "kind": "numeric",
+    "gold": "22"
+  },
+  "82": {
+    "kind": "numeric",
+    "gold": "201"
+  },
+  "83": {
+    "kind": "numeric",
+    "gold": "2"
+  },
+  "84": {
+    "kind": "numeric",
+    "gold": "22"
+  },
+  "85": {
+    "kind": "numeric",
+    "gold": "69"
+  },
+  "86": {
+    "kind": "numeric",
+    "gold": "3"
+  },
+  "87": {
+    "kind": "numeric",
+    "gold": "8"
+  },
+  "88": {
+    "kind": "numeric",
+    "gold": "34"
+  },
+  "89": {
+    "kind": "numeric",
+    "gold": "57"
+  },
+  "90": {
+    "kind": "numeric",
+    "gold": "9"
+  },
+  "91": {
+    "kind": "numeric",
+    "gold": "240"
+  },
+  "92": {
+    "kind": "numeric",
+    "gold": "60"
+  },
+  "93": {
+    "kind": "numeric",
+    "gold": "28"
+  },
+  "94": {
+    "kind": "numeric",
+    "gold": "540"
+  },
+  "95": {
+    "kind": "numeric",
+    "gold": "2"
+  },
+  "96": {
+    "kind": "numeric",
+    "gold": "9"
+  },
+  "97": {
+    "kind": "numeric",
+    "gold": "154"
+  },
+  "98": {
+    "kind": "numeric",
+    "gold": "34"
+  },
+  "99": {
+    "kind": "numeric",
+    "gold": "9080"
+  },
+  "100": {
+    "kind": "numeric",
+    "gold": "3"
+  },
+  "101": {
+    "kind": "numeric",
+    "gold": "168"
+  },
+  "102": {
+    "kind": "numeric",
+    "gold": "673"
+  },
+  "103": {
+    "kind": "numeric",
+    "gold": "95"
+  },
+  "104": {
+    "kind": "numeric",
+    "gold": "11"
+  },
+  "105": {
+    "kind": "numeric",
+    "gold": "18"
+  },
+  "106": {
+    "kind": "numeric",
+    "gold": "16"
+  },
+  "107": {
+    "kind": "numeric",
+    "gold": "320"
+  },
+  "108": {
+    "kind": "numeric",
+    "gold": "7"
+  },
+  "109": {
+    "kind": "numeric",
+    "gold": "48"
+  },
+  "110": {
+    "kind": "numeric",
+    "gold": "210"
+  },
+  "111": {
+    "kind": "numeric",
+    "gold": "600"
+  },
+  "112": {
+    "kind": "numeric",
+    "gold": "100"
+  },
+  "113": {
+    "kind": "numeric",
+    "gold": "6"
+  },
+  "114": {
+    "kind": "numeric",
+    "gold": "10400"
+  },
+  "115": {
+    "kind": "numeric",
+    "gold": "9"
+  },
+  "116": {
+    "kind": "numeric",
+    "gold": "38000"
+  },
+  "117": {
+    "kind": "numeric",
+    "gold": "820"
+  },
+  "118": {
+    "kind": "numeric",
+    "gold": "7"
+  },
+  "119": {
+    "kind": "numeric",
+    "gold": "12"
+  },
+  "120": {
+    "kind": "numeric",
+    "gold": "6"
+  },
+  "121": {
+    "kind": "numeric",
+    "gold": "25"
+  },
+  "122": {
+    "kind": "numeric",
+    "gold": "297"
+  },
+  "123": {
+    "kind": "numeric",
+    "gold": "40"
+  },
+  "124": {
+    "kind": "numeric",
+    "gold": "54"
+  },
+  "125": {
+    "kind": "numeric",
+    "gold": "94"
+  },
+  "126": {
+    "kind": "numeric",
+    "gold": "45"
+  },
+  "127": {
+    "kind": "numeric",
+    "gold": "150"
+  },
+  "128": {
+    "kind": "boxed_math",
+    "reference_solution": "Subtract 1/3 from 1/2 by finding a common denominator: \\[\n\\frac{1}{2}-\\frac{1}{3}=\\frac{3}{6}-\\frac{2}{6}=\\frac{1}{6}.\n\\] Solving $\\frac{1}{6}=\\frac{1}{x}$ we find $x=\\boxed{6}$."
+  },
+  "129": {
+    "kind": "boxed_math",
+    "reference_solution": "$\\frac{1}{25}$ is equal to $5^{-2}$, so we have $5^{2n+1}=5^{-2}$.  This gives us $2n+1=-2$.  Solving for $n$ gives us $n=\\boxed{-\\frac{3}{2}}$."
+  },
+  "130": {
+    "kind": "boxed_math",
+    "reference_solution": "First, we simplify the left side, and we have \\[2^x+2^x+2^x+2^x = 4\\cdot 2^x = 2^2\\cdot 2^x = 2^{x+2}.\\]Noting that $512 = 2^9$, our equation now is $2^{x+2} = 2^9$, so $x+2 = 9$.  Therefore, $x=\\boxed{7}$."
+  },
+  "131": {
+    "kind": "boxed_math",
+    "reference_solution": "Writing the right side with $5$ as the base, we have $125^x = (5^3)^x = 5^{3x}$, so our equation is: $$5^{x + 4} = 5^{3x}.$$Then, setting the exponents equal, we obtain $$x + 4 = 3x.$$This yields $2x = 4 \\implies \\boxed{x = 2}$"
+  },
+  "132": {
+    "kind": "boxed_math",
+    "reference_solution": "This question is equivalent to asking, \"What is the present value of $\\$500,\\!000$ paid 10 years from now if the annually compounded interest rate is $5\\%$?\"  This present value is \\[\\frac{\\$500,\\!000}{(1+0.05)^{10}} \\approx \\boxed{\\$306,\\!956.63}.\\]"
+  },
+  "133": {
+    "kind": "boxed_math",
+    "reference_solution": "We could cross-multiply, but that doesn't look like much fun.  Instead, we first factor the quadratic, which gives us  \\[\\frac{(t-8)(t+7)}{t-8} = \\frac{3}{t+5}.\\]Canceling the common factor on the left gives  \\[t+7 = \\frac{3}{t+5}.\\]Multiplying both sides by $t+5$ gives us $(t+7)(t+5) = 3$.   Expanding the product on the left gives $t^2 + 12t + 35 = 3$, and rearranging this equation gives $t^2 +12 t + 32 = 0$.  Factoring gives $(t+4)(t+8) = 0$, which has solutions $t=-4$ and $t=-8$.  The greatest of these solutions is $\\boxed{-4}$."
+  },
+  "134": {
+    "kind": "boxed_math",
+    "reference_solution": "We use the distance formula: $\\sqrt{(-6 - 2)^2 + (-1 - 5)^2},$ so then we find that $\\sqrt{64 + 36} = \\boxed{10}$.\n\n- OR -\n\nWe note that the points $(2, 5)$, $(-6, -1)$, and $(2, -1)$ form a right triangle with legs of length 6 and 8. This is a Pythagorean triple, so the length of the hypotenuse must be $\\boxed{10}$."
+  },
+  "135": {
+    "kind": "boxed_math",
+    "reference_solution": "First, we note that $x$ must be positive, since otherwise $\\lfloor x \\rfloor + x$ is nonpositive. Next, we know that the decimal part of $x$ must be $\\dfrac{1}{3}$. We write $x$ as $n+\\dfrac{1}{3}$, where $n$ is the greatest integer less than $x.$ Therefore, we can write $\\lfloor x \\rfloor + x$ as $n+n+\\dfrac{1}{3}=\\dfrac{13}{3}$. Solving, we get $n=2$. Therefore, the only value $x$ that satisfies the equation is $2+\\dfrac{1}{3}=\\boxed{\\dfrac{7}{3}}$."
+  },
+  "136": {
+    "kind": "boxed_math",
+    "reference_solution": "Every prime number greater than 5 has a ones digit of 1, 3, 7, or 9.  For each of these digits, let's add 6, take the resulting ones digit, and repeat the process two more times. We get the following sequences of digits. \\begin{align*}\n1, 7, 3, 9 \\\\\n3, 9, 5, 1 \\\\\n7, 3, 9, 5 \\\\\n9, 5, 1, 7\n\\end{align*} Only the first of these sequences could be the sequence of ones digits of four prime numbers, since each of the other three sequences contains 5.  Therefore, the units digit of $a$ is $\\boxed{1}$. The example $a=11$ shows that there exists such a sequence of consecutive prime numbers."
+  },
+  "137": {
+    "kind": "boxed_math",
+    "reference_solution": "We only need to worry about the terms that multiply to have a degree of $2$. This would be given by the product of the terms $3x^2$ and $-4$ as well as the product of the terms $-2x$ and $-7x$. Thus, $$(3x^2) \\times (-4) + (-2x) \\times (-7x) = -12x^2 + 14x^2 = 2x^2,$$and the coefficient is $\\boxed{2}$."
+  },
+  "138": {
+    "kind": "boxed_math",
+    "reference_solution": "If $x<-7$, both $x+7$ and $x-2$ are negative.  So  $$y=-(x+7)-(-x+2)=-9.$$ If $x\\geq 2$, both $x+7$ and $x-2$ are nonnegative.  So  $$y=x+7-x+2=9.$$ If $-7\\leq x< 2$, $x+7$ is nonnegative and $x-2$ is negative.  So  $$y=x+7-(-x+2)=2x+5.$$ Then, $2(-7)+5=-9$, and $2(2)+5=9$.  The function is increasing and continuous, so all values between $-9$ and $9$ are produced, and no others. Thus the range is $y \\in \\boxed{[-9, 9]}$."
+  },
+  "139": {
+    "kind": "boxed_math",
+    "reference_solution": "Let Amy's, Ben's, and Chris's ages be $a$, $b$, and $c$, respectively. We have the equations \\begin{align*} \\tag{1}\n\\frac{a+b+c}{3}=9 \\Rightarrow a+b+c&=27 \\\\ \\tag{2}\nc-4&=a\\\\ \\tag{3}\nb+3&=\\frac{2}{3}(a+3)\n\\end{align*} From Equation (3), we have $b=\\frac{2}{3}(a+3)-3$. We substitute Equation (2) into Equation (3) to eliminate $a$, to get $b=\\frac{2}{3}(c-1)-3$. Substituting this last equation and Equation (2) into Equation (1) to eliminate $a$ and $b$, we have  \\[[c-4]+[\\frac{2}{3}(c-1)-3]+c=27\\] Solving for $c$, we find that $c=13$. Thus, Chris's age is $\\boxed{13}$."
+  },
+  "140": {
+    "kind": "boxed_math",
+    "reference_solution": "$f(4)=4^2-4=16-4=\\boxed{12}$."
+  },
+  "141": {
+    "kind": "boxed_math",
+    "reference_solution": "The powers of $i$ repeat every four powers: $i^1=i$, $i^2=-1$, $i^3=-i$, $i^4=1$, $i^5=i$, $i^6=-1$ and so on. So to determine $i^n$, where $n$ is an integer, we only need to find the remainder of $n$ when it is divided by 4. The remainder of both 22 and 222 when divided by 4 is 2, so $i^{22} + i^{222} = i^2 + i^2 = -1 + (-1) = \\boxed{-2}$."
+  },
+  "142": {
+    "kind": "boxed_math",
+    "reference_solution": "The common ratio is $$\\frac{15}{\\frac{3}{4}} = 20$$Therefore, the $n$th term is $(20^{n-1}) \\left(\\frac{3}{4}\\right)$.\n\n\nIf one million (aka $10^6$) divides the $n$th term, then it must be divisible by $5^6$. This can only happen if $n-1$ is at least $6$, or $n \\ge 7$.\n\n\nThe $7$th term is $$\\left(20^6\\right) \\left(\\frac{3}{4}\\right) = \\left(4\\right)^6\\left(5\\right)^6\\left(\\frac{3}{4}\\right) = (2)^{10}(5)^6(3),$$which is divisible by $(2)^6(5)^6=10^6$, so the answer is indeed $\\boxed{7}$."
+  },
+  "143": {
+    "kind": "boxed_math",
+    "reference_solution": "We see that $(x + y)^2 = (x^2 + y^2) + 2xy = 1$. We want to find $x^2 + y^2$ and are given $xy = -4$. So, $x^2 + y^2 + 2xy = x^2 + y^2 + 2(-4) = 1$. It follows that $x^2 + y^2 = \\boxed 9$."
+  },
+  "144": {
+    "kind": "boxed_math",
+    "reference_solution": "We have $f(3) = 2(3^2) - 4\\cdot 3 + 9 = 18 - 12 + 9 = 15$ and $f(-3) = 2(-3)^2 - 4(-3) + 9 = 18 +12+9 = 39$. So, we have $2f(3)+3f(-3) = 2(15) + 3(39) = 30 + 117 = \\boxed{147}$."
+  },
+  "145": {
+    "kind": "boxed_math",
+    "reference_solution": "Substituting, $h(2) = f(g(2))$. Now, $$g(2) = \\sqrt{f(2)} - 2 = \\sqrt{2 \\cdot 2 + 5} - 2 = 3 - 2 = 1.$$ Thus, $$h(2) = f(g(2)) = f(1) = 2 \\cdot 1 + 5 = \\boxed{7}.$$"
+  },
+  "146": {
+    "kind": "boxed_math",
+    "reference_solution": "Each game played removes one team from the tournament.  Since we seek to remove 16 teams from the tournament, we must play $\\boxed{16}$ games."
+  },
+  "147": {
+    "kind": "boxed_math",
+    "reference_solution": "Let $P_n$ represent the probability that the bug is at its starting vertex after $n$ moves. If the bug is on its starting vertex after $n$ moves, then it must be not on its starting vertex after $n-1$ moves. At this point it has $\\frac{1}{2}$ chance of reaching the starting vertex in the next move. Thus $P_n=\\frac{1}{2}(1-P_{n-1})$. $P_0=1$, so now we can build it up:\n$P_1=0$, $P_2=\\frac{1}{2}$, $P_3=\\frac{1}{4}$, $P_4=\\frac{3}{8}$, $P_5=\\frac{5}{16}$, $P_6=\\frac{11}{32}$, $P_7=\\frac{21}{64}$, $P_8=\\frac{43}{128}$, $P_9=\\frac{85}{256}$, $P_{10}=\\frac{171}{512}$,\nThus the answer is $171+512=\\boxed{683}$"
+  },
+  "148": {
+    "kind": "boxed_math",
+    "reference_solution": "${9!}/{8!} = \\dfrac{9 \\times 8 \\times 7 \\times 6 \\times \\cdots \\times 1}{8 \\times 7 \\times 6 \\times \\cdots \\times 1} = \\boxed{9}$."
+  },
+  "149": {
+    "kind": "boxed_math",
+    "reference_solution": "There are two O's and five total letters, so the answer is $\\dfrac{5!}{2!} = \\boxed{60}$."
+  },
+  "150": {
+    "kind": "boxed_math",
+    "reference_solution": "There are $\\binom{10}{1}=10$ ways for Alex to choose which kind of lunch meat to put on his sandwich, and there are $\\binom{9}{2}=36$ ways for Alex to choose which kinds of cheese to put on his sandwich. The total number of different sandwiches Alex can make is $10\\cdot 36=\\boxed{360}$."
+  },
+  "151": {
+    "kind": "boxed_math",
+    "reference_solution": "First we arrange the 2 groups of books; there are $2!$ ways in which we can do this.  Then we can arrange the 3 math books in $3!$ ways and the 5 English books in $5!$ ways.  Therefore, there are $2! \\times 3! \\times 5!=\\boxed{1440}$ ways to arrange the books."
+  },
+  "152": {
+    "kind": "boxed_math",
+    "reference_solution": "The first four-digit multiple of 3 is 1002, which is $3\\times 334$.  The last is 9999, which is $3\\times 3333$.  From 334 to 3333, inclusive, there are $3333-334+1 = 3000$ positive integers.  So, there are $\\boxed{3000}$ positive integers that are multiples of 3.  Notice that this happens to equal $9000/3$.  Is this a coincidence?  (Beware of always using this reasoning!  What if we asked for the number of multiples of 7?)"
+  },
+  "153": {
+    "kind": "boxed_math",
+    "reference_solution": "The point $(x,y)$ satisfies $x < y$ if and only if it belongs to the shaded triangle bounded by the lines $x=y$, $y=1$, and $x=0$, the area of which is 1/2. The ratio of the area of the triangle to the area of the  rectangle is $\\frac{1/2}{4} = \\boxed{\\frac{1}{8}}$.\n\n[asy]\ndraw((-1,0)--(5,0),Arrow);\ndraw((0,-1)--(0,2),Arrow);\nfor (int i=1; i<5; ++i) {\ndraw((i,-0.3)--(i,0.3));\n}\nfill((0,0)--(0,1)--(1,1)--cycle,gray(0.7));\ndraw((-0.3,1)--(0.3,1));\ndraw((4,0)--(4,1)--(0,1),linewidth(0.7));\ndraw((-0.5,-0.5)--(1.8,1.8),dashed);\n[/asy]"
+  },
+  "154": {
+    "kind": "boxed_math",
+    "reference_solution": "$\\dbinom{16}{5}=\\dfrac{16\\times 15\\times 14\\times 13\\times 12}{5\\times 4\\times 3\\times 2\\times 1}=\\boxed{4368}.$"
+  },
+  "155": {
+    "kind": "boxed_math",
+    "reference_solution": "From Pascal's identity $\\binom{n-1}{k-1}+\\binom{n-1}{k}=\\binom{n}{k}$.\n\nTherefore, we have $\\binom{26}{13}+\\binom{26}{14}=\\binom{27}{14}$, so $n=14$.\n\nWe know that $\\binom{27}{14}=\\binom{27}{27-14}=\\binom{27}{13}$.\n\nWe use Pascal's identity again to get $\\binom{26}{13}+\\binom{26}{12}=\\binom{27}{13}$, so $n=12$.\n\nThere are two values for $n$, $12$ and $14$, so the sum is $12+14=\\boxed{26}$."
+  },
+  "156": {
+    "kind": "boxed_math",
+    "reference_solution": "The probability is $\\dfrac{4}{52} \\times \\dfrac{4}{51} \\times \\dfrac{4}{50} = \\boxed{\\frac{8}{16575}}$."
+  },
+  "157": {
+    "kind": "boxed_math",
+    "reference_solution": "The longest side cannot be greater than 3, since otherwise the remaining two sides would not be long enough to form a triangle. The only possible triangles have side lengths $1$--$3$--$3$ or $2$--$2$--$3$. Hence the answer is $\\boxed{2}.$"
+  },
+  "158": {
+    "kind": "boxed_math",
+    "reference_solution": "We can use Pascal's identity $\\binom{n-1}{k-1}+\\binom{n-1}{k}=\\binom{n}{k}$ to find $\\binom{24}{4}$ and $\\binom{24}{5}$.\n\n$$\\binom{24}{4}=\\binom{23}{3}+\\binom{23}{4}=1771+8855=10626$$ $$\\binom{24}{5}=\\binom{23}{4}+\\binom{23}{5}=8855+33649=42504$$\n\nNow that we have $\\binom{24}{4}$ and $\\binom{24}{5}$, we can use Pascal's identity again to find $\\binom{25}{5}$.\n\n$$\\binom{25}{5}=\\binom{24}{4}+\\binom{24}{5}=10626+42504=\\boxed{53130}$$"
+  },
+  "159": {
+    "kind": "boxed_math",
+    "reference_solution": "There's a $\\dfrac{1}{3}$ chance that I will select each team. Once I have selected a team, let $n$ be the number of students on that team. There are $\\dbinom{n}{2}$ ways to choose a pair of those students to give books to, but only one of those pairs will be the two co-captains, which means that once I have selected that team, the probability that I give books to the co-captains is $$\\dfrac{1}{\\dfrac{n(n-1)}{2}}=\\dfrac{2}{n(n-1)}.$$Since the teams have $5,$ $7,$ and $8$ students, this means that the total probability is $$\\dfrac{1}{3}\\left(\\dfrac{2}{5(5-1)}+\\dfrac{2}{7(7-1)}+\\dfrac{2}{8(8-1)}\\right)$$which after a bit of arithmetic simplifies to $\\boxed{\\dfrac{11}{180}}$."
+  },
+  "160": {
+    "kind": "boxed_math",
+    "reference_solution": "The region that the point $(x,y,z)$ can lie in is a cube with side length 2.  It has total volume of $2^3=8$.  The region of points that satisfy $x^2+y^2+z^2\\le 1$ corresponds to a unit sphere centered at the origin.  The volume of this sphere is $\\frac{4\\pi}{3}\\cdot 1^3=\\frac{4\\pi}{3}$.  This sphere lies completely inside, and is tangent to, the cube.  The probability that a point randomly selected from the cube will lie inside this sphere is equal to $\\frac{\\frac{4\\pi}{3}}{8}=\\boxed{\\frac{\\pi}{6}}$."
+  },
+  "161": {
+    "kind": "boxed_math",
+    "reference_solution": "We have two cases because if the first card is a King, it could be a $\\heartsuit$ or not be a $\\heartsuit$.\n\nThere is a $\\dfrac{1}{52}$ chance that the King of $\\heartsuit$ is drawn first, and a $\\dfrac{12}{51} = \\dfrac{4}{17}$ chance that the second card drawn is one of the twelve remaining $\\heartsuit$, which gives a probability of $\\dfrac{1}{52} \\times \\dfrac{4}{17} = \\dfrac{1}{221}$ chance that this occurs.\n\nThere is a $\\dfrac{3}{52}$ chance that a non-$\\heartsuit$ King is drawn first, and a $\\dfrac{13}{51}$ chance that a $\\heartsuit$ is drawn second, giving a $\\dfrac{3}{52} \\times \\dfrac{13}{51} = \\dfrac{1}{68}$ chance that this occurs.\n\nSo the probability that one of these two cases happens is $\\dfrac{1}{221} + \\dfrac{1}{68} = \\boxed{\\dfrac{1}{52}}$."
+  },
+  "162": {
+    "kind": "boxed_math",
+    "reference_solution": "Because there are 6 choices of toppings, and each pizza must have 4 of them, there are ${6 \\choose 4} = \\boxed{15}$ four-topping pizzas."
+  },
+  "163": {
+    "kind": "boxed_math",
+    "reference_solution": "In all cases, at least half of John's kids will be boys or at least half will be girls.  Furthermore, since John has an odd number of children, these conditions are mutually exclusive--that is, they are never true at the same time.  Since a boy is equally likely to be born as is a girl, our answer is therefore $\\boxed{\\frac{1}{2}}$."
+  },
+  "164": {
+    "kind": "boxed_math",
+    "reference_solution": "Let $Q$ be the foot of the altitude from $A$ to $BC$.  Then triangles $AQD$ and $GPD$ are similar.  Furthermore, \\[\\frac{GP}{AQ} = \\frac{GD}{AD} = \\frac{1}{3},\\]so to find $GP$, we can find $AQ$.\n\n[asy]\nunitsize(0.3 cm);\n\npair A, B, C, D, E, F, G, P, Q;\n\nA = (44/5,33/5);\nB = (0,0);\nC = (20,0);\nD = (B + C)/2;\nE = (C + A)/2;\nF = (A + B)/2;\nG = (A + B + C)/3;\nP = (G + reflect(B,C)*(G))/2;\nQ = (A + reflect(B,C)*(A))/2;\n\ndraw(A--B--C--cycle);\ndraw(A--D);\ndraw(B--E);\ndraw(C--F);\ndraw(G--P);\ndraw(A--Q);\n\nlabel(\"$A$\", A, dir(90));\nlabel(\"$B$\", B, SW);\nlabel(\"$C$\", C, SE);\nlabel(\"$D$\", D, SE);\nlabel(\"$E$\", E, NE);\nlabel(\"$F$\", F, NW);\nlabel(\"$G$\", G, NE);\nlabel(\"$P$\", P, S);\nlabel(\"$Q$\", Q, SSW);\n[/asy]\n\nThe semi-perimeter of the triangle is $(11 + 13 + 20)/2 = 22$, so by Heron's formula, the area of triangle $ABC$ is $$\\sqrt{22(22 - 11)(22 - 13)(22 - 20)} = 66.$$Hence, the height of triangle $ABC$ with respect to base $BC$ is $AQ = 2 \\cdot 66/BC = 2 \\cdot 66/20 = 33/5$.  Therefore, $GP = AQ/3 = (33/5)/3 = \\boxed{\\frac{11}{5}}$."
+  },
+  "165": {
+    "kind": "boxed_math",
+    "reference_solution": "Since the volume of a pyramid is linear in each of length, width, and height (in particular, $V = \\frac{1}{3} lwh$), multiplying any of these dimensions by a scalar multiplies the volume by the same scalar.  So the new volume is $2\\cdot 3\\cdot 1.50 = 9$ times the old one, or $\\boxed{360}$ cubic inches."
+  },
+  "166": {
+    "kind": "boxed_math",
+    "reference_solution": "After sketching, it is clear a $90^{\\circ}$ rotation is done about $(x,y)$. Looking between $A$ and $A'$, $x+y=18$ and $x-y=24$. Solving gives $(x,y)\\implies(21,-3)$. Thus $90+21-3=\\boxed{108}$."
+  },
+  "167": {
+    "kind": "boxed_math",
+    "reference_solution": "Since $AD$ is an angle bisector, $\\angle BAI = \\angle BAC/2$.  Since $BE$ is an angle bisector, $\\angle ABI = \\angle ABC/2$.  As an angle that is external to triangle $ABI$, $\\angle AIE = \\angle BAI + \\angle ABI = \\angle BAC/2 + \\angle ABC/2$.\n\n[asy]\nimport geometry;\n\nunitsize(0.3 cm);\n\npair A, B, C, D, E, F, I;\n\nA = (2,12);\nB = (0,0);\nC = (14,0);\nI = incenter(A,B,C);\nD = extension(A,I,B,C);\nE = extension(B,I,C,A);\nF = extension(C,I,A,B);\n\ndraw(A--B--C--cycle);\ndraw(A--D);\ndraw(B--E);\ndraw(C--F);\n\nlabel(\"$A$\", A, N);\nlabel(\"$B$\", B, SW);\nlabel(\"$C$\", C, SE);\nlabel(\"$D$\", D, S);\nlabel(\"$E$\", E, NE);\nlabel(\"$F$\", F, NW);\nlabel(\"$I$\", I, NNE);\n[/asy]\n\nSince $\\angle ACB = 38^\\circ$, \\[\\angle AIE = \\frac{\\angle BAC + \\angle ABC}{2} = \\frac{180^\\circ - \\angle ACB}{2} = \\frac{180^\\circ - 38^\\circ}{2} = \\boxed{71^\\circ}.\\]"
+  },
+  "168": {
+    "kind": "boxed_math",
+    "reference_solution": "Let the sides of the pentagon be $a,$ $b,$ $c,$ $d$ and $e,$ and let $r$ and $s$ be the legs of the triangular region cut off, as shown.[asy]\nsize(6cm);\npair A=(0,0),B=(0,5),C=(8,5),D=(8,0),E=(8,2),F=(5.5,5);\ndraw(A--B--C--D--A^^E--F);\nlabel(\"$c$\",A--B,W);\nlabel(\"$d$\",B--F,N);\nlabel(\"$e$\",E--F,SW);\nlabel(\"$a$\",E--D,dir(0));\nlabel(\"$b$\",D--A,S);\nlabel(\"$r$\",F--C,N);\nlabel(\"$s$\",C--E,dir(0));\n[/asy] By the Pythagorean theorem, $r^2+s^2=e^2.$ Furthermore, we have $r=b-d$ and $s=c-a,$ which are integers because $a,b,c,$ and $d$ are integers. Thus, $e$ must be the hypotenuse of some Pythagorean triple. The possibilities for that triple are $$\\{5,12,13\\},\\quad\\{12,16,20\\},\\quad\\{15,20,25\\},\\quad\\{7,24,25\\}.$$Also, the leg lengths $r=b-d$ and $s=c-a$ must be among the pairwise differences of the given numbers. Since $16,$ $15$ and $24$ do not appear among any of the pairwise differences of $\\{13,19,20,25,31\\},$ the only possible triple is $\\{5,12,13\\}.$ Then we may take $r=b-d=5$ and $s=c-a=12,$ and this forces $a=19,$ $b=25,$ $c=31,$ $d=20$ and $e=13.$ Hence, the area of the pentagon is $$bc - \\frac12 rs = 31 \\cdot 25 -\\frac 12(12\\cdot 5)= 775-30=\\boxed{745}.$$"
+  },
+  "169": {
+    "kind": "boxed_math",
+    "reference_solution": "Suppose there are $n$ squares in every column of the grid, so there are $\\frac{52}{24}n = \\frac {13}6n$ squares in every row. Then $6|n$, and our goal is to maximize the value of $n$.\nEach vertical fence has length $24$, and there are $\\frac{13}{6}n - 1$ vertical fences; each horizontal fence has length $52$, and there are $n-1$ such fences. Then the total length of the internal fencing is $24\\left(\\frac{13n}{6}-1\\right) + 52(n-1) = 104n - 76 \\le 1994 \\Longrightarrow n \\le \\frac{1035}{52} \\approx 19.9$, so $n \\le 19$. The largest multiple of $6$ that is $\\le 19$ is $n = 18$, which we can easily verify works, and the answer is $\\frac{13}{6}n^2 = \\boxed{702}$."
+  },
+  "170": {
+    "kind": "boxed_math",
+    "reference_solution": "We begin by drawing a diagram: [asy]\npair A,B,C,D,X,Y,H;\nA=(-12,12*sqrt(3)); D=(0,0); C=(12,12*sqrt(3)); B=(0,5+12*sqrt(3)); X=(B+C)/2; Y=(A+D)/2; H=(A+C)/2;\ndraw(A--B--C--D--cycle); draw(X--Y);\n\nlabel(\"$A$\",A,W); label(\"$B$\",B,N); label(\"$C$\",C,E); label(\"$D$\",D,S); label(\"$X$\",X,NE); label(\"$Y$\",Y,SW);\n\nlabel(\"$24$\",D--C,SE); label(\"$13$\",A--B,NW); label(\"$60^\\circ$\",(0,4)); draw(B--D,heavycyan); draw(A--C,heavycyan); label(\"$H$\",H,NW);\n[/asy] We draw diagonals $\\overline{AC}$ and $\\overline{BD}$ and let the intersection point be $H$.  Since $\\angle ADC=60^\\circ$ and $AD=CD$, $\\triangle ACD$ is equilateral, so $AC=24$.  Since $ABCD$ has two pairs of equal sides, it is a kite, and so its diagonals are perpendicular and $\\overline{BD}$ bisects $\\overline{AC}$.  Thus, \\[AH=HC=24/2=12.\\]Applying the Pythagorean Theorem on $\\triangle BHC$ and $\\triangle CHD$ gives \\[BH=\\sqrt{BC^2-HC^2}=\\sqrt{13^2-12^2}=5\\]and \\[HD=\\sqrt{CD^2-HC^2}=\\sqrt{24^2-12^2}=12\\sqrt{3}.\\][asy]\nsize(180);\npair A,B,C,D,X,Y,H;\nA=(-12,12*sqrt(3)); D=(0,0); C=(12,12*sqrt(3)); B=(0,5+12*sqrt(3)); X=(B+C)/2; Y=(A+D)/2; H=(A+C)/2;\ndraw(A--B--C--D--cycle); draw(X--Y);\n\nlabel(\"$A$\",A,W); label(\"$B$\",B,N); label(\"$C$\",C,E); label(\"$D$\",D,S); label(\"$X$\",X,NE); label(\"$Y$\",Y,SW);\n\ndraw(B--D,heavycyan); draw(A--C,heavycyan); label(\"$H$\",H,NW);\npair W; W = (C+D)/2; draw(X--W--Y,dashed); label(\"$Y'$\",W,SE);\ndraw(rightanglemark(B,H,C,20),heavycyan);\n[/asy]\n\n\nLet $Y'$ be the midpoint of $\\overline{CD}$.  We look at triangle $BCD$.  Since segment $\\overline{XY'}$ connects midpoints $X$ and $Y'$, it is parallel to $\\overline{BD}$ and has half the length of $\\overline{BD}$.  Thus, \\[XY' = \\frac{1}{2}(BH+HD)=\\frac{1}{2}(5+12\\sqrt{3}).\\]Now, we look at triangle $ACD$.  Similarly, since $Y$ and $Y'$ are midpoints, $\\overline{YY'}$ is parallel to $\\overline{AC}$ and has half the length of $\\overline{AC}$, so \\[YY' = 24/2=12.\\]Since $\\overline{BD} \\perp \\overline{AC}$, we have $\\overline{XY'}\\perp \\overline{YY'}$, so $\\angle XY'Y=90^\\circ$.  Finally, we use the Pythagorean theorem on $\\triangle XY'Y$ to compute \\begin{align*}\nXY^2=YY'^2+XY'^2&=12^2+\\left(\\frac{1}{2}(5+12\\sqrt{3})\\right)^2\\\\\n&=144+\\frac{1}{4}(25+120\\sqrt{3}+144\\cdot 3) \\\\\n&= \\boxed{\\frac{1033}{4}+30\\sqrt{3}}. \\end{align*}"
+  },
+  "171": {
+    "kind": "boxed_math",
+    "reference_solution": "The total length of Bonnie's wire is $12\\cdot6=72$ inches, while her total volume is $6^3=216$ cubic inches. Each of Roark's unit cubes has volume $1$ cubic inch, so he needs $216$ cubes.\n\nSince each cube has $12$ edges, each of Roark's cubes has $12\\cdot1=12$ inches of wire. So his $216$ cubes have a total of $216\\cdot12$ inches of wire.\n\nSo the desired fraction is $\\dfrac{72}{216\\cdot12}=\\dfrac{6}{216}=\\boxed{\\dfrac{1}{36}}$."
+  },
+  "172": {
+    "kind": "boxed_math",
+    "reference_solution": "Amy's cylinder has a height of 8 and a base circumference of 6.  Let her cylinder have volume $V_A$ and radius $r_A$; we have $2\\pi r_A = 6$ so $r_A = 3/\\pi$ and $V_A = \\pi r_A ^2 h = \\pi (3/\\pi)^2 (8) = 72/\\pi$.\n\nBelinda's cylinder has a height of 6 and a base circumference of 8.  Similarly, let her cylinder have volume $V_B$ and radius $r_B$; we have $2\\pi r_B = 8$ so $r_B = 4/\\pi$ and $V_B = \\pi r_B^2 h = \\pi (4/\\pi)^2 (6) = 96/\\pi$.\n\nThe positive difference between the volume of the two tubes is $96/\\pi - 72/\\pi = 24/\\pi$ cubic inches; $\\pi$ times this difference is $\\boxed{24}$ cubic inches."
+  },
+  "173": {
+    "kind": "boxed_math",
+    "reference_solution": "Let the circle intersect $\\overline{PM}$ at $B$. Then note $\\triangle OPB$ and $\\triangle MPA$ are similar. Also note that $AM = BM$ by power of a point. Using the fact that the ratio of corresponding sides in similar triangles is equal to the ratio of their perimeters, we have\\[\\frac{19}{AM} = \\frac{152-2AM-19+19}{152} = \\frac{152-2AM}{152}\\]Solving, $AM = 38$. So the ratio of the side lengths of the triangles is 2. Therefore,\\[\\frac{PB+38}{OP}= 2 \\text{ and } \\frac{OP+19}{PB} = 2\\]so $2OP = PB+38$ and $2PB = OP+19.$ Substituting for $PB$, we see that $4OP-76 = OP+19$, so $OP = \\frac{95}3$ and the answer is $\\boxed{98}$."
+  },
+  "174": {
+    "kind": "boxed_math",
+    "reference_solution": "Let $K_A=[BOC], K_B=[COA],$ and $K_C=[AOB].$ Due to triangles $BOC$ and $ABC$ having the same base,\\[\\frac{AO}{OA'}+1=\\frac{AA'}{OA'}=\\frac{[ABC]}{[BOC]}=\\frac{K_A+K_B+K_C}{K_A}.\\]Therefore, we have\\[\\frac{AO}{OA'}=\\frac{K_B+K_C}{K_A}\\]\\[\\frac{BO}{OB'}=\\frac{K_A+K_C}{K_B}\\]\\[\\frac{CO}{OC'}=\\frac{K_A+K_B}{K_C}.\\]Thus, we are given\\[\\frac{K_B+K_C}{K_A}+\\frac{K_A+K_C}{K_B}+\\frac{K_A+K_B}{K_C}=92.\\]Combining and expanding gives\\[\\frac{K_A^2K_B+K_AK_B^2+K_A^2K_C+K_AK_C^2+K_B^2K_C+K_BK_C^2}{K_AK_BK_C}=92.\\]We desire $\\frac{(K_B+K_C)(K_C+K_A)(K_A+K_B)}{K_AK_BK_C}.$ Expanding this gives\\[\\frac{K_A^2K_B+K_AK_B^2+K_A^2K_C+K_AK_C^2+K_B^2K_C+K_BK_C^2}{K_AK_BK_C}+2=\\boxed{94}.\\]"
+  },
+  "175": {
+    "kind": "boxed_math",
+    "reference_solution": "By the transversals that go through $P$, all four triangles are similar to each other by the $AA$ postulate. Also, note that the length of any one side of the larger triangle is equal to the sum of the sides of each of the corresponding sides on the smaller triangles. We use the identity $K = \\dfrac{ab\\sin C}{2}$ to show that the areas are proportional (the sides are proportional and the angles are equal) Hence, we can write the lengths of corresponding sides of the triangle as $2x,\\ 3x,\\ 7x$. Thus, the corresponding side on the large triangle is $12x$, and the area of the triangle is $12^2 = \\boxed{144}$."
+  },
+  "176": {
+    "kind": "boxed_math",
+    "reference_solution": "The first jar has a volume of $V=\\pi r^2h=\\pi(\\frac{3}{2})^24=9\\pi$. The second jar has a volume of $V=\\pi r^2h=\\pi(\\frac{6}{2})^26=54\\pi$. Note that the volume of the second jar is 6 times greater than that of the first jar. Because peanut butter is sold by volume, the second jar will be six times more expensive than the first jar, for an answer of $\\$0.60\\times6=\\boxed{\\$3.60}$."
+  },
+  "177": {
+    "kind": "boxed_math",
+    "reference_solution": "The surface area of a cube equals 6 times the area of each face (since there are 6 faces). If the cube has a sidelength of $s$, then the surface area equals $6s^2$. We set that equal to 600 and solve for $s$, which must be positive. $$600=6s^2\\qquad\\Rightarrow 100=s^2\\qquad\\Rightarrow 10=s$$ The volume of the cube is $s^3=10^3=\\boxed{1000}$ cubic units."
+  },
+  "178": {
+    "kind": "boxed_math",
+    "reference_solution": "The two bases are circles, and the area of a circle is $\\pi r^2$. If the area of the upper base (which is also the base of the small cone) is $25\\pi$ sq cm, then its radius is $5$ cm, and the radius of the lower base is $15$ cm.   The upper base, therefore, has a radius that is $\\frac{1}{3}$ the size of the radius of the smaller base.  Because the slope of the sides of a cone is uniform, the frustum must have been cut off $\\frac{2}{3}$ of the way up the cone, so $x$ is $\\frac13$ of the total height of the cone, $H$.  We can now solve for $x$, because we know that the height of the frustum, $24$ cm is $\\frac23$ of the total height. \\begin{align*}\n\\frac{2}{3}H&=24\\\\\nH&=36\\\\\nx&=H\\times\\frac{1}{3}\\\\\nx&=36\\times\\frac{1}{3}\\\\\nx&=12\n\\end{align*} Therefore, the height of the small cone is $\\boxed{12}$ centimeters."
+  },
+  "179": {
+    "kind": "boxed_math",
+    "reference_solution": "Let the triangle have vertices $A$, $B$, and $C$, let $O$ be the center of the circle, and let $D$ be the midpoint of $\n\\overline{BC}$. Triangle $COD$ is a $30 - 60 - 90$ degree triangle. If $r$ is the radius of the circle, then the sides of $\\triangle COD$ are $r$, $\\frac{r}{2}$, and $\\frac{r\\sqrt{3}}{2}$. The perimeter of $\\triangle ABC$ is $6\\displaystyle\\left(\\frac{r \\sqrt{3}}{2}\\displaystyle\\right)=3r\\sqrt{3}$, and the area of the circle is $\\pi r^{2}$. Thus $3r\\sqrt{3} = \\pi r^{2}$, and $r =\n\\boxed{\\frac{3\\sqrt{3}}{\\pi}}$.\n\n[asy]\npair A,B,C,D,O;\nO=(0,0);\nA=(0,1);\nB=(0.87,-0.5);\nC=(-0.87,-0.5);\nD=(0,-0.5);\ndraw(Circle(O,1),linewidth(0.7));\ndraw(C--O--D--cycle,linewidth(0.7));\ndraw(A--B--C--cycle,linewidth(0.7));\nlabel(\"$\\frac{r}{2}$\",(0,-0.25),E);\nlabel(\"$\\frac{r \\sqrt{3}}{2}$\",(-0.43,-0.5),S);\nlabel(\"$r$\",(-0.43,-0.25),NW);\nlabel(\"$O$\",O,N);\nlabel(\"$A$\",A,N);\nlabel(\"$B$\",B,SE);\nlabel(\"$C$\",C,SW);\nlabel(\"$D$\",D,S);\n[/asy]"
+  },
+  "180": {
+    "kind": "boxed_math",
+    "reference_solution": "Triangle $ACD$ is an isosceles triangle with a $60^\\circ$ angle, so it is also equilateral. Therefore, the length of $\\overline{AC}$ is $\\boxed{17}$."
+  },
+  "181": {
+    "kind": "boxed_math",
+    "reference_solution": "The snow on Khalil's sidewalk is in the shape of a rectangular prism whose dimensions are 20 feet by 2 feet by $\\frac{1}{2}$ feet.  The volume of such a rectangular prism is $(20\\text{ ft.})(2\\text{ ft.})\\left(\\frac{1}{2}\\text{ ft.}\\right)=\\boxed{20}$ cubic feet."
+  },
+  "182": {
+    "kind": "boxed_math",
+    "reference_solution": "We know that $a_n + a_{n + 1} + a_{n + 2} = n$ and $a_{n - 1} + a_n + a_{n + 1} = n - 1.$  Subtracting these equations, we get\n\\[a_{n + 2} - a_{n - 1} = 1,\\]so $a_{n + 2} = a_{n - 1} + 1.$\n\nHence, the terms\n\\[a_1 = 2007, \\ a_4, \\ a_7, \\ a_{10}, \\ \\dots, \\ a_{1000}\\]form an arithmetic sequence with common difference 1.  The common difference of 1 is added $\\frac{1000 - 1}{3} = 333$ times, so $a_{1000} = 2007 + 333 = \\boxed{2340}.$"
+  },
+  "183": {
+    "kind": "boxed_math",
+    "reference_solution": "Squaring the equation $x + y = 2,$ we get $x^2 + 2xy + y^2 = 4.$  Also, $4xy - 4z^2 = 4,$ so\n\\[x^2 + 2xy + y^2 = 4xy - 4z^2.\\]Then $x^2 - 2xy + y^2 + 4z^2 = 0,$ which we write as\n\\[(x - y)^2 + 4z^2 = 0.\\]For this equation to hold, we must have $x = y$ and $z = 0,$ and if $x = y,$ then $x = y = 1.$\n\nTherefore, there is only $\\boxed{1}$ solution, namely $(x,y,z) = (1,1,0).$"
+  },
+  "184": {
+    "kind": "boxed_math",
+    "reference_solution": "Let\n\\[f(x) = a_n x^n + a_{n - 1} x^{n - 1} + \\dots + a_1 x + a_0.\\]Then from the given information,\n\\begin{align*}\na_n \\cdot 6^n + a_{n - 1} \\cdot 6^{n - 1} + \\dots + a_1 \\cdot 6 + a_0 &= 24, \\\\\na_n \\cdot 24^n + a_{n - 1} \\cdot 24^{n - 1} + \\dots + a_1 \\cdot 24 + a_0 &= 1536.\n\\end{align*}Then by Cauchy-Schwarz,\n\\begin{align*}\n&(a_n \\cdot 6^n + a_{n - 1} \\cdot 6^{n - 1} + \\dots + a_1 \\cdot 6 + a_0)(a_n \\cdot 24^n + a_{n - 1} \\cdot 24^{n - 1} + \\dots + a_1 \\cdot 24 + a_0) \\\\\n&\\ge (a_n \\cdot 12^n + a_{n - 1} \\cdot 12^{n - 1} + \\dots + a_1 \\cdot 12 + a_0)^2.\n\\end{align*}In other words, $[f(12)]^2 \\le 24 \\cdot 1536 = 36864,$ so $f(12) \\le 192.$\n\nEquality occurs for $f(x) = \\frac{x^3}{9},$ so the maximum value is $\\boxed{192}.$"
+  },
+  "185": {
+    "kind": "boxed_math",
+    "reference_solution": "Because the coefficients of the polynomial are rational, the radical conjugate of $5-\\sqrt{2},$ which is $5+\\sqrt{2},$ must also be a root of the polynomial. By Vieta's formulas, the sum of the roots of this polynomial is $0$; since $(5-\\sqrt2) + (5+\\sqrt2) = 10,$ the third, integer root must be $0 - 10 = \\boxed{-10}.$"
+  },
+  "186": {
+    "kind": "boxed_math",
+    "reference_solution": "From $x + 4y = 4,$ $y = -\\frac{x}{4} + 1.$  Hence, the $x_i$ are the roots of\n\\[x^3 - 3x + 2 = -\\frac{x}{4} + 1.\\]Then by Vieta's formulas, $x_1 + x_2 + x_3 = 0,$ and\n\\[y_1 + y_2 + y_3 = -\\frac{x_1}{4} + 1 - \\frac{x_2}{4} + 1 - \\frac{x_3}{4} + 1 = -\\frac{x_1+x_2+x_3}{4}+3 = 3.\\]Hence, $(A,B) = \\boxed{(0,3)}.$"
+  },
+  "187": {
+    "kind": "boxed_math",
+    "reference_solution": "\\[\n\\begin{array}{c|cc c}\n\\multicolumn{2}{r}{2x} & -7 \\\\\n\\cline{2-4}\nx-5 & 2x^2 &- 17x &+ 47  \\\\\n\\multicolumn{2}{r}{-2x^2} & +10x  \\\\ \n\\cline{2-3}\n\\multicolumn{2}{r}{0} & -7x & +47   \\\\\n\\multicolumn{2}{r}{} &+ 7x  &-35   \\\\ \n\\cline{3-4}\n\\multicolumn{2}{r}{} & 0& 12   \\\\\n\n\\end{array}\n\\]We cannot divide $12$ by $x-5$ since $12$ has lower degree. So the quotient is $2x-7$ and the remainder is $\\boxed{12}$."
+  },
+  "188": {
+    "kind": "boxed_math",
+    "reference_solution": "If $x \\ge 0,$ then $f(|x|) = f(x).$  And if $x < 0,$ then $f(|x|) = f(-x).$  Thus, the graph of $y = |f(x)|$ is obtained by taking the part of the graph of $y = f(x)$ that is to the right of the $y$-axis, and making a copy by reflecting it across the $y$-axis.  The correct graph is $\\boxed{\\text{A}}.$"
+  },
+  "189": {
+    "kind": "boxed_math",
+    "reference_solution": "By QM-AM,\n\\[\\sqrt{\\frac{a^2 + b^2}{2}} \\ge \\frac{a + b}{2}.\\]Since $a^2 + b^2 = c^2,$\n\\[\\frac{c}{\\sqrt{2}} \\ge \\frac{a + b}{2},\\]so\n\\[\\frac{a + b}{c} \\le \\sqrt{2}.\\]Equality occurs when $a = b,$ so the largest possible value is $\\boxed{\\sqrt{2}}.$"
+  },
+  "190": {
+    "kind": "boxed_math",
+    "reference_solution": "More generally, let\n\\[S_n = \\sum_{k = 1}^n (-1)^k \\cdot \\frac{k^2 + k + 1}{k!}\\]for a positive integer $n.$  We can compute the first few values of $S_n$:\n\\[\n\\renewcommand{\\arraystretch}{1.5}\n\\begin{array}{c|c}\nn & S_n \\\\ \\hline\n1 & -3 \\\\\n2 & \\frac{1}{2} \\\\\n3 & -\\frac{5}{3} \\\\\n4 & -\\frac{19}{24} \\\\\n5 & -\\frac{21}{20} \\\\\n6 & -\\frac{713}{720}\n\\end{array}\n\\renewcommand{\\arraystretch}{1}\n\\]First, the denominators seem to be factors of $n!.$  Second, the fractions seem to be getting close to $-1.$  So, we re-write each sum in the form $\\frac{*}{n!} - 1$:\n\\[\n\\renewcommand{\\arraystretch}{1.5}\n\\begin{array}{c|c}\nn & S_n \\\\ \\hline\n1 & \\frac{-2}{1!} - 1 \\\\\n2 & \\frac{3}{2!} - 1 \\\\\n3 & \\frac{-4}{3!} - 1 \\\\\n4 & \\frac{5}{4!} - 1 \\\\\n5 & \\frac{-6}{5!} - 1 \\\\\n6 & \\frac{7}{6!} - 1 \\\\\n\\end{array}\n\\renewcommand{\\arraystretch}{1}\n\\]Now the pattern is very clear: It appears that\n\\[S_n = (-1)^n \\cdot \\frac{n + 1}{n!} - 1.\\]So, set $T_n = (-1)^n \\cdot \\frac{n + 1}{n!} - 1.$  Since we expect the sum to telescope, we can compute the difference $T_k - T_{k - 1}$:\n\\begin{align*}\nT_k - T_{k - 1} &= (-1)^k \\cdot \\frac{k + 1}{k!} - 1 - (-1)^{k - 1} \\cdot \\frac{k}{(k - 1)!} + 1 \\\\\n&= (-1)^k \\cdot \\frac{k + 1}{k!} + (-1)^k \\cdot \\frac{k}{(k - 1)!} \\\\\n&= (-1)^k \\cdot \\frac{k + 1}{k!} + (-1)^k \\cdot \\frac{k^2}{k!} \\\\\n&= (-1)^k \\cdot \\frac{k^2 + k + 1}{k!}.\n\\end{align*}Thus, indeed the sum telescopes, which verifies our formula\n\\[S_n = (-1)^n \\cdot \\frac{n + 1}{n!} - 1.\\]In particular,\n\\[S_{100} = \\frac{101}{100!} - 1.\\]Then $a = 101,$ $b = 100,$ and $c = 1,$ so $a + b + c = \\boxed{202}.$"
+  },
+  "191": {
+    "kind": "boxed_math",
+    "reference_solution": "Let $n$ be the degree of $p(x).$  Then the degree of $p(p(x))$ is $n^2,$ and the degree of $xp(x)$ is $n + 1.$\n\nIf $n \\ge 2,$ then the degree of $xp(x) + x^2$ is $n + 1,$ which is strictly less than $n^2.$  Also, $p(x)$ clearly cannot be a constant polynomial, so the degree of $p(x)$ is $n = 1.$\n\nLet $p(x) = ax + b.$  Then\n\\[p(p(x)) = p(ax + b) = a(ax + b) + b = a^2 x + ab + b,\\]and\n\\[xp(x) + x^2 = x(ax + b) + x^2 = (a + 1) x^2 + bx.\\]Equating coefficients, we get $a + 1 = 0,$ $a^2 = b,$ and $ab + b = 0.$  Then $a = -1$ and $b = 1,$ so $p(x) = \\boxed{-x + 1}.$"
+  },
+  "192": {
+    "kind": "boxed_math",
+    "reference_solution": "Setting $a = b = 0,$ we get\n\\[2f(0) = f(0)^2 + 1.\\]Then $f(0)^2 - 2f(0) + 1 = (f(0) - 1)^ 2 = 0,$ so $f(0) = 1.$\n\nSetting $a = 1$ and $b = -1,$ we get\n\\[f(0) + f(-1) = f(1) f(-1) + 1,\\]so $f(-1) (f(1) - 1) = 0.$  This means either $f(-1) = 0$ or $f(1) = 1.$\n\nFirst, we look at the case where $f(1) = 1.$  Setting $b = 1,$ we get\n\\[f(a + 1) + f(a) = f(a) + 1,\\]so $f(a + 1) = 1.$  This means $f(n) = 1$ for all integers $n.$\n\nNext, we look at the case where $f(-1) = 0.$  Setting $a = b = -1,$ we get\n\\[f(-2) + f(1) = f(-1)^2 + 1 = 1.\\]Setting $a = 1$ and $b = -2,$ we get\n\\[f(-1) + f(-2) = f(1) f(-2) + 1,\\]which simplifies to $f(-2) = f(1) f(-2) + 1.$  Substituting $f(-2) = 1 - f(1),$ we get\n\\[1 - f(1) = f(1) (1 - f(1)) + 1,\\]which simplifies to $f(1)^2 - 2f(1) = f(1) (f(1) - 2) = 0.$  Hence, either $f(1) = 0$ or $f(1) = 2.$\n\nFirst, we look at the case where $f(1) = 0.$  Setting $b = 1,$ we get\n\\[f(a + 1) + f(a) = 1,\\]so $f(a + 1) = 1 - f(a).$  This means $f(n)$ is 1 if $n$ is even, and 0 if $n$ is odd.\n\nNext, we look at the case where $f(1) = 2.$  Setting $b = 1,$ we get\n\\[f(a + 1) + f(a) = 2f(a) + 1,\\]so $f(a + 1) = f(a) + 1.$  Combined with $f(1) = 2,$ this means $f(n) = n + 1$ for all $n.$\n\nThus, there a total of $\\boxed{3}$ functions: $f(n) = 1$ for all $n,$ $f(n) = n + 1$ for all $n,$ and\n\\[f(n) = \\left\\{\n\\begin{array}{cl}\n1 & \\text{if $n$ is even}, \\\\\n0 & \\text{if $n$ is odd}.\n\\end{array}\n\\right.\\]We check that all three functions work."
+  },
+  "193": {
+    "kind": "boxed_math",
+    "reference_solution": "We perform the polynomial division: \\[\n\\begin{array}{c|cc cc}\n\\multicolumn{2}{r}{5x} & +4 \\\\\n\\cline{2-5}\n2x^2-3x+1 & 10x^3&-7x^2&+ax&+6   \\\\\n\\multicolumn{2}{r}{-10x^3} & +15x^2 & -5x \\\\\n\\cline{2-4}\n\\multicolumn{2}{r}{0} & 8x^2 & (a-5)x & 6 \\\\\n\\multicolumn{2}{r}{} & -8x^2 & +12x & -4 \\\\\n\\cline{3-5}\n\\multicolumn{2}{r}{} & 0 & (a-5+12)x & 2 \\\\\n\\end{array}\n\\]The remainder will be constant if and only if $a-5+12=0.$ So $a = \\boxed{-7}.$"
+  },
+  "194": {
+    "kind": "boxed_math",
+    "reference_solution": "By the Integer Root Theorem, the possible integer roots are all the divisors of 15 (including negative divisors), which are $-15,$ $-5,$ $-3,$ $-1,$ $1,$ $3,$ $5,$ and $15.$  Checking, we find that the only integer roots are $\\boxed{-3,1,5}.$"
+  },
+  "195": {
+    "kind": "boxed_math",
+    "reference_solution": "The given equation is not a polynomial equation, so we can't use Vieta's formulas directly. To create a related polynomial equation, we substitute $y = \\sqrt{x},$ or $x = y^2,$ giving \\[y^3 - 6y^2 + 7y - 1 = 0.\\]For each value of $y$ which satisfies this equation, the corresponding value of $x$ which satisfies the original equation is $x = y^2.$ Therefore, we want to find the sum of the squares of the roots of this equation.\n\nTo do this, let $r,$ $s,$ and $t$ denote the roots of this equation. Then by Vieta's formulas, $r+s+t=6$ and $rs+st+tr=7,$ so \\[r^2+s^2+t^2=(r+s+t)^2-2(rs+st+tr) = 6^2 - 2 \\cdot 7 = \\boxed{22}.\\]"
+  },
+  "196": {
+    "kind": "boxed_math",
+    "reference_solution": "We look for integers $a$ and $b$ such that \\[\\sqrt{37-20\\sqrt3} = a-b\\sqrt3.\\]Squaring both sides, we have $37-20\\sqrt3=(a-b\\sqrt3)^2 = (a^2+3b^2) - 2ab\\sqrt3.$ Therefore, we must have \\[\\begin{aligned} a^2+3b^2 &= 37, \\\\ -2ab &= -20. \\end{aligned}\\]The second equation gives $ab=10.$ Trying the factor pairs of $10,$ we find that $(a,b)=(5,2)$ satisfies $a^2+3b^2=37.$ Therefore, $(37-20\\sqrt3)=(5-2\\sqrt3)^2.$ Since $5-2\\sqrt3 \\ge 0,$ it follows that \\[\\sqrt{37-20\\sqrt3} = \\boxed{5-2\\sqrt3}.\\]"
+  },
+  "197": {
+    "kind": "boxed_math",
+    "reference_solution": "We have that\n\\[(x^2 - x + a) p(x) = x^{13} + x + 90\\]for some polynomial $p(x)$ with integer coefficients.\n\nSetting $x = 0,$ we get $ap(0) = 90.$  This means $a$ divides 90.\n\nSetting $x = 1,$ we get $ap(1) = 92.$  This means $a$ divides 92.\n\nSince $a$ divides both 90 and 92, it must divide $92 - 90 = 2.$  Hence, $a$ must be equal to 2, 1, $-1,$ or $-2.$\n\nSetting $x = -1,$ we get $(a + 2) p(-1) = 88.$  This means $a + 2$ divides 88.  Of the four values we listed above, only $a = -1$ and $a = 2$ work.\n\nIf $a = -1,$ then $x^2 - x + a$ becomes $x^2 - x - 1 = 0$.  The roots are\n\\[x = \\frac{1 \\pm \\sqrt{5}}{2}.\\]In particular, one root is positive, and one root is negative.  But $x^{13} + x + 90$ is positive for all positive $x,$ which means that it does not have any positive roots.  Therefore, $a$ cannot be $-1,$ which means $a = \\boxed{2}.$\n\nBy Long Division,\n\\[x^{13} + x + 90 = (x^2 - x + 2)(x^{11} + x^{10} - x^9 - 3x^8 - x^7 + 5x^6 + 7x^5 - 3x^4 - 17x^3 - 11x^2 + 23x + 45).\\]"
+  },
+  "198": {
+    "kind": "boxed_math",
+    "reference_solution": "Note that the equation is a sum of squares equaling $0,$ which is only possible if both squares are zero. That is, we must have \\[\\frac{x^2}{36} = 0 \\quad \\text{ and } \\quad \\frac{(y+5)^2}{16} = 0,\\]which implies that $x=0$ and $y=-5.$ Since $(x,y)=(0,-5)$ satisfies the given equation, it is the only point on the graph of this equation, so the answer is $\\boxed{-5}.$"
+  },
+  "199": {
+    "kind": "boxed_math",
+    "reference_solution": "We can perform long division.  We can also write\n\\begin{align*}\n\\frac{x^5 + 7}{x + 1} &= \\frac{(x^5 + 1) + 6}{x + 1} \\\\\n&= \\frac{x^5 + 1}{x + 1} + \\frac{6}{x + 1} \\\\\n&= x^4 - x^3 + x^2 - x + 1 + \\frac{6}{x - 1}.\n\\end{align*}Thus, the quotient is $\\boxed{x^4 - x^3 + x^2 - x + 1}.$"
+  },
+  "200": {
+    "kind": "boxed_math",
+    "reference_solution": "Taking inspiration from $4^4 \\mid 10^{10}$ we are inspired to take $n$ to be $p^2$, the lowest prime not dividing $210$, or $11 \\implies n = 121$. Now, there are $242$ factors of $11$, so $11^{242} \\mid m^m$, and then $m = 11k$ for $k \\geq 22$. Now, $\\gcd(m+n, 210) = \\gcd(11+k,210) = 1$. Noting $k = 26$ is the minimal that satisfies this, we get $(n,m) = (121,286)$. Thus, it is easy to verify this is minimal and we get $\\boxed{407}$."
+  },
+  "201": {
+    "kind": "boxed_math",
+    "reference_solution": "The total number of books in the warehouse is $1335\\cdot 39$. If Melvin packs $b$ boxes of $40$ books each and has $r$ books left over, then $1335\\cdot 39 = 40b+r$. Thus, what we are looking for is the remainder when $1335\\cdot 39$ is divided by $40$.\n\nWe note that $39\\equiv -1\\pmod{40}$. Therefore, we have \\begin{align*}\n1335\\cdot 39 &\\equiv 1335\\cdot (-1) \\\\\n&\\equiv -1335\\pmod {40}.\n\\end{align*}Now we note that $-1335 = -1400 + 65$, and $-1400$ is a multiple of $40$. Therefore, $-1335 \\equiv 65 \\equiv 25\\pmod{40}$, which implies that the remainder is $\\boxed{25}$ books."
+  },
+  "202": {
+    "kind": "boxed_math",
+    "reference_solution": "We begin by finding the fractional forms of the decimals, $0.\\overline{789}$, $0.\\overline{456}$, and $0.\\overline{123}$. Let $x=0.\\overline{789}$, then $1000x=789.\\overline{789}$ and $1000x-x=789.\\overline{789}-0.789 \\implies 999x - 789$. Therefore, $0.\\overline{789}=\\frac{789}{999}$. We use the same method to find that $0.\\overline{456}=\\frac{456}{999}$ and $0.\\overline{123}=\\frac{123}{999}$.  Next, we perform the indicated operations, knowing that $0.\\overline{789}-0.\\overline{456}-0.\\overline{123}=\\frac{789}{999}-\\frac{456}{999}-\\frac{123}{999}$. This equals $\\frac{210}{999}$, which simplifies to $\\boxed{\\frac{70}{333}}$, when both the numerator and the denominator are divided by $3$."
+  },
+  "203": {
+    "kind": "boxed_math",
+    "reference_solution": "The binary number $b_k b_{k - 1} \\dots b_2 b_1 b_0$ is equal to $2^k b_k + 2^{k - 1} b_{k - 1} + \\dots + 4b_2 + 2b_1 + b_0$, so when this number is divided by 4, the remainder is $2b_1 + b_0$.  Hence, when the number $100101110010_2$ is divided by 4, the remainder is $2 \\cdot 1 + 0 = \\boxed{2}$."
+  },
+  "204": {
+    "kind": "boxed_math",
+    "reference_solution": "Since $23_b = 2b + 3$ and $b > 3$, $23_b$ can be any odd integer greater than $2(3) + 3 = 9$.  We are looking for the next smallest odd perfect square, which is $5^2 = 25$.  Since $2b + 3 = 25$, $b = \\boxed{11}$ is our answer."
+  },
+  "205": {
+    "kind": "boxed_math",
+    "reference_solution": "$$ \\text{gcd}(7560, 8400) = 840 = 2^3 \\cdot 3^1 \\cdot 5^1 \\cdot 7^1 $$The common divisors of 7560 and 8400 are the divisors of their GCD: $$ t(840) = (3+1)(1+1)(1+1)(1+1) = \\boxed{32}. $$"
+  },
+  "206": {
+    "kind": "boxed_math",
+    "reference_solution": "A perfect square that is a multiple of $20 = 2^2 \\cdot 5^1$ must be a multiple of $2^2 \\cdot 5^2 = 100$.  A perfect cube that is a multiple of 20 must be a multiple of $2^3 \\cdot 5^3 = 1000$.  Our goal is thus to count the multiples of 20 from 100 to 1000 inclusive: $$ 100 \\le 20n \\le 1000. $$Dividing this entire inequality by 20 we get $5 \\le n \\le 50$, so there are $50 - 5 + 1 = \\boxed{46}$ integers in Cameron's list."
+  },
+  "207": {
+    "kind": "boxed_math",
+    "reference_solution": "The prime factorization of $27000$ is $2^3\\cdot 3^3\\cdot 5^3.$ These three factors, $2^3,$ $3^3,$ and $5^3$ are pairwise relatively prime, and this is the only possible triple of positive integers satisfying the given conditions. Therefore, the answer is \\[2^3+3^3+5^3=8+27+125=\\boxed{160}.\\]"
+  },
+  "208": {
+    "kind": "boxed_math",
+    "reference_solution": "By the formula for the total number of positive divisors, only natural numbers in the form $p^{2}$ for some prime $p$ have exactly three positive factors. Thus, $x=p_1^2$, $y=p_2^2$, and $z=p_3^2$ for distinct primes $p_1$, $p_2$, $p_3$. Then $x^2y^3z^4=p_1^4\\cdot p_2^6\\cdot p_3^8$, which has $(4+1)(6+1)(8+1)=\\boxed{315}$ positive factors."
+  },
+  "209": {
+    "kind": "boxed_math",
+    "reference_solution": "We will use the Chinese Remainder Theorem as follows: We will compute the remainders when $a_{44}$ is divided by $5$ and $9$. The remainder when $a_{44}$ is divided by 45 will be the residue (mod 45) which leaves the same remainders when divided by 5 and 9 as $a_{44}$ does. Since $a_{44}$ ends in $4$, it gives a remainder of $4$ when divided by $5$.\n\nFor the remainder when $a_{44}$ is divided by 9, note that  \\begin{align*}\na_{44}&=44+43\\cdot 10^2 + 42 \\cdot 10^4+41\\cdot 10^6+\\cdots+10\\cdot10^{68}\\\\\n&\\qquad+9\\cdot 10^{70}+8\\cdot 10^{71}+\\cdots + 1\\cdot 10^{78} \\\\ &\\equiv 44+43+42+\\cdots+1\\pmod{9},\n\\end{align*}since $10^n\\equiv 1^n\\equiv 1\\pmod{9}$ for all nonnegative integers $n$. In words, this calculation shows that we can sum groups of digits in any way we choose to check for divisibility by 9. For example, 1233 is divisible by 9 since $12+33=45$ is divisible by 9. This is a generalization of the rule that a number is divisible by 9 if and only if the sum of its digits is divisible by 9. Getting back to the problem at hand, we sum $44+43+\\cdots+1$ using the formula $1+2+\\cdots+n=n(n+1)/2$ to find that $a_{44}$ is divisible by 9.\n\nWe are looking for a multiple of $9$ that gives a remainder of $4$ when divided by $5$. Nine satisfies this condition, so the remainder when $a_{44}$ is divided by 45 is $\\boxed{9}$."
+  },
+  "210": {
+    "kind": "boxed_math",
+    "reference_solution": "If $2n$ is a perfect square, then $n$ must be divisible by 2. Now if $3n$ is a perfect cube and $n$ is divisible by 2, then $n$ must be divisible by $3^2=9$ and by $2^3=8$. Therefore, the smallest positive integer $n$ such that $2n$ is a perfect square and $3n$ is a perfect cube is $9\\times8=\\boxed{72}$."
+  },
+  "211": {
+    "kind": "boxed_math",
+    "reference_solution": "Since 3 and 4 are relatively prime, the problem amounts to finding the greatest multiple of $3\\cdot4=12$ less than 500. Since $500\\div12=41R8$, our answer is $12\\cdot41=\\boxed{492}$."
+  },
+  "212": {
+    "kind": "boxed_math",
+    "reference_solution": "We claim that an integer $N$ is only $k$-nice if and only if $N \\equiv 1 \\pmod k$. By the number of divisors formula, the number of divisors of $\\prod_{i=1}^n p_i^{a_i}$ is $\\prod_{i=1}^n (a_i+1)$. Since all the $a_i$s are divisible by $k$ in a perfect $k$ power, the only if part of the claim follows. To show that all numbers $N \\equiv 1 \\pmod k$ are $k$-nice, write $N=bk+1$. Note that $2^{kb}$ has the desired number of factors and is a perfect kth power. By PIE, the number of positive integers less than $1000$ that are either $1 \\pmod 7$ or $1\\pmod 8$ is $143+125-18=250$, so the desired answer is $999-250=\\boxed{749}$."
+  },
+  "213": {
+    "kind": "boxed_math",
+    "reference_solution": "Let $a$ be a common term. We know that \\begin{align*}\na&\\equiv 2\\pmod 3\\\\\na&\\equiv 3\\pmod 7\n\\end{align*} Congruence $(1)$ means that there exists a non-negative integer such that $a=2+3n$. Substituting this into $(2)$ yields \\[2+3n\\equiv 3\\pmod 7\\implies n\\equiv 5\\pmod 7\\] So $n$ has a lower bound of $5$. Then $n\\ge 5\\implies a=2+3n\\ge 17$. $17$ satisfies the original congruences, so it is the smallest common term. Subtracting $17$ from both sides of both congruences gives \\begin{align*}\na-17&\\equiv -15\\equiv 0\\pmod 3\\nonumber\\\\\na-17&\\equiv -14\\equiv 0\\pmod 7\\nonumber\n\\end{align*} Since $\\gcd(3,7)$, we get $a-17\\equiv 0\\pmod{3\\cdot 7}$, that is, $a\\equiv 17\\pmod{21}$.\n\nSo all common terms must be of the form $17+21m$ for some non-negative integer $m$. Note that any number of the form also satisfies the original congruences. The largest such number less than $500$ is $17+21\\cdot 22=\\boxed{479}$."
+  },
+  "214": {
+    "kind": "boxed_math",
+    "reference_solution": "Firstly, the congruence can be simplified to $3(6x+1)\\equiv 4\\pmod p\\implies 18x\\equiv 1\\pmod p$. This is solvable for $x$ if and only if $18$ is invertible modulo $p$, meaning $\\gcd(18,p)=1$. Since the prime factors of $18$ are $2,3$, these are precisely the prime moduli for which an $x$ cannot exist since then $\\gcd(18,p)>1$. Thus, the desired number is $2+3=\\boxed{5}$."
+  },
+  "215": {
+    "kind": "boxed_math",
+    "reference_solution": "Notice that the question is essentially asking us for the greatest common divisor of $2002$ and $44444$: any number that can be written in the given form must be divisible by the greatest common divisor of $2002$ and $44444$. Conversely, we can find the values of $m$ and $n$ through repeated applications of the Euclidean algorithm. In particular, \\begin{align*}\n&\\text{gcd}\\,(2002, 44444) \\\\\n&\\qquad= \\text{gcd}\\,(2002, 44444 - 22 \\cdot 2002)\\\\&\\qquad = \\text{gcd}\\,(2002, 400) \\\\\n&\\qquad= \\text{gcd}\\,(2002 - 5 \\cdot (44444 - 22 \\cdot 2002), 400) \\\\&\\qquad= \\text{gcd}\\,(2, 400) \\\\\n&\\qquad= \\boxed{2}.\n\\end{align*}Notice that \\begin{align*}\n&2002 - 5 \\cdot (44444 - 22 \\cdot 2002)\\\\ &\\qquad= 2002 - 5 \\cdot 44444 + 110 \\cdot 2002 \\\\ &\\qquad= (111) \\cdot 2002 + (-5) \\cdot 44444 \\\\ &\\qquad= 2,\\end{align*}as desired."
+  },
+  "216": {
+    "kind": "boxed_math",
+    "reference_solution": "We can test an integer for divisibility by $11$ by alternately adding and subtracting its digits.  For example, $8162$ is divisible by 11 because $8-1+6-2=11$ is divisible by 11.  In this case, $2A-2B+C$ must be divisible by 11.  If there are satisfactory values of $B$ and $C$ corresponding to $A=9$, then the resulting integer would be larger than any integer with $A<9$.  Therefore, we try $A=9$ first.  If $A=9$, then $C-2B+18$ must be divisible by $11$.  Equivalently, $C-2B$ equals $-7$ or $4$, which implies $C=2B-7$ or $C=2B+4$.  Wanting to make $B$ as large as possible, we try $B=9,8,7,\\ldots$. $B$ cannot be $9$ because $A$, $B$, and $C$ must be distinct.  If $B=8$, then $C=9$, so again the digits are not distinct.  If $B=7$, then $C=7$ and still the digits are not distinct.  If $B=6$, then $C=5$, and $AB,\\!CBA=\\boxed{96,\\!569}$."
+  },
+  "217": {
+    "kind": "boxed_math",
+    "reference_solution": "It is well-known that $\\tau(n)$ is odd if and only if $n$ is a perfect square. (Otherwise, we can group divisors into pairs whose product is $n$.) Thus, $S(n)$ is odd if and only if there are an odd number of perfect squares less than $n$. So $S(1), S(2)$ and $S(3)$ are odd, while $S(4), S(5), \\ldots, S(8)$ are even, and $S(9), \\ldots, S(15)$ are odd, and so on.\nSo, for a given $n$, if we choose the positive integer $m$ such that $m^2 \\leq n < (m + 1)^2$ we see that $S(n)$ has the same parity as $m$.\nIt follows that the numbers between $1^2$ and $2^2$, between $3^2$ and $4^2$, and so on, all the way up to the numbers between $43^2$ and $44^2 = 1936$ have $S(n)$ odd. These are the only such numbers less than $2005$ (because $45^2 = 2025 > 2005$).\nNotice that the difference between consecutive squares are consecutively increasing odd numbers. Thus, there are $3$ numbers between $1$ (inclusive) and $4$ (exclusive), $5$ numbers between $4$ and $9$, and so on. The number of numbers from $n^2$ to $(n + 1)^2$ is $(n + 1 - n)(n + 1 + n) = 2n + 1$. Whenever the lowest square beneath a number is odd, the parity will be odd, and the same for even. Thus, $a = [2(1) + 1] + [2(3) + 1] \\ldots [2(43) + 1] = 3 + 7 + 11 \\ldots 87$. $b = [2(2) + 1] + [2(4) + 1] \\ldots [2(42) + 1] + 70 = 5 + 9 \\ldots 85 + 70$, the $70$ accounting for the difference between $2005$ and $44^2 = 1936$, inclusive. Notice that if we align the two and subtract, we get that each difference is equal to $2$. Thus, the solution is $|a - b| = |b - a| = |2 \\cdot 21 + 70 - 87| = \\boxed{25}$."
+  },
+  "218": {
+    "kind": "boxed_math",
+    "reference_solution": "We treat these inequalities one-at-a-time first.  Subtracting 10 from both sides of the first inequality simplifies it to \\[n>1.\\] To deal with the second inequality, we divide both sides by $-4$, being sure to reverse the inequality sign: \\[n<3.\\]\n\nLuckily, there is only one integer that solves both of these inequalities, namely $\\boxed{2}$."
+  },
+  "219": {
+    "kind": "boxed_math",
+    "reference_solution": "Adding 2 to each member of the list, we get $$3, 6, 9, \\ldots, 2007, 2010,$$ and then dividing each member of the list by 3, we get $$1,2,3,\\ldots,669,670,$$ so there are $\\boxed{670}$ numbers."
+  },
+  "220": {
+    "kind": "boxed_math",
+    "reference_solution": "Note that, because two or more members can be multiplied, multiplying by $1$ will only make a difference if it is one of two numbers. Thus, multiplying by $1$ adds four potential numbers.\n\nNow, we only need to consider the number of combinations that can be made from $2$, $3$, $5$, and $11$.\n\nChoosing two from this set offers six possiblities: $2 \\cdot 3$, $2 \\cdot 5$, $2 \\cdot 11$, $3 \\cdot 5$, $3 \\cdot 11$, and $5 \\cdot 11$.\n\nChoosing three offers four possibilities: $2 \\cdot 3 \\cdot 5$, $2 \\cdot 3 \\cdot 11$, $2 \\cdot 5 \\cdot 11$, and $3 \\cdot 5 \\cdot 11$.\n\nFinally, there is one possibility with four chosen: $2 \\cdot 3 \\cdot 5 \\cdot 11$. Thus, there are $4 + 6 + 4 + 1 = \\boxed{15}$."
+  },
+  "221": {
+    "kind": "boxed_math",
+    "reference_solution": "We can determine the other two angles in the triangle with the unknown angle.  Label its vertices $X$, $Y$, and $Z$.\n\n[asy]\nimport markers; defaultpen(linewidth(0.8));\n\npair A,B,C,D,EE,F,G;\n\ndraw(unitcircle);\n\nA=(-1,0);\nB=(0,-1);\nC=(1,0);\nD=(0,1);\n\ndraw(A--B--C--D--A);\n\nEE=(-0.9,-0.45);\nF=(0.9,-0.45);\n\ndraw(D--EE--F--D);\n\nG=(-0.76,-0.23);\n\nmarkangle(Label(\"?\"),n=1,radius=10,D,G,A,marker(stickframe(n=0),true));\n\ndraw(A--D--G--A,red+1bp);\n\nlabel(\"$X$\",D,N);\nlabel(\"$Y$\",A,W);\nlabel(\"$Z$\",G,E);\n\n[/asy]\n\nWe want to find $\\angle XZY$.  Since $\\angle XYZ$ is an angle of a square, $\\angle XYZ=90^\\circ$.  Also, $\\angle YXZ$ is part of an angle of a square.  By symmetry, the large angle at $X$ can be dissected into a sum of three angles, \\[90^\\circ = \\angle YXZ +60^\\circ+\\angle YXZ=2\\angle YXZ+60^\\circ.\\] Therefore $\\angle YXZ=15^\\circ$.  The mystery angle is the third angle of this triangle, so \\[\\angle XZY=180^\\circ-90^\\circ-15^\\circ=\\boxed{75^\\circ}.\\]"
+  },
+  "222": {
+    "kind": "boxed_math",
+    "reference_solution": "Of the 40 who had heart trouble, 20 also had high blood pressure, so there are $40-20=20$ teachers who only have heart trouble.  Similarly, there are $70-20 =50$ teachers with only high blood pressure.  So, of the 120 teachers total, there are $20 + 20 + 50 = 90$ teachers with one of these two maladies.  That means $120-90 = 30$ teachers with neither, which is $\\frac{30}{120} = \\boxed{25\\%}$ of the teachers.\n\n[asy]\nunitsize(0.05cm);\nlabel(\"Heart Trouble\", (2,74));\nlabel(\"High Blood Pressure\", (80,74));\ndraw(Circle((30,45), 22));\ndraw(Circle((58, 45), 22));\nlabel(\"$20$\", (44, 45));\nlabel(scale(0.8)*\"$20$\",(28,58));\nlabel(scale(0.8)*\"$50$\",(63,58));\n[/asy]"
+  },
+  "223": {
+    "kind": "boxed_math",
+    "reference_solution": "The prime factors of 18 are 2, 3, and 3. If the greatest common factor with 18 is 3, that means the other number is a multiple of 3 but not 2, 6, or 9. Since the other number cannot be an even number (multiple of 2), we start with 99 and look at decreasing odd numbers. 99 is a multiple of 9, 97 and 95 are not multiples of 3, so the greatest integer less than 100 that satisfies the conditions is $\\boxed{93}$."
+  },
+  "224": {
+    "kind": "boxed_math",
+    "reference_solution": "We list the divisors of 18 by finding them in pairs. We begin with 1 and 18 on the ends, so our list is \\[\n1 \\quad \\underline{\\hphantom{10}} \\quad \\ldots \\quad \\underline{\\hphantom{10}} \\quad 18.\n\\]Then we check 2, finding that $2\\times 9 = 18$. Our list becomes \\[\n1 \\quad 2 \\quad \\underline{\\hphantom{10}} \\quad \\ldots \\quad \\underline{\\hphantom{10}} \\quad 9 \\quad 18.\n\\]Checking 3, we get $3\\times 6=18$, so we get \\[\n1 \\quad 2 \\quad 3\\quad \\underline{\\hphantom{10}} \\quad \\ldots \\quad \\underline{\\hphantom{10}} \\quad 6 \\quad 9 \\quad 18.\n\\]We check 4 and find that 18 is not divisible by 4. Similarly, 18 is not divisible by 5. Since 6 is already on the list, we're finished. The list of the positive divisors of 18 is \\[\n1 \\quad 2 \\quad 3\\quad 6 \\quad 9 \\quad 18.\n\\]The sum of these numbers is $1+2+3+6+9+18 = \\boxed{39}$."
+  },
+  "225": {
+    "kind": "boxed_math",
+    "reference_solution": "If Trisha's mean score is 81 after five tests, she must have scored a total of $5\\cdot 81 - (88 + 73 + 70) = 174$ on her last two tests. Keeping in mind that each test score was less than 90, this means that Trisha got scores of 87 and 87, 88 and 86, or 89 and 85 on her last two tests.\n\nSince all of Trisha's scores are different integer values, she can't have gotten scores of 87 and 87 on her last two tests. Also, since she already got an 88 on a test, she can't have gotten scores of 88 and 86 either. This means that she must have gotten scores of 89 and 85 on her last two tests.\n\nThus, Trisha's scores are 88, 73, 70, 89, and 85. Listing these from greatest to least, we see that our answer is $\\boxed{89, 88, 85, 73, 70}$."
+  },
+  "226": {
+    "kind": "boxed_math",
+    "reference_solution": "Marty can choose his paint in 4 ways and his style in 3 ways.  Thus there are a total of $4\\cdot 3 = \\boxed{12}$ different combinations he can choose."
+  },
+  "227": {
+    "kind": "boxed_math",
+    "reference_solution": "At first, we might think that there are $6+3=9$ boxes with pens or pencils.  However, this counts twice the 2 boxes with both pens and pencils, so we subtract 2 from our total to only count these boxes once.  That gives us $6+3-2=7$ boxes with pens or pencils, which leaves $10-7=\\boxed{3\\text{ boxes}}$ with neither."
+  },
+  "228": {
+    "kind": "boxed_math",
+    "reference_solution": "$91$ is the first number that makes it hard to tell whether it's prime or not. Anything smaller, you can check if it's even, or ends in a $5$, or the digits sum to $3$, or maybe it's the same digit repeated twice, such as $77$. Remember that $91$ is not prime!\n\n$87$ factors as $3\\cdot29$, $89$ is prime, $91$ factors into $7\\cdot13$, and $93$ as $3\\cdot31$. All together, that is $3^2\\cdot7\\cdot13\\cdot29\\cdot31\\cdot89$, for a total of $\\boxed{6}$ different prime factors."
+  },
+  "229": {
+    "kind": "boxed_math",
+    "reference_solution": "First, let's calculate the area of the plot of land in cm. Then, we'll convert as the questions ask.\n\nRecall the formula for the area of a trapezoid is given by $\\mbox{Area} = (\\mbox{bottom} + \\mbox{ top})\\times \\mbox{height} \\times \\frac{1}{2}$, so the area of this trapezoid is $$(10 \\mbox{cm} + 15 \\mbox{cm}) \\times 10 \\mbox{cm} \\times \\frac{1}{2} = 125 \\mbox{cm}^2.$$Now, we are given that $1 \\mbox{ cm } = 2 \\mbox{ miles }$. Squaring both sides, that means $$1 \\mbox{ cm}^2 = 4 \\mbox{ miles}^2.$$We are told that $1 \\mbox{ miles}^2 = 640 \\mbox{ acres}$, so the above equation is actually:\n\n$$1 \\mbox{ cm}^2 = 4 \\mbox{ miles}^2 \\times \\frac{ 640 \\mbox{ acres}}{1 \\mbox{ miles}^2} = 2560 \\mbox{ acres}.$$Finally, we can convert $$125 \\mbox{ cm}^2 \\times \\frac{ 2560 \\mbox{ acres}}{1 \\mbox{ cm}^2} = \\boxed{320000 \\mbox{ acres}}.$$"
+  },
+  "230": {
+    "kind": "boxed_math",
+    "reference_solution": "Originally, every side length of the square had a length of 12.  Since the triangle is equilateral, each of its side lengths is also 12.  There are now a total of 6 sides, making for a perimeter of $\\boxed{72}$."
+  },
+  "231": {
+    "kind": "boxed_math",
+    "reference_solution": "Eduardo wants to make twice as many cookies as the recipe makes.  Therefore, he must double the amount of flour required: $(2\\text{ cups})\\times2=\\boxed{4}$ cups."
+  },
+  "232": {
+    "kind": "boxed_math",
+    "reference_solution": "Let the side length of each of the squares be $x$. [asy]\n\nsize(4cm);\n\npair p = (0, 1); pair q = (3, 1); pair r = (3, 0); pair s = (0, 0);\n\ndraw(p--q--r--s--cycle);\n\ndraw(shift(1) * (p--s)); draw(shift(2) * (p--s));\n\nlabel(\"$P$\", p, NW); label(\"$Q$\", q, NE); label(\"$R$\", r, SE); label(\"$S$\", s, SW);\n\n// x labels\n\npair v = (0, 0.5); pair h = (0.5, 0);\n\nint i;\n\nfor(i = 0; i < 3; ++i) {label(\"$x$\", shift(i) * h, S); label(\"$x$\", shift(i, 1) * h, N);}\n\nlabel(\"$x$\", v, W); label(\"$x$\", shift(3) * v, E);\n\n[/asy] Then the perimeter of $PQRS$ equals $8x$, so $8x = 120$ cm or $x = 15$ cm.\n\nSince $PQRS$ is made up of three squares of side length 15 cm, then its area is  $3(15)^2 = 3(225) = \\boxed{675}$ square centimeters."
+  },
+  "233": {
+    "kind": "boxed_math",
+    "reference_solution": "The least number of marbles that the set could have is the least common multiple of $2$, $3$, $4$, $5$, and $6$. Prime factorizing these five numbers, we find that \\begin{align*}\n2 &= 2 \\\\\n3 &= 3 \\\\\n4 &= 2^2 \\\\\n5 &= 5 \\\\\n6 &= 2 \\cdot 3.\n\\end{align*}For a number to be divisible by each of these numbers, its prime factorization must include 2 to the second power, 3, and 5. So the least common multiple is $2^2 \\cdot 3 \\cdot 5 = \\boxed{60}$."
+  },
+  "234": {
+    "kind": "boxed_math",
+    "reference_solution": "A convex $n$-gon has $\\frac{n(n-3)}{2}$ diagonals. Thus, a convex decagon has $\\frac{10\\cdot 7}{2} = \\boxed{35}$ diagonals."
+  },
+  "235": {
+    "kind": "boxed_math",
+    "reference_solution": "Divide the square into $16$ smaller squares as shown. The shaded square is formed from $4$ half-squares, so its area is $2.$ The ratio $2$ to $16$ is $\\boxed{\\frac{1}{8}}.$\n\nNote: There are several other ways to divide the region to show this. [asy]\n/* AMC8 1998 #13S */\nsize(1inch,1inch);\npair r1c1=(0,0), r1c2=(10,0), r1c3=(20,0), r1c4=(30, 0), r1c5=(40, 0);\npair r2c1=(0,10), r2c2=(10,10), r2c3=(20,10), r2c4=(30, 10), r2c5=(40, 10);\npair r3c1=(0,20), r3c2=(10,20), r3c3=(20,20), r3c4=(30, 20), r3c5=(40, 20);\npair r4c1=(0,30), r4c2=(10,30), r4c3=(20,30), r4c4=(30, 30), r4c5=(40, 30);\npair r5c1=(0,40), r5c2=(10,40), r5c3=(20,40), r5c4=(30, 40), r5c5=(40, 40);\ndraw(r1c1--r5c1--r5c5--r1c5--r1c1--r5c5);\ndraw(r5c1--r3c3);\ndraw(r4c4--r2c4--r3c5);\nfill(r2c2--r3c3--r2c4--r1c3--cycle);\ndraw(r2c1--r2c5);\ndraw(r3c1--r3c5);\ndraw(r4c1--r4c5);\ndraw(r1c2--r5c2);\ndraw(r1c3--r5c3);\ndraw(r1c4--r5c4);\n[/asy]"
+  },
+  "236": {
+    "kind": "boxed_math",
+    "reference_solution": "Let $A = \\left( 8, \\frac{5 \\pi}{12} \\right)$ and $B = \\left( 8, -\\frac{3 \\pi}{12}\\right).$  Note that both $A$ and $B$ lie on the circle with radius 8.  Also, $\\angle AOB = \\frac{2 \\pi}{3},$ where $O$ is the origin.\n\n[asy]\nunitsize (0.3 cm);\n\npair A, B, M, O;\n\nA = 8*dir(75);\nB = 8*dir(-45);\nO = (0,0);\nM = (A + B)/2;\n\ndraw(Circle(O,8));\ndraw(A--B);\ndraw((-9,0)--(9,0));\ndraw((0,-9)--(0,9));\ndraw(A--O--B);\ndraw(O--M);\n\nlabel(\"$A$\", A, A/8);\nlabel(\"$B$\", B, B/8);\nlabel(\"$O$\", O, SW);\nlabel(\"$M$\", M, E);\n[/asy]\n\nLet $M$ be the midpoint of $\\overline{AB}.$  Then $\\angle AOM = \\frac{\\pi}{3}$ and $\\angle AMO = \\frac{\\pi}{2},$ so $OM = \\frac{AO}{2} = 4.$  Also, $\\overline{OM}$ makes an angle of $\\frac{5 \\pi}{12} - \\frac{\\pi}{3} = \\frac{\\pi}{12}$ with the positive $x$-axis, so the polar coordinates of $M$ are $\\boxed{\\left( 4, \\frac{\\pi}{12} \\right)}.$"
+  },
+  "237": {
+    "kind": "boxed_math",
+    "reference_solution": "By the Law of Cosines on triangle $ABC,$\n\\[\\cos \\angle ACB = \\frac{AC^2 + BC^2 - AB^2}{2 \\cdot AC \\cdot BC}.\\][asy]\nunitsize(1 cm);\n\npair A, B, C, D;\n\nA = (0,2);\nB = 2*dir(240);\nC = (3,0);\nD = (0,0);\n\ndraw(A--B--C--cycle);\ndraw(A--D,dashed);\ndraw(B--D,dashed);\ndraw(C--D,dashed);\n\nlabel(\"$A$\", A, N);\nlabel(\"$B$\", B, SW);\nlabel(\"$C$\", C, E);\nlabel(\"$D$\", D, SE);\n[/asy]\n\nBy Pythagoras on right triangle $ABD,$\n\\[AB^2 = AD^2 + BD^2.\\]By Pythagoras on right triangles $ACD$ and $BCD,$\n\\begin{align*}\nAD^2 &= AC^2 - CD^2, \\\\\nBD^2 &= BC^2 - CD^2,\n\\end{align*}so\n\\begin{align*}\n\\cos \\angle ACB &= \\frac{AC^2 + BC^2 - AB^2}{2 \\cdot AC \\cdot BC} \\\\\n&= \\frac{AC^2 + BC^2 - (AD^2 + BD^2)}{2 \\cdot AC \\cdot BC} \\\\\n&= \\frac{(AC^2 - AD^2) + (BC^2 - BD^2)}{2 \\cdot AC \\cdot BC} \\\\\n&= \\frac{2 \\cdot CD^2}{2 \\cdot AC \\cdot BC} \\\\\n&= \\frac{CD}{AC} \\cdot \\frac{CD}{BC} \\\\\n&= (\\sin \\angle CAD)(\\sin \\angle CBD) \\\\\n&= \\boxed{xy}.\n\\end{align*}"
+  },
+  "238": {
+    "kind": "boxed_math",
+    "reference_solution": "From the angle addition formula, we can write\n\\begin{align*}\n\\sin x + \\cos x &= \\sqrt{2} \\left( \\frac{1}{\\sqrt{2}} \\sin x + \\frac{1}{\\sqrt{2}} \\cos x \\right) \\\\\n&= \\sqrt{2} \\left( \\cos \\frac{\\pi}{4} \\sin x + \\sin \\frac{\\pi}{4} \\cos x \\right) \\\\\n&= \\sqrt{2} \\sin \\left( x + \\frac{\\pi}{4} \\right).\n\\end{align*}Thus, the graph of $y = \\sin x + \\cos x$ has period $\\boxed{2 \\pi}.$\n\nThe graph of $y = \\sin x + \\cos x$ is shown below:\n\n[asy]import TrigMacros;\n\nsize(400);\n\nreal g(real x)\n{\n\treturn sin(x) + cos(x);\n}\n\ndraw(graph(g,-3*pi,3*pi,n=700,join=operator ..),red);\ntrig_axes(-3*pi,3*pi,-2,2,pi/2,1);\nlayer();\nrm_trig_labels(-5, 5, 2);\n[/asy]"
+  },
+  "239": {
+    "kind": "boxed_math",
+    "reference_solution": "All points that make an angle of $\\frac{\\pi}{3}$ with the positive $x$-axis lie on the graph.\n\n[asy]\nunitsize(1 cm);\n\ndraw(3*dir(240)--3*dir(60),red);\ndraw((-2,0)--(2,0));\ndraw((0,-3)--(0,3));\n\nlabel(\"$\\frac{\\pi}{3}$\", (0.5,0.4));\nlabel(\"$\\theta = \\frac{\\pi}{3}$\", (2,1.8), red);\n[/asy]\n\nBut all points that make an angle of $\\frac{\\pi}{3} + \\pi$ with the positive $x$-axis also lie on the graph, since the radius $r$ can be negative.  Thus, the graph is a line.  The answer is $\\boxed{\\text{(A)}}.$"
+  },
+  "240": {
+    "kind": "boxed_math",
+    "reference_solution": "The direction vectors of the lines are $\\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix}$ and $\\begin{pmatrix} 1 \\\\ 3 \\end{pmatrix}.$  The cosine of the angle between these direction vectors is\n\\[\\frac{\\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix} \\cdot \\begin{pmatrix} 1 \\\\ 3 \\end{pmatrix}}{\\left\\| \\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix} \\right\\| \\left\\| \\begin{pmatrix} 1 \\\\ 3 \\end{pmatrix} \\right\\|} = \\frac{15}{\\sqrt{25} \\sqrt{10}} = \\frac{3}{\\sqrt{10}}.\\]Hence, $\\cos \\theta = \\boxed{\\frac{3}{\\sqrt{10}}}.$"
+  },
+  "241": {
+    "kind": "boxed_math",
+    "reference_solution": "Let $z_2 = \\omega z_1,$ where $\\omega = e^{\\pi i/3}.$  Then by Vieta's formulas,\n\\begin{align*}\n-a &= z_1 + z_2 = (1 + \\omega) z_1, \\\\\nb &= z_1 z_2 = \\omega z_1^2.\n\\end{align*}Hence,\n\\begin{align*}\n\\frac{a^2}{b} &= \\frac{(1 + \\omega)^2 z_1^2}{\\omega z_1^2} \\\\\n&= \\frac{\\omega^2 + 2 \\omega + 1}{\\omega} \\\\\n&= \\omega + 2 + \\frac{1}{\\omega} \\\\\n&= e^{\\pi i/3} + 2 + e^{-\\pi i/3} \\\\\n&= \\frac{1}{2} + i \\frac{\\sqrt{3}}{2} + 2 + \\frac{1}{2} - i \\frac{\\sqrt{3}}{2} \\\\\n&= \\boxed{3}.\n\\end{align*}"
+  },
+  "242": {
+    "kind": "boxed_math",
+    "reference_solution": "Since $|z| = 1,$ we can write $z = \\operatorname{cis} \\theta,$ where $0^\\circ \\le \\theta < 360^\\circ.$  Then\n\\[z^{6!} - z^{5!} = \\operatorname{cis} (720 \\theta) - \\operatorname{cis} (120 \\theta)\\]is a real number.  In other words, $\\sin 720 \\theta - \\sin 120 \\theta = 0.$  From the sum-to-product formulas,\n\\[2 \\cos 420 \\theta \\sin 300 \\theta = 0.\\]If $\\cos 420 \\theta = 0,$ then $420 \\theta$ must be an odd multiple of $90^\\circ,$ i.e.\n\\[420 \\theta = (2n + 1) 90^\\circ\\]for some integer $n.$  The possible values of $n$ are 0, 1, 2, $\\dots,$ 839, for 840 solutions.\n\nIf $\\sin 300 \\theta = 0,$ then $300 \\theta$ must be a multiple of $180^\\circ,$ i.e.\n\\[300 \\theta = m \\cdot 180^\\circ\\]for some integer $m.$  The possible values of $m$ are 0, 1, 2, $\\dots,$ 599, for 600 solutions.\n\nIf a $\\theta$ can be produced by both of these inequalities, then\n\\[ \\theta = \\dfrac{(2n + 1) 90^\\circ}{420} = \\dfrac{m \\cdot 180^\\circ}{300}, \\]or $5(2n + 1) = 14m.$ There are no integer solutions to this equation since the left hand side would be odd while the right hand side would be even.\n\nSo we have not overcounted, and there are a total of $840 + 600 = \\boxed{1440}$ solutions."
+  },
+  "243": {
+    "kind": "boxed_math",
+    "reference_solution": "Let $z_n = a_n + b_n i.$  Then\n\\begin{align*}\nz_{n + 1} &= (a_n \\sqrt{3} - b_n) + (b_n \\sqrt{3} + a_n) i \\\\\n&= a_n (\\sqrt{3} + i) + b_n (i \\sqrt{3} - 1) \\\\\n&= a_n (\\sqrt{3} + i) + b_n i (\\sqrt{3} + i) \\\\\n&= (\\sqrt{3} + i)(a_n + b_n i) \\\\\\\n&= (\\sqrt{3} + i) z_n.\n\\end{align*}Hence, $z_{100} = (\\sqrt{3} + i)^{99} z_1.$  To evaluate this expression, we write\n\\[\\sqrt{3} + i = 2 \\cdot \\left( \\frac{\\sqrt{3}}{2} + \\frac{1}{2} i \\right) = 2 \\operatorname{cis} 30^\\circ.\\]Then\n\\[(\\sqrt{3} + i)^{99} = 2^{99} \\operatorname{cis} 2970^\\circ = 2^{99} \\operatorname{cis} 90^\\circ = 2^{99} i.\\]Since $z_{100} = 2 + 4i,$\n\\[z_1 = \\frac{2 + 4i}{2^{99} i} = \\frac{4 - 2i}{2^{99}} = \\frac{2 - i}{2^{98}},\\]so\n\\[a_1 + b_1 = \\frac{2}{2^{98}} - \\frac{1}{2^{98}} = \\boxed{\\frac{1}{2^{98}}}.\\]"
+  },
+  "244": {
+    "kind": "boxed_math",
+    "reference_solution": "Since $\\mathbf{a} + 2 \\mathbf{b}$ and $5 \\mathbf{a} - 4 \\mathbf{b}$ are orthogonal,\n\\[(\\mathbf{a} + 2 \\mathbf{b}) \\cdot (5 \\mathbf{a} - 4 \\mathbf{b}) = 0.\\]Expanding, we get\n\\[5 \\mathbf{a} \\cdot \\mathbf{a} + 6 \\mathbf{a} \\cdot \\mathbf{b} - 8 \\mathbf{b} \\cdot \\mathbf{b} = 0.\\]Note that $\\mathbf{a} \\cdot \\mathbf{a} = \\|\\mathbf{a}\\|^2 = 1,$ and $\\mathbf{b} \\cdot \\mathbf{b} = \\|\\mathbf{b}\\|^2 = 1,$ so\n\\[6 \\mathbf{a} \\cdot \\mathbf{b} - 3 = 0.\\]Then $\\mathbf{a} \\cdot \\mathbf{b} = \\frac{1}{2}.$\n\nIf $\\theta$ is the angle between $\\mathbf{a}$ and $\\mathbf{b},$ then\n\\[\\cos \\theta = \\frac{\\mathbf{a} \\cdot \\mathbf{b}}{\\|\\mathbf{a}\\| \\|\\mathbf{b}\\|} = \\frac{1/2}{1 \\cdot 1} = \\frac{1}{2}.\\]Therefore, $\\theta = \\boxed{60^\\circ}.$"
+  },
+  "245": {
+    "kind": "boxed_math",
+    "reference_solution": "We can expand the determinant as follows:\n\\begin{align*}\n\\begin{vmatrix} x & c & -b \\\\ -c & x & a \\\\ b & -a & x \\end{vmatrix} &= x \\begin{vmatrix} x & a \\\\ -a & x \\end{vmatrix} - c \\begin{vmatrix} -c & a \\\\ b & x \\end{vmatrix} - b \\begin{vmatrix} -c & x \\\\ b & -a \\end{vmatrix} \\\\\n&= x(x^2 + a^2) - c(-cx - ab) - b(ac - bx) \\\\\n&= x(x^2 + a^2 + b^2 + c^2).\n\\end{align*}Since $a,$ $b,$ and $c$ are nonzero, the equation $x^2 + a^2 + b^2 + c^2 = 0$ has no real solutions.  Therefore, there is only $\\boxed{1}$ real solution, namely $x = 0.$"
+  },
+  "246": {
+    "kind": "boxed_math",
+    "reference_solution": "If $(x,y,z)$ lies inside the first sphere, then\n\\[x^2 + y^2 + \\left( z - \\frac{21}{2} \\right)^2 \\le 36,\\]and if $(x,y,z)$ lies inside the second sphere, then\n\\[x^2 + y^2 + (z - 1)^2 \\le \\frac{81}{4}.\\]Thus, we are looking for the number of lattice points that satisfy both inequalities.\n\nFrom the first inequality, $z - \\frac{21}{2} \\ge -6,$ so $z \\ge \\frac{9}{2}.$  From the second inequality, $z - 1 \\le \\frac{9}{2},$ so $z \\le \\frac{11}{2}.$  Since $z$ must be an integer, $z = 5.$  Then\n\\[x^2 + y^2 \\le 36 - \\left( 5 - \\frac{21}{2} \\right)^2 = \\frac{23}{4}\\]and\n\\[x^2 + y^2 \\le \\frac{81}{4} - (5 - 1)^2 = \\frac{17}{4}.\\]Since $x$ and $y$ are integers, $x^2 + y^2 \\le 4.$\n\nThe possible pairs $(x,y)$ are then $(-2,0),$ $(-1,-1),$ $(-1,0),$ $(-1,1),$ $(0,-2),$ $(0,-1),$ $(0,0),$ $(0,1),$ $(0,2),$ $(1,-1),$ $(1,0),$ $(1,1),$ and $(2,0),$ giving us a total of $\\boxed{13}$ points."
+  },
+  "247": {
+    "kind": "boxed_math",
+    "reference_solution": "We have that\n\\[\\begin{vmatrix} -5 & 3 \\\\ 4 & -4 \\end{vmatrix} = (-5)(-4) - (3)(4) = \\boxed{8}.\\]"
+  },
+  "248": {
+    "kind": "boxed_math",
+    "reference_solution": "Let $O$ be the origin, and let $P,$ $Q,$ $V$ be the points corresponding to vectors $\\mathbf{p},$ $\\mathbf{q},$ and $\\mathbf{v},$ respectively.  Then $\\frac{OP}{OV} = \\frac{5}{7}.$\n\n[asy]\nimport olympiad;\nunitsize (0.5 cm);\n\npair O, P, Q, V;\n\nO = (0,0);\nP = (5,0);\nV = (5,8);\nQ = (P + reflect(O,V)*(P))/2;\n\ndraw(O--P--V--cycle);\ndraw(P--Q);\ndraw(rightanglemark(O,P,V,14));\ndraw(rightanglemark(P,Q,O,14));\n\nlabel(\"$O$\", O, SW);\nlabel(\"$P$\", P, SE);\nlabel(\"$Q$\", Q, NW);\nlabel(\"$V$\", V, NE);\n[/asy]\n\nNote that right triangles $OQP$ and $OPV$ are similar, so\n\\[\\frac{OQ}{OP} = \\frac{OP}{OV} = \\frac{5}{7}.\\]Then\n\\[\\frac{\\|\\mathbf{q}\\|}{\\|\\mathbf{v}\\|} = \\frac{OQ}{OV} = \\frac{OQ}{OP} \\cdot \\frac{OP}{OV} = \\boxed{\\frac{25}{49}}.\\]"
+  },
+  "249": {
+    "kind": "boxed_math",
+    "reference_solution": "Let the line be\n\\[\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\mathbf{a} + t \\mathbf{d}.\\]Then from the given information,\n\\begin{align*}\n\\begin{pmatrix} 1 \\\\ 4 \\end{pmatrix} = \\mathbf{a} + 2 \\mathbf{d}, \\\\\n\\begin{pmatrix} 3 \\\\ -4 \\end{pmatrix} = \\mathbf{a} + 3 \\mathbf{d}.\n\\end{align*}We can treat this system as a linear set of equations in $\\mathbf{a}$ and $\\mathbf{d}.$  Accordingly, we can solve to get $\\mathbf{a} = \\begin{pmatrix} -3 \\\\ 20 \\end{pmatrix}$ and $\\mathbf{d} = \\begin{pmatrix} 2 \\\\ -8 \\end{pmatrix}.$  Hence,\n\\[\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} -3 \\\\ 20 \\end{pmatrix} + t \\begin{pmatrix} 2 \\\\ -8 \\end{pmatrix}.\\]Taking $t = -7,$ we get\n\\[\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} -3 \\\\ 20 \\end{pmatrix} - 7 \\begin{pmatrix} 2 \\\\ -8 \\end{pmatrix} = \\boxed{\\begin{pmatrix} -17 \\\\ 76 \\end{pmatrix}}.\\]"
+  },
+  "250": {
+    "kind": "boxed_math",
+    "reference_solution": "Note that\n\\[\\mathbf{A} \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix} = \\begin{pmatrix} -15 \\\\ 6 \\end{pmatrix} = -3 \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix}.\\]Then\n\\begin{align*}\n\\mathbf{A}^2 \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix} &= \\mathbf{A} \\mathbf{A} \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix} \\\\\n&= \\mathbf{A} \\left( -3 \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix} \\right) \\\\\n&= -3 \\mathbf{A} \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix} \\\\\n&= -3  \\left( -3 \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix} \\right) \\\\\n&= (-3)^2 \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix}.\n\\end{align*}In the same way, we can compute that\n\\begin{align*}\n\\mathbf{A}^3 \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix} &= (-3)^3 \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix}, \\\\\n\\mathbf{A}^4 \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix} &= (-3)^4 \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix}, \\\\\n\\mathbf{A}^5 \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix} &= (-3)^5 \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix} = \\boxed{\\begin{pmatrix} -1215 \\\\ 486 \\end{pmatrix}}.\n\\end{align*}"
+  },
+  "251": {
+    "kind": "boxed_math",
+    "reference_solution": "Let $\\mathbf{M} = \\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}.$  Note that\n\\[\\mathbf{M} (\\mathbf{M}^3 - 4 \\mathbf{M}^2 + 5 \\mathbf{M}) = \\mathbf{M}^4 - 4 \\mathbf{M}^3 + 5 \\mathbf{M}^2 = (\\mathbf{M}^3 - 4 \\mathbf{M}^2 + 5 \\mathbf{M}) \\mathbf{M},\\]so\n\\[\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix} \\begin{pmatrix} 10 & 20 \\\\ 5 & 10 \\end{pmatrix} = \\begin{pmatrix} 10 & 20 \\\\ 5 & 10 \\end{pmatrix} \\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}.\\]This becomes\n\\[\\begin{pmatrix} 10a + 5b & 20a + 10b \\\\ 10c + 5d & 20c + 10d \\end{pmatrix} = \\begin{pmatrix} 10a + 20c & 10b + 20d \\\\ 5a + 10c & 5b + 10d \\end{pmatrix}.\\]Comparing entries, we get\n\\begin{align*}\n10a + 5b &= 10a + 20c, \\\\\n20a + 10b &= 10b + 20d, \\\\\n10c + 5d &= 5a + 10c, \\\\\n20c + 10d &= 5b + 10d.\n\\end{align*}Then from the first and second equations, $5b = 20c$ and $20a = 20d,$ so $b = 4c$ and $a = d.$  (The other equations give us the same information.)  Thus,\n\\[\\mathbf{M} = \\begin{pmatrix} a & 4c \\\\ c & a \\end{pmatrix}.\\]Then\n\\[\\mathbf{M}^2 = \\begin{pmatrix} a & 4c \\\\ c & a \\end{pmatrix} \\begin{pmatrix} a & 4c \\\\ c & a \\end{pmatrix} = \\begin{pmatrix} a^2 + 4c^2 & 8ac \\\\ 2ac & a^2 + 4c^2 \\end{pmatrix},\\]and\n\\[\\mathbf{M}^3 = \\begin{pmatrix} a & 4c \\\\ c & a \\end{pmatrix} \\begin{pmatrix} a^2 + 4c^2 & 8ac \\\\ 2ac & a^2 + 4c^2 \\end{pmatrix} = \\begin{pmatrix} a^3 + 12ac^2 & 12a^2 c + 16c^3 \\\\ 3a^2 c + 4c^3 & a^3 + 12ac^2 \\end{pmatrix}.\\]Hence,\n\\begin{align*}\n\\mathbf{M}^3 - 4 \\mathbf{M}^2 + 5 \\mathbf{M} &= \\begin{pmatrix} a^3 + 12ac^2 & 12a^2 c + 16c^3 \\\\ 3a^2 c + 4c^3 & a^3 + 12ac^2 \\end{pmatrix} - 4 \\begin{pmatrix} a^2 + 4c^2 & 8ac \\\\ 2ac & a^2 + 4c^2 \\end{pmatrix} + 5 \\begin{pmatrix} a & 4c \\\\ c & a \\end{pmatrix} \\\\\n&= \\begin{pmatrix} a^3 + 12ac^2 - 4a^2 - 16c^2 + 5a & 12a^2 c + 16c^3 - 32ac + 20c \\\\ 3a^2 c + 4c^3 - 8ac + 5c & a^3 + 12ac^2 - 4a^2 - 16c^2 + 5a \\end{pmatrix}\n\\end{align*}Again comparing entries, we get\n\\begin{align*}\na^3 + 12ac^2 - 4a^2 - 16c^2 + 5a &= 10, \\\\\n3a^2 c + 4c^3 - 8ac + 5c &= 5.\n\\end{align*}Then\n\\[(a^3 + 12ac^2 - 4a^2 - 16c^2 + 5a) - 2 (3a^2 c + 4c^3 - 8ac + 5c) = 0.\\]Expanding, we get\n\\[a^3 - 6a^2 c + 12ac^2 - 8c^3 - 4a^2 + 16ac - 16c^2 + 5a - 10c = 0,\\]which we can write as\n\\[(a - 2c)^3 - 4(a - 2c)^2 + 5(a - 2c) = 0.\\]Let $x = a - 2c,$ so\n\\[x^3 - 4x^2 + 5x = 0,\\]which factors as $x(x^2 - 4x + 5) = 0.$  The quadratic factor has no real roots, so $x = 0,$ which means $a = 2c.$\n\nSubstituting into the equation $3a^2 c + 4c^3 - 8ac + 5c = 5,$ we get\n\\[3(2c)^2 c + 4c^3 - 8(2c) c + 5c = 5,\\]which simplifies to $16c^3 - 16c^2 + 5c - 5 = 0.$  This factors as $(c - 1)(16c^2 + 5) = 0,$ so $c = 1.$  It follows that $a = 2,$ $b = 4,$ and $d = 2,$ so\n\\[\\mathbf{M} = \\boxed{\\begin{pmatrix} 2 & 4 \\\\ 1 & 2 \\end{pmatrix}}.\\]"
+  },
+  "252": {
+    "kind": "boxed_math",
+    "reference_solution": "Let $z = -x - \\frac{\\pi}{6}.$  Then $\\frac{\\pi}{6} \\le z \\le \\frac{\\pi}{4},$ and $\\frac{\\pi}{3} \\le 2z \\le \\frac{\\pi}{2}.$  Also,\n\\[\\tan \\left( x + \\frac{2 \\pi}{3} \\right) = \\tan \\left( \\frac{\\pi}{2} - z \\right) = \\cot z,\\]so\n\\begin{align*}\ny &= \\cot z + \\tan z + \\cos z \\\\\n&= \\frac{\\cos z}{\\sin z} + \\frac{\\sin z}{\\cos z} + \\cos z \\\\\n&= \\frac{\\cos^2 z + \\sin^2 z}{\\sin z \\cos z} + \\cos z\\\\\n&= \\frac{1}{\\sin z \\cos z} + \\cos z.\n\\end{align*}From the angle addition formula, $\\sin 2z = \\sin (z + z) = \\sin z \\cos z + \\cos z \\sin z = 2 \\sin z \\cos z,$ so\n\\[y = \\frac{2}{2 \\sin z \\cos z} + \\cos z = \\frac{2}{\\sin 2z} + \\cos z.\\]Note that $\\sin 2z$ is increasing on the interval $\\frac{\\pi}{3} \\le 2z \\le \\frac{\\pi}{2},$ so $\\frac{2}{\\sin 2z}$ is decreasing.  Furthermore, $\\cos z$ is decreasing on the interval $\\frac{\\pi}{6} \\le z \\le \\frac{\\pi}{4}.$  Therefore, $y$ is a decreasing function, which means that the maximum occurs at $z = \\frac{\\pi}{6}.$  Thus, the maximum value is\n\\[\\frac{2}{\\sin \\frac{\\pi}{3}} + \\cos \\frac{\\pi}{3} = \\frac{2}{\\sqrt{3}/2} + \\frac{\\sqrt{3}}{2} = \\boxed{\\frac{11 \\sqrt{3}}{6}}.\\]"
+  },
+  "253": {
+    "kind": "boxed_math",
+    "reference_solution": "We can write the right-hand side as\n\\[\\sin^5 x - \\cos^5 x = \\frac{\\sin x - \\cos x}{\\sin x \\cos x},\\]so $\\sin x \\cos x (\\sin^5 x - \\cos^5 x) = \\sin x - \\cos x,$ or\n\\[\\sin x \\cos x (\\sin^5 x - \\cos^5 x) - (\\sin x - \\cos x) = 0.\\]We can factor to get\n\\[\\sin x \\cos x (\\sin x - \\cos x)(\\sin^4 x + \\sin^3 x \\cos x + \\sin^2 x \\cos^2 x + \\sin x \\cos^3 x + \\cos^4 x) - (\\sin x - \\cos x) = 0.\\]We can write\n\\begin{align*}\n&\\sin^4 x + \\sin^3 x \\cos x + \\sin^2 x \\cos^2 x + \\sin x \\cos^3 x + \\cos^4 x \\\\\n&= (\\sin^4 x + 2 \\sin^2 x \\cos^2 x + \\cos^4 x) - \\sin^2 x \\cos^2 x + \\sin x \\cos x (\\sin^2 x + \\cos^2 x) \\\\\n&= (\\sin^2 x + \\cos^2 x)^2 - \\sin^2 x \\cos^2 x + \\sin x \\cos x (\\sin^2 x + \\cos^2 x) \\\\\n&= 1 + \\sin x \\cos x - \\sin^2 x \\cos^2 x,\n\\end{align*}so\n\\[\\sin x \\cos x (\\sin x - \\cos x)(1 + \\sin x \\cos x - \\sin^2 x \\cos^2 x) - (\\sin x - \\cos x) = 0.\\]Let $p = \\sin x \\cos x,$ so\n\\[p (\\sin x - \\cos x)(1 + p - p^2) - (\\sin x - \\cos x) = 0.\\]Then\n\\[(\\sin x - \\cos x)(p + p^2 - p^3 - 1) = 0,\\]which factors as\n\\[-(\\sin x - \\cos x)(p - 1)^2 (p + 1) = 0.\\]Since\n\\[|p| = |\\sin x \\cos x| = \\frac{1}{2} |2 \\sin x \\cos x| = \\frac{1}{2} |\\sin 2x| \\le \\frac{1}{2},\\]the value $p$ can never be 1 or $-1.$  Therefore, $\\sin x = \\cos x,$ or $\\tan x = 1.$  The only solutions in $[0^\\circ, 360^\\circ]$ are $45^\\circ$ and $225^\\circ,$ and their sum is $\\boxed{270^\\circ}.$"
+  },
+  "254": {
+    "kind": "boxed_math",
+    "reference_solution": "First, let us find which bases result in $555_{10}$ having four digits. We must find base b such that $b^{4}>555_{10}\\geq b^{3}$. We easily determine that b can range from 5 to 8, inclusive.  We can now try each of these four bases to see which yields a number in the form ABAB.  For base six, we find that $6^{3}=216$, which can go into 555 only two times at most, leaving $555-2\\cdot216 = 123$ for the next three digits. $6^{2}=36$ goes into 123 three times at most, leaving us with $123-3\\cdot36 = 15$. Then, $6^{1}=6$ goes into 15 two times at most, leaving $15-2\\cdot6 = 3$ for the ones digit. So, the base $\\boxed{6}$ equivalent of $555_{10}$ is $2323_{6}$, which satisfies all of the requirements stated."
+  },
+  "255": {
+    "kind": "boxed_math",
+    "reference_solution": "This is the square of a binomial: $23^2 + 2(23)(2) + 2^2 = (23+2)^2 = 25^2 = \\boxed{625}$."
+  },
+  "256": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "remove_tuple",
+    "tests": [
+      "assert remove_tuple([(None, 2), (None, None), (3, 4), (12, 3), (None, )] ) == '[(None, 2), (3, 4), (12, 3)]'",
+      "assert remove_tuple([(None, None), (None, None), (3, 6), (17, 3), (None,1 )] ) == '[(3, 6), (17, 3), (None, 1)]'",
+      "assert remove_tuple([(1, 2), (2, None), (3, None), (24, 3), (None, None )] ) == '[(1, 2), (2, None), (3, None), (24, 3)]'"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "257": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "get_odd_occurence",
+    "tests": [
+      "assert get_odd_occurence([2, 3, 5, 4, 5, 2, 4, 3, 5, 2, 4, 4, 2], 13) == 5",
+      "assert get_odd_occurence([1, 2, 3, 2, 3, 1, 3], 7) == 3",
+      "assert get_odd_occurence([5, 7, 2, 7, 5, 2, 5], 7) == 5"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "258": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "count_tuplex",
+    "tests": [
+      "assert count_tuplex((2, 4, 5, 6, 2, 3, 4, 4, 7),4)==3",
+      "assert count_tuplex((2, 4, 5, 6, 2, 3, 4, 4, 7),2)==2",
+      "assert count_tuplex((2, 4, 7, 7, 7, 3, 4, 4, 7),7)==4"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "259": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "get_First_Set_Bit_Pos",
+    "tests": [
+      "assert get_First_Set_Bit_Pos(12) == 3",
+      "assert get_First_Set_Bit_Pos(18) == 2",
+      "assert get_First_Set_Bit_Pos(16) == 5"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "260": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "parallelogram_perimeter",
+    "tests": [
+      "assert parallelogram_perimeter(10,20)==400",
+      "assert parallelogram_perimeter(15,20)==600",
+      "assert parallelogram_perimeter(8,9)==144"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "261": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "recur_gcd",
+    "tests": [
+      "assert recur_gcd(12,14) == 2",
+      "assert recur_gcd(13,17) == 1",
+      "assert recur_gcd(9, 3) == 3"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "262": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "second_frequent",
+    "tests": [
+      "assert second_frequent(['aaa','bbb','ccc','bbb','aaa','aaa']) == 'bbb'",
+      "assert second_frequent(['abc','bcd','abc','bcd','bcd','bcd']) == 'abc'",
+      "assert second_frequent(['cdma','gsm','hspa','gsm','cdma','cdma']) == 'gsm'"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "263": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "smallest_Divisor",
+    "tests": [
+      "assert smallest_Divisor(10) == 2",
+      "assert smallest_Divisor(25) == 5",
+      "assert smallest_Divisor(31) == 31"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "264": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "min_sum_path",
+    "tests": [
+      "assert min_sum_path([[ 2 ], [3, 9 ], [1, 6, 7 ]]) == 6",
+      "assert min_sum_path([[ 2 ], [3, 7 ], [8, 5, 6 ]]) == 10 ",
+      "assert min_sum_path([[ 3 ], [6, 4 ], [5, 2, 7 ]]) == 9"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "265": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "count_Fac",
+    "tests": [
+      "assert count_Fac(24) == 3",
+      "assert count_Fac(12) == 2",
+      "assert count_Fac(4) == 1"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "266": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "sum_of_odd_Factors",
+    "tests": [
+      "assert sum_of_odd_Factors(30) == 24",
+      "assert sum_of_odd_Factors(18) == 13",
+      "assert sum_of_odd_Factors(2) == 1"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "267": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "remove_negs",
+    "tests": [
+      "assert remove_negs([1,-2,3,-4]) == [1,3]",
+      "assert remove_negs([1,2,3,-4]) == [1,2,3]",
+      "assert remove_negs([4,5,-6,7,-8]) == [4,5,7]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "268": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "max_similar_indices",
+    "tests": [
+      "assert max_similar_indices([(2, 4), (6, 7), (5, 1)],[(5, 4), (8, 10), (8, 14)]) == [(5, 4), (8, 10), (8, 14)]",
+      "assert max_similar_indices([(3, 5), (7, 8), (6, 2)],[(6, 5), (9, 11), (9, 15)]) == [(6, 5), (9, 11), (9, 15)]",
+      "assert max_similar_indices([(4, 6), (8, 9), (7, 3)],[(7, 6), (10, 12), (10, 16)]) == [(7, 6), (10, 12), (10, 16)]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "269": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "check_alphanumeric",
+    "tests": [
+      "assert check_alphanumeric(\"dawood@\") == 'Discard'",
+      "assert check_alphanumeric(\"skdmsam326\") == 'Accept'",
+      "assert check_alphanumeric(\"cooltricks@\") == 'Discard'"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "270": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "check_valid",
+    "tests": [
+      "assert check_valid((True, True, True, True) ) == True",
+      "assert check_valid((True, False, True, True) ) == False",
+      "assert check_valid((True, True, True, True) ) == True"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "271": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "lcopy",
+    "tests": [
+      "assert lcopy([1, 2, 3]) == [1, 2, 3]",
+      "assert lcopy([4, 8, 2, 10, 15, 18]) == [4, 8, 2, 10, 15, 18]",
+      "assert lcopy([4, 5, 6]) == [4, 5, 6]\n"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "272": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "cube_Sum",
+    "tests": [
+      "assert cube_Sum(2) == 28",
+      "assert cube_Sum(3) == 153",
+      "assert cube_Sum(4) == 496"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "273": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "convert",
+    "tests": [
+      "assert convert([1,2,3]) == 123",
+      "assert convert([4,5,6]) == 456",
+      "assert convert([7,8,9]) == 789"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "274": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "rgb_to_hsv",
+    "tests": [
+      "assert rgb_to_hsv(255, 255, 255)==(0, 0.0, 100.0)",
+      "assert rgb_to_hsv(0, 215, 0)==(120.0, 100.0, 84.31372549019608)",
+      "assert rgb_to_hsv(10, 215, 110)==(149.26829268292684, 95.34883720930233, 84.31372549019608)"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "275": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "is_Two_Alter",
+    "tests": [
+      "assert is_Two_Alter(\"abab\") == True",
+      "assert is_Two_Alter(\"aaaa\") == False",
+      "assert is_Two_Alter(\"xyz\") == False"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "276": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "str_to_tuple",
+    "tests": [
+      "assert str_to_tuple(\"1, -5, 4, 6, 7\") == (1, -5, 4, 6, 7)",
+      "assert str_to_tuple(\"1, 2, 3, 4, 5\") == (1, 2, 3, 4, 5)",
+      "assert str_to_tuple(\"4, 6, 9, 11, 13, 14\") == (4, 6, 9, 11, 13, 14)"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "277": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "add_list",
+    "tests": [
+      "assert add_list([1, 2, 3],[4,5,6])==[5, 7, 9]",
+      "assert add_list([1,2],[3,4])==[4,6]",
+      "assert add_list([10,20],[50,70])==[60,90]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "278": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "remove_multiple_spaces",
+    "tests": [
+      "assert remove_multiple_spaces('Google      Assistant') == 'Google Assistant'",
+      "assert remove_multiple_spaces('Quad      Core') == 'Quad Core'",
+      "assert remove_multiple_spaces('ChromeCast      Built-in') == 'ChromeCast Built-in'"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "279": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "count_vowels",
+    "tests": [
+      "assert count_vowels('bestinstareels') == 7",
+      "assert count_vowels('partofthejourneyistheend') == 12",
+      "assert count_vowels('amazonprime') == 5"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "280": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "remove_empty",
+    "tests": [
+      "assert remove_empty([(), (), ('',), ('a', 'b'), ('a', 'b', 'c'), ('d')])==[('',), ('a', 'b'), ('a', 'b', 'c'), 'd']  ",
+      "assert remove_empty([(), (), ('',), (\"python\"), (\"program\")])==[('',), (\"python\"), (\"program\")]  ",
+      "assert remove_empty([(), (), ('',), (\"java\")])==[('',),(\"java\") ]  "
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "281": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "min_of_two",
+    "tests": [
+      "assert min_of_two(10,20)==10",
+      "assert min_of_two(19,15)==15",
+      "assert min_of_two(-10,-20)==-20"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "282": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "Extract",
+    "tests": [
+      "assert Extract([[1, 2, 3], [4, 5], [6, 7, 8, 9]]) == [3, 5, 9]",
+      "assert Extract([['x', 'y', 'z'], ['m'], ['a', 'b'], ['u', 'v']]) == ['z', 'm', 'b', 'v']",
+      "assert Extract([[1, 2, 3], [4, 5]]) == [3, 5]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "283": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "count_range_in_list",
+    "tests": [
+      "assert count_range_in_list([10,20,30,40,40,40,70,80,99],40,100)==6",
+      "assert count_range_in_list(['a','b','c','d','e','f'],'a','e')==5",
+      "assert count_range_in_list([7,8,9,15,17,19,45],15,20)==3"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "284": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "is_key_present",
+    "tests": [
+      "assert is_key_present({1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60},5)==True",
+      "assert is_key_present({1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60},6)==True",
+      "assert is_key_present({1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60},10)==False"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "285": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "min_Swaps",
+    "tests": [
+      "assert min_Swaps(\"1101\",\"1110\") == 1",
+      "assert min_Swaps(\"1111\",\"0100\") == \"Not Possible\"",
+      "assert min_Swaps(\"1110000\",\"0001101\") == 3"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "286": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "access_key",
+    "tests": [
+      "assert access_key({'physics': 80, 'math': 90, 'chemistry': 86},0)== 'physics'",
+      "assert access_key({'python':10, 'java': 20, 'C++':30},2)== 'C++'",
+      "assert access_key({'program':15,'computer':45},1)== 'computer'"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "287": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "check_date",
+    "tests": [
+      "assert check_date(11,11,2002)==True",
+      "assert check_date(13,11,2002)==False",
+      "assert check_date('11','11','2002')==True"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "288": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "max_of_two",
+    "tests": [
+      "assert max_of_two(10,20)==20",
+      "assert max_of_two(19,15)==19",
+      "assert max_of_two(-10,-20)==-10"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "289": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "sum_num",
+    "tests": [
+      "assert sum_num((8, 2, 3, 0, 7))==4.0",
+      "assert sum_num((-10,-20,-30))==-20.0",
+      "assert sum_num((19,15,18))==17.333333333333332"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "290": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "text_match",
+    "tests": [
+      "assert text_match(\"msb\") == 'Not matched!'",
+      "assert text_match(\"a0c\") == 'Found a match!'",
+      "assert text_match(\"abbc\") == 'Found a match!'"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "291": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "div_of_nums",
+    "tests": [
+      "assert div_of_nums([19, 65, 57, 39, 152, 639, 121, 44, 90, 190],2,4)==[ 152,44]",
+      "assert div_of_nums([1, 2, 3, 5, 7, 8, 10],2,5)==[10]",
+      "assert div_of_nums([10,15,14,13,18,12,20],10,5)==[10,20]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "292": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "sort_tuple",
+    "tests": [
+      "assert sort_tuple([(\"Amana\", 28), (\"Zenat\", 30), (\"Abhishek\", 29),(\"Nikhil\", 21), (\"B\", \"C\")]) == [('Abhishek', 29), ('Amana', 28), ('B', 'C'), ('Nikhil', 21), ('Zenat', 30)]",
+      "assert sort_tuple([(\"aaaa\", 28), (\"aa\", 30), (\"bab\", 29), (\"bb\", 21), (\"csa\", \"C\")]) == [('aa', 30), ('aaaa', 28), ('bab', 29), ('bb', 21), ('csa', 'C')]",
+      "assert sort_tuple([(\"Sarala\", 28), (\"Ayesha\", 30), (\"Suman\", 29),(\"Sai\", 21), (\"G\", \"H\")]) == [('Ayesha', 30), ('G', 'H'), ('Sai', 21), ('Sarala', 28), ('Suman', 29)]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "293": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "decreasing_trend",
+    "tests": [
+      "assert decreasing_trend([-4,-3,-2,-1]) == True",
+      "assert decreasing_trend([1,2,3]) == True",
+      "assert decreasing_trend([3,2,1]) == False"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "294": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "freq_element",
+    "tests": [
+      "assert freq_element((4, 5, 4, 5, 6, 6, 5, 5, 4) ) == '{4: 3, 5: 4, 6: 2}'",
+      "assert freq_element((7, 8, 8, 9, 4, 7, 6, 5, 4) ) == '{7: 2, 8: 2, 9: 1, 4: 2, 6: 1, 5: 1}'",
+      "assert freq_element((1, 4, 3, 1, 4, 5, 2, 6, 2, 7) ) == '{1: 2, 4: 2, 3: 1, 5: 1, 2: 2, 6: 1, 7: 1}'"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "295": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "rombus_perimeter",
+    "tests": [
+      "assert rombus_perimeter(10)==40",
+      "assert rombus_perimeter(5)==20",
+      "assert rombus_perimeter(4)==16"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "296": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "set_Right_most_Unset_Bit",
+    "tests": [
+      "assert set_Right_most_Unset_Bit(21) == 23",
+      "assert set_Right_most_Unset_Bit(11) == 15",
+      "assert set_Right_most_Unset_Bit(15) == 15"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "297": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "sum_series",
+    "tests": [
+      "assert sum_series(7)==784",
+      "assert sum_series(5)==225",
+      "assert sum_series(15)==14400"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "298": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "road_rd",
+    "tests": [
+      "assert road_rd(\"ravipadu Road\")==('ravipadu Rd.')",
+      "assert road_rd(\"palnadu Road\")==('palnadu Rd.')",
+      "assert road_rd(\"eshwar enclave Road\")==('eshwar enclave Rd.')"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "299": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "match_num",
+    "tests": [
+      "assert match_num('5-2345861')==True",
+      "assert match_num('6-2345861')==False",
+      "assert match_num('78910')==False"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "300": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "remove_spaces",
+    "tests": [
+      "assert remove_spaces(\"a b c\") == \"abc\"",
+      "assert remove_spaces(\"1 2 3\") == \"123\"",
+      "assert remove_spaces(\" b c\") == \"bc\""
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "301": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "check_monthnumb",
+    "tests": [
+      "assert check_monthnumb(\"February\")==False",
+      "assert check_monthnumb(\"January\")==True",
+      "assert check_monthnumb(\"March\")==True"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "302": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "remove_even",
+    "tests": [
+      "assert remove_even([1,3,5,2]) == [1,3,5]",
+      "assert remove_even([5,6,7]) == [5,7]",
+      "assert remove_even([1,2,3,4]) == [1,3]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "303": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "Check_Vow",
+    "tests": [
+      "assert Check_Vow('corner','AaEeIiOoUu') == 2",
+      "assert Check_Vow('valid','AaEeIiOoUu') == 2",
+      "assert Check_Vow('true','AaEeIiOoUu') ==2"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "304": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "check",
+    "tests": [
+      "assert check(\"SEEquoiaL\") == 'accepted'",
+      "assert check('program') == \"not accepted\"",
+      "assert check('fine') == \"not accepted\""
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "305": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "Check_Solution",
+    "tests": [
+      "assert Check_Solution(2,0,2) == \"Yes\"",
+      "assert Check_Solution(2,-5,2) == \"Yes\"",
+      "assert Check_Solution(1,2,3) == \"No\""
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "306": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "mul_consecutive_nums",
+    "tests": [
+      "assert mul_consecutive_nums([1, 1, 3, 4, 4, 5, 6, 7])==[1, 3, 12, 16, 20, 30, 42]",
+      "assert mul_consecutive_nums([4, 5, 8, 9, 6, 10])==[20, 40, 72, 54, 60]",
+      "assert mul_consecutive_nums([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])==[2, 6, 12, 20, 30, 42, 56, 72, 90]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "307": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "len_complex",
+    "tests": [
+      "assert len_complex(3,4)==5.0",
+      "assert len_complex(9,10)==13.45362404707371",
+      "assert len_complex(7,9)==11.40175425099138"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "308": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "matrix_to_list",
+    "tests": [
+      "assert matrix_to_list([[(4, 5), (7, 8)], [(10, 13), (18, 17)], [(0, 4), (10, 1)]]) == '[(4, 7, 10, 18, 0, 10), (5, 8, 13, 17, 4, 1)]'",
+      "assert matrix_to_list([[(5, 6), (8, 9)], [(11, 14), (19, 18)], [(1, 5), (11, 2)]]) == '[(5, 8, 11, 19, 1, 11), (6, 9, 14, 18, 5, 2)]'",
+      "assert matrix_to_list([[(6, 7), (9, 10)], [(12, 15), (20, 21)], [(23, 7), (15, 8)]]) == '[(6, 9, 12, 20, 23, 15), (7, 10, 15, 21, 7, 8)]'"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "309": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "No_of_cubes",
+    "tests": [
+      "assert No_of_cubes(2,1) == 8",
+      "assert No_of_cubes(5,2) == 64",
+      "assert No_of_cubes(1,1) == 1"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "310": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "find_max_val",
+    "tests": [
+      "assert find_max_val(15, 10, 5) == 15",
+      "assert find_max_val(187, 10, 5) == 185",
+      "assert find_max_val(16, 11, 1) == 12"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "311": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "arc_length",
+    "tests": [
+      "assert arc_length(9,45)==3.5357142857142856",
+      "assert arc_length(9,480)==None",
+      "assert arc_length(5,270)==11.785714285714285"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "312": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "find_Points",
+    "tests": [
+      "assert find_Points(5,10,1,5) == (1,10)",
+      "assert find_Points(3,5,7,9) == (3,9)",
+      "assert find_Points(1,5,2,8) == (1,8)"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "313": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "are_Rotations",
+    "tests": [
+      "assert are_Rotations(\"abc\",\"cba\") == False",
+      "assert are_Rotations(\"abcd\",\"cdba\") == False",
+      "assert are_Rotations(\"abacd\",\"cdaba\") == True"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "314": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "sort_list_last",
+    "tests": [
+      "assert sort_list_last([(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)])==[(2, 1), (1, 2), (2, 3), (4, 4), (2, 5)] ",
+      "assert sort_list_last([(9,8), (4, 7), (3,5), (7,9), (1,2)])==[(1,2), (3,5), (4,7), (9,8), (7,9)] ",
+      "assert sort_list_last([(20,50), (10,20), (40,40)])==[(10,20),(40,40),(20,50)] "
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "315": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "lcm",
+    "tests": [
+      "assert lcm(4,6) == 12",
+      "assert lcm(15,17) == 255",
+      "assert lcm(2,6) == 6"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "316": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "split_upperstring",
+    "tests": [
+      "assert split_upperstring(\"PythonProgramLanguage\")==['Python','Program','Language']",
+      "assert split_upperstring(\"PythonProgram\")==['Python','Program']",
+      "assert split_upperstring(\"ProgrammingLanguage\")==['Programming','Language']"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "317": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "split_list",
+    "tests": [
+      "assert split_list(\"LearnToBuildAnythingWithGoogle\") == ['Learn', 'To', 'Build', 'Anything', 'With', 'Google']",
+      "assert split_list(\"ApmlifyingTheBlack+DeveloperCommunity\") == ['Apmlifying', 'The', 'Black+', 'Developer', 'Community']",
+      "assert split_list(\"UpdateInTheGoEcoSystem\") == ['Update', 'In', 'The', 'Go', 'Eco', 'System']"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "318": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "count_Rotation",
+    "tests": [
+      "assert count_Rotation([3,2,1],3) == 1",
+      "assert count_Rotation([4,5,1,2,3],5) == 2",
+      "assert count_Rotation([7,8,9,1,2,3],6) == 3"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "319": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "discriminant_value",
+    "tests": [
+      "assert discriminant_value(4,8,2)==(\"Two solutions\",32)",
+      "assert discriminant_value(5,7,9)==(\"no real solution\",-131)",
+      "assert discriminant_value(0,0,9)==(\"one solution\",0)"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "320": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "mul_list",
+    "tests": [
+      "assert mul_list([1, 2, 3],[4,5,6])==[4,10,18]",
+      "assert mul_list([1,2],[3,4])==[3,8]",
+      "assert mul_list([90,120],[50,70])==[4500,8400]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "321": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "tuple_to_set",
+    "tests": [
+      "assert tuple_to_set(('x', 'y', 'z') ) == {'y', 'x', 'z'}",
+      "assert tuple_to_set(('a', 'b', 'c') ) == {'c', 'a', 'b'}",
+      "assert tuple_to_set(('z', 'd', 'e') ) == {'d', 'e', 'z'}"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "322": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "count_list",
+    "tests": [
+      "assert count_list([[0], [1, 3], [5, 7], [9, 11], [13, 15, 17]])==25",
+      "assert count_list([[1, 3], [5, 7], [9, 11], [13, 15, 17]] )==16",
+      "assert count_list([[2, 4], [[6,8], [4,5,8]], [10, 12, 14]])==9"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "323": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "extract_max",
+    "tests": [
+      "assert extract_max('100klh564abc365bg') == 564",
+      "assert extract_max('hello300how546mer231') == 546",
+      "assert extract_max('its233beenalong343journey234') == 343"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "324": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "check_Odd_Parity",
+    "tests": [
+      "assert check_Odd_Parity(13) == True",
+      "assert check_Odd_Parity(21) == True",
+      "assert check_Odd_Parity(18) == False"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "325": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "camel_to_snake",
+    "tests": [
+      "assert camel_to_snake('GoogleAssistant') == 'google_assistant'",
+      "assert camel_to_snake('ChromeCast') == 'chrome_cast'",
+      "assert camel_to_snake('QuadCore') == 'quad_core'"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "326": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "lower_ctr",
+    "tests": [
+      "assert lower_ctr('abc') == 3",
+      "assert lower_ctr('string') == 6",
+      "assert lower_ctr('Python') == 5"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "327": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "Check_Solution",
+    "tests": [
+      "assert Check_Solution(2,5,2) == \"2 solutions\"",
+      "assert Check_Solution(1,1,1) == \"No solutions\"",
+      "assert Check_Solution(1,2,1) == \"1 solution\""
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "328": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "chinese_zodiac",
+    "tests": [
+      "assert chinese_zodiac(1997)==('Ox')",
+      "assert chinese_zodiac(1998)==('Tiger')",
+      "assert chinese_zodiac(1994)==('Dog')"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "329": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "min_jumps",
+    "tests": [
+      "assert min_jumps([1, 3, 6, 1, 0, 9], 6) == 3",
+      "assert min_jumps([1, 3, 5, 8, 9, 2, 6, 7, 6, 8, 9], 11) == 3",
+      "assert min_jumps([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 11) == 10"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "330": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "count_even",
+    "tests": [
+      "assert count_even([1, 2, 3, 5, 7, 8, 9, 10])==3",
+      "assert count_even([10,15,14,13,-18,12,-20])==5",
+      "assert count_even([1, 2, 4, 8, 9])==3"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "331": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "roman_to_int",
+    "tests": [
+      "assert roman_to_int('MMMCMLXXXVI')==3986",
+      "assert roman_to_int('MMMM')==4000",
+      "assert roman_to_int('C')==100"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "332": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "generate_matrix",
+    "tests": [
+      "assert generate_matrix(3)==[[1, 2, 3], [8, 9, 4], [7, 6, 5]] ",
+      "assert generate_matrix(2)==[[1,2],[4,3]]",
+      "assert generate_matrix(7)==[[1, 2, 3, 4, 5, 6, 7], [24, 25, 26, 27, 28, 29, 8], [23, 40, 41, 42, 43, 30, 9], [22, 39, 48, 49, 44, 31, 10], [21, 38, 47, 46, 45, 32, 11], [20, 37, 36, 35, 34, 33, 12], [19, 18, 17, 16, 15, 14, 13]]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "333": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "count_char",
+    "tests": [
+      "assert count_char(\"Python\",'o')==1",
+      "assert count_char(\"little\",'t')==2",
+      "assert count_char(\"assert\",'s')==2"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "334": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "maximum_product",
+    "tests": [
+      "assert maximum_product( [12, 74, 9, 50, 61, 41])==225700",
+      "assert maximum_product([25, 35, 22, 85, 14, 65, 75, 25, 58])==414375",
+      "assert maximum_product([18, 14, 10, 9, 8, 7, 9, 3, 2, 4, 1])==2520"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "335": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "removals",
+    "tests": [
+      "assert removals([1, 3, 4, 9, 10,11, 12, 17, 20], 9, 4) == 5",
+      "assert removals([1, 5, 6, 2, 8], 5, 2) == 3",
+      "assert removals([1, 2, 3 ,4, 5, 6], 6, 3) == 2"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "336": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "equilibrium_index",
+    "tests": [
+      "assert equilibrium_index([1, 2, 3, 4, 1, 2, 3]) == 3",
+      "assert equilibrium_index([-7, 1, 5, 2, -4, 3, 0]) == 3",
+      "assert equilibrium_index([1, 2, 3]) == -1"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "337": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "replace",
+    "tests": [
+      "assert replace('peep','e') == 'pep'",
+      "assert replace('Greek','e') == 'Grek'",
+      "assert replace('Moon','o') == 'Mon'"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "338": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "even_Power_Sum",
+    "tests": [
+      "assert even_Power_Sum(2) == 272",
+      "assert even_Power_Sum(3) == 1568",
+      "assert even_Power_Sum(4) == 5664"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "339": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "is_odd",
+    "tests": [
+      "assert is_odd(5) == True",
+      "assert is_odd(6) == False",
+      "assert is_odd(7) == True"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "340": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "max_occurrences",
+    "tests": [
+      "assert max_occurrences([2,3,8,4,7,9,8,2,6,5,1,6,1,2,3,4,6,9,1,2])==2",
+      "assert max_occurrences([1, 3,5, 7,1, 3,13, 15, 17,5, 7,9,1, 11])==1",
+      "assert max_occurrences([1, 2, 3,2, 4, 5,1, 1, 1])==1"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "341": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "len_log",
+    "tests": [
+      "assert len_log([\"win\",\"lose\",\"great\"]) == 3",
+      "assert len_log([\"a\",\"ab\",\"abc\"]) == 1",
+      "assert len_log([\"12\",\"12\",\"1234\"]) == 2"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "342": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "check_subset",
+    "tests": [
+      "assert check_subset([[1, 3], [5, 7], [9, 11], [13, 15, 17]] ,[[1, 3],[13,15,17]])==True",
+      "assert check_subset([[1, 2], [2, 3], [3, 4], [5, 6]],[[3, 4], [5, 6]])==True",
+      "assert check_subset([[[1, 2], [2, 3]], [[3, 4], [5, 7]]],[[[3, 4], [5, 6]]])==False"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "343": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "reverse_list_lists",
+    "tests": [
+      "assert reverse_list_lists([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]])==[[4, 3, 2, 1], [8, 7, 6, 5], [12, 11, 10, 9], [16, 15, 14, 13]]",
+      "assert reverse_list_lists([[1,2],[2,3],[3,4]])==[[2,1],[3,2],[4,3]]",
+      "assert reverse_list_lists([[10,20],[30,40]])==[[20,10],[40,30]]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "344": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "remove_duplicate",
+    "tests": [
+      "assert remove_duplicate([[10, 20], [40], [30, 56, 25], [10, 20], [33], [40]])==[[10, 20], [30, 56, 25], [33], [40]] ",
+      "assert remove_duplicate([\"a\", \"b\", \"a\", \"c\", \"c\"] )==[\"a\", \"b\", \"c\"]",
+      "assert remove_duplicate([1, 3, 5, 6, 3, 5, 6, 1] )==[1, 3, 5, 6]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "345": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "grouping_dictionary",
+    "tests": [
+      "assert grouping_dictionary([('yellow', 1), ('blue', 2), ('yellow', 3), ('blue', 4), ('red', 1)])== ({'yellow': [1, 3], 'blue': [2, 4], 'red': [1]})",
+      "assert grouping_dictionary([('yellow', 10), ('blue', 20), ('yellow', 30), ('blue', 40), ('red', 10)])== ({'yellow': [10, 30], 'blue': [20, 40], 'red': [10]})",
+      "assert grouping_dictionary([('yellow', 15), ('blue', 25), ('yellow', 35), ('blue', 45), ('red', 15)])== ({'yellow': [15, 35], 'blue': [25, 45], 'red': [15]})"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "346": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "count_duplic",
+    "tests": [
+      "assert count_duplic([1,2,2,2,4,4,4,5,5,5,5])==([1, 2, 4, 5], [1, 3, 3, 4])",
+      "assert count_duplic([2,2,3,1,2,6,7,9])==([2, 3, 1, 2, 6, 7, 9], [2, 1, 1, 1, 1, 1, 1])",
+      "assert count_duplic([2,1,5,6,8,3,4,9,10,11,8,12])==([2, 1, 5, 6, 8, 3, 4, 9, 10, 11, 8, 12], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1])"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "347": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "extract_unique",
+    "tests": [
+      "assert extract_unique({'msm' : [5, 6, 7, 8],'is' : [10, 11, 7, 5],'best' : [6, 12, 10, 8],'for' : [1, 2, 5]} ) == [1, 2, 5, 6, 7, 8, 10, 11, 12]",
+      "assert extract_unique({'Built' : [7, 1, 9, 4],'for' : [11, 21, 36, 14, 9],'ISP' : [4, 1, 21, 39, 47],'TV' : [1, 32, 38]} ) == [1, 4, 7, 9, 11, 14, 21, 32, 36, 38, 39, 47]",
+      "assert extract_unique({'F' : [11, 13, 14, 17],'A' : [12, 11, 15, 18],'N' : [19, 21, 15, 36],'G' : [37, 36, 35]}) == [11, 12, 13, 14, 15, 17, 18, 19, 21, 35, 36, 37]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "348": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "check_greater",
+    "tests": [
+      "assert check_greater((10, 4, 5), (13, 5, 18)) == True",
+      "assert check_greater((1, 2, 3), (2, 1, 4)) == False",
+      "assert check_greater((4, 5, 6), (5, 6, 7)) == True"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "349": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "text_match",
+    "tests": [
+      "assert text_match(\"ac\")==('Found a match!')",
+      "assert text_match(\"dc\")==('Not matched!')",
+      "assert text_match(\"abba\")==('Found a match!')"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "350": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "find_Extra",
+    "tests": [
+      "assert find_Extra([1,2,3,4],[1,2,3],3) == 3",
+      "assert find_Extra([2,4,6,8,10],[2,4,6,8],4) == 4",
+      "assert find_Extra([1,3,5,7,9,11],[1,3,5,7,9],5) == 5"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "351": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "geometric_sum",
+    "tests": [
+      "assert geometric_sum(7) == 1.9921875",
+      "assert geometric_sum(4) == 1.9375",
+      "assert geometric_sum(8) == 1.99609375"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "352": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "length_Of_Last_Word",
+    "tests": [
+      "assert length_Of_Last_Word(\"python language\") == 8",
+      "assert length_Of_Last_Word(\"PHP\") == 3",
+      "assert length_Of_Last_Word(\"\") == 0"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "353": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "text_uppercase_lowercase",
+    "tests": [
+      "assert text_uppercase_lowercase(\"AaBbGg\")==('Found a match!')",
+      "assert text_uppercase_lowercase(\"aA\")==('Not matched!')",
+      "assert text_uppercase_lowercase(\"PYTHON\")==('Not matched!')"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "354": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "Sum_of_Inverse_Divisors",
+    "tests": [
+      "assert Sum_of_Inverse_Divisors(6,12) == 2",
+      "assert Sum_of_Inverse_Divisors(9,13) == 1.44",
+      "assert Sum_of_Inverse_Divisors(1,4) == 4"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "355": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "left_rotate",
+    "tests": [
+      "assert left_rotate(\"python\",2) == \"thonpy\"   ",
+      "assert left_rotate(\"bigdata\",3 ) == \"databig\" ",
+      "assert left_rotate(\"hadoop\",1 ) == \"adooph\" "
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "356": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "harmonic_sum",
+    "tests": [
+      "assert harmonic_sum(10)==2.9289682539682538",
+      "assert harmonic_sum(4)==2.083333333333333",
+      "assert harmonic_sum(7)==2.5928571428571425 "
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "357": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "chunk_tuples",
+    "tests": [
+      "assert chunk_tuples((10, 4, 5, 6, 7, 6, 8, 3, 4), 3) == [(10, 4, 5), (6, 7, 6), (8, 3, 4)]",
+      "assert chunk_tuples((1, 2, 3, 4, 5, 6, 7, 8, 9), 2) == [(1, 2), (3, 4), (5, 6), (7, 8), (9,)]",
+      "assert chunk_tuples((11, 14, 16, 17, 19, 21, 22, 25), 4) == [(11, 14, 16, 17), (19, 21, 22, 25)]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "358": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "fifth_Power_Sum",
+    "tests": [
+      "assert fifth_Power_Sum(2) == 33",
+      "assert fifth_Power_Sum(4) == 1300",
+      "assert fifth_Power_Sum(3) == 276"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "359": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "re_arrange_tuples",
+    "tests": [
+      "assert re_arrange_tuples([(4, 3), (1, 9), (2, 10), (3, 2)],  [1, 4, 2, 3]) == [(1, 9), (4, 3), (2, 10), (3, 2)]",
+      "assert re_arrange_tuples([(5, 4), (2, 10), (3, 11), (4, 3)],  [3, 4, 2, 3]) == [(3, 11), (4, 3), (2, 10), (3, 11)]",
+      "assert re_arrange_tuples([(6, 3), (3, 8), (5, 7), (2, 4)],  [2, 5, 3, 6]) == [(2, 4), (5, 7), (3, 8), (6, 3)]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "360": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "exchange_elements",
+    "tests": [
+      "assert exchange_elements([0,1,2,3,4,5])==[1, 0, 3, 2, 5, 4] ",
+      "assert exchange_elements([5,6,7,8,9,10])==[6,5,8,7,10,9] ",
+      "assert exchange_elements([25,35,45,55,75,95])==[35,25,55,45,95,75] "
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "361": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "text_match",
+    "tests": [
+      "assert text_match(\"aabbbbd\") == 'Not matched!'",
+      "assert text_match(\"aabAbbbc\") == 'Not matched!'",
+      "assert text_match(\"accddbbjjjb\") == 'Found a match!'"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "362": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "max_sum_subseq",
+    "tests": [
+      "assert max_sum_subseq([1, 2, 9, 4, 5, 0, 4, 11, 6]) == 26",
+      "assert max_sum_subseq([1, 2, 9, 5, 6, 0, 5, 12, 7]) == 28",
+      "assert max_sum_subseq([1, 3, 10, 5, 6, 0, 6, 14, 21]) == 44"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "363": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "count_Char",
+    "tests": [
+      "assert count_Char(\"abcac\",'a') == 4",
+      "assert count_Char(\"abca\",'c') == 2",
+      "assert count_Char(\"aba\",'a') == 7"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "364": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "heap_sort",
+    "tests": [
+      "assert heap_sort([12, 2, 4, 5, 2, 3]) == [2, 2, 3, 4, 5, 12]",
+      "assert heap_sort([32, 14, 5, 6, 7, 19]) == [5, 6, 7, 14, 19, 32]",
+      "assert heap_sort([21, 15, 29, 78, 65]) == [15, 21, 29, 65, 78]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "365": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "maximum_value",
+    "tests": [
+      "assert maximum_value([('key1', [3, 4, 5]), ('key2', [1, 4, 2]), ('key3', [9, 3])]) == [('key1', 5), ('key2', 4), ('key3', 9)]",
+      "assert maximum_value([('key1', [4, 5, 6]), ('key2', [2, 5, 3]), ('key3', [10, 4])]) == [('key1', 6), ('key2', 5), ('key3', 10)]",
+      "assert maximum_value([('key1', [5, 6, 7]), ('key2', [3, 6, 4]), ('key3', [11, 5])]) == [('key1', 7), ('key2', 6), ('key3', 11)]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "366": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "end_num",
+    "tests": [
+      "assert end_num('abcdef')==False",
+      "assert end_num('abcdef7')==True",
+      "assert end_num('abc')==False"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "367": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "super_seq",
+    "tests": [
+      "assert super_seq(\"AGGTAB\", \"GXTXAYB\", 6, 7) == 9",
+      "assert super_seq(\"feek\", \"eke\", 4, 3) == 5",
+      "assert super_seq(\"PARRT\", \"RTA\", 5, 3) == 6"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "368": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "max_of_three",
+    "tests": [
+      "assert max_of_three(10,20,30)==30",
+      "assert max_of_three(55,47,39)==55",
+      "assert max_of_three(10,49,30)==49"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "369": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "get_noOfways",
+    "tests": [
+      "assert get_noOfways(4)==3",
+      "assert get_noOfways(3)==2",
+      "assert get_noOfways(5)==5"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "370": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "slope",
+    "tests": [
+      "assert slope(4,2,2,5) == -1.5",
+      "assert slope(2,4,4,6) == 1",
+      "assert slope(1,2,4,2) == 0"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "371": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "merge_dictionaries",
+    "tests": [
+      "assert merge_dictionaries({ \"R\": \"Red\", \"B\": \"Black\", \"P\": \"Pink\" }, { \"G\": \"Green\", \"W\": \"White\" })=={'B': 'Black', 'R': 'Red', 'P': 'Pink', 'G': 'Green', 'W': 'White'}",
+      "assert merge_dictionaries({ \"R\": \"Red\", \"B\": \"Black\", \"P\": \"Pink\" },{ \"O\": \"Orange\", \"W\": \"White\", \"B\": \"Black\" })=={'O': 'Orange', 'P': 'Pink', 'B': 'Black', 'W': 'White', 'R': 'Red'}",
+      "assert merge_dictionaries({ \"G\": \"Green\", \"W\": \"White\" },{ \"O\": \"Orange\", \"W\": \"White\", \"B\": \"Black\" })=={'W': 'White', 'O': 'Orange', 'G': 'Green', 'B': 'Black'}"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "372": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "check_Type_Of_Triangle",
+    "tests": [
+      "assert check_Type_Of_Triangle(1,2,3) == \"Obtuse-angled Triangle\"",
+      "assert check_Type_Of_Triangle(2,2,2) == \"Acute-angled Triangle\"",
+      "assert check_Type_Of_Triangle(1,0,1) == \"Right-angled Triangle\""
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "373": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "remove_duplicate",
+    "tests": [
+      "assert remove_duplicate(\"Python Exercises Practice Solution Exercises\")==(\"Python Exercises Practice Solution\")",
+      "assert remove_duplicate(\"Python Exercises Practice Solution Python\")==(\"Python Exercises Practice Solution\")",
+      "assert remove_duplicate(\"Python Exercises Practice Solution Practice\")==(\"Python Exercises Practice Solution\")"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "374": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "product_Equal",
+    "tests": [
+      "assert product_Equal(2841) == True",
+      "assert product_Equal(1234) == False",
+      "assert product_Equal(1212) == False"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "375": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "check_identical",
+    "tests": [
+      "assert check_identical([(10, 4), (2, 5)], [(10, 4), (2, 5)]) == True",
+      "assert check_identical([(1, 2), (3, 7)], [(12, 14), (12, 45)]) == False",
+      "assert check_identical([(2, 14), (12, 25)], [(2, 14), (12, 25)]) == True"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "376": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "count_Set_Bits",
+    "tests": [
+      "assert count_Set_Bits(16) == 33",
+      "assert count_Set_Bits(2) == 2",
+      "assert count_Set_Bits(14) == 28"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "377": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "swap_List",
+    "tests": [
+      "assert swap_List([1,2,3]) == [3,2,1]",
+      "assert swap_List([1,2,3,4,4]) == [4,2,3,4,1]",
+      "assert swap_List([4,5,6]) == [6,5,4]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "378": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "smallest_multiple",
+    "tests": [
+      "assert smallest_multiple(13)==360360",
+      "assert smallest_multiple(2)==2",
+      "assert smallest_multiple(1)==1"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "379": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "check_IP",
+    "tests": [
+      "assert check_IP(\"192.168.0.1\") == 'Valid IP address'",
+      "assert check_IP(\"110.234.52.124\") == 'Valid IP address'",
+      "assert check_IP(\"366.1.2.2\") == 'Invalid IP address'"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "380": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "max_char",
+    "tests": [
+      "assert max_char(\"hello world\")==('l')",
+      "assert max_char(\"hello \")==('l')",
+      "assert max_char(\"python pr\")==('p')"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "381": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "div_of_nums",
+    "tests": [
+      "assert div_of_nums([19, 65, 57, 39, 152, 639, 121, 44, 90, 190],19,13)==[19, 65, 57, 39, 152, 190]",
+      "assert div_of_nums([1, 2, 3, 5, 7, 8, 10],2,5)==[2, 5, 8, 10]",
+      "assert div_of_nums([10,15,14,13,18,12,20],10,5)==[10, 15, 20]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "382": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "find_Min_Swaps",
+    "tests": [
+      "assert find_Min_Swaps([1,0,1,0],4) == 3",
+      "assert find_Min_Swaps([0,1,0],3) == 1",
+      "assert find_Min_Swaps([0,0,1,1,0],5) == 2"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  },
+  "383": {
+    "kind": "mbpp_training_original_tests",
+    "entry_point": "move_last",
+    "tests": [
+      "assert move_last([1,2,3,4]) == [2,3,4,1]",
+      "assert move_last([2,3,4,1,5,0]) == [3,4,1,5,0,2]",
+      "assert move_last([5,4,3,2,1]) == [4,3,2,1,5]"
+    ],
+    "setup": "",
+    "min_time_limit": 4,
+    "gt_time_limit_factor": 4
+  }
+}

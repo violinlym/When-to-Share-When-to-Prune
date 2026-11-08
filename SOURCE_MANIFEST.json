@@ -1,0 +1,454 @@
+[
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/60_PERCENT_DECISION.md",
+    "sha256": "0ccd14bd1e263639404a893e86473bd377cf2074cbe4e52818dfe3f6a9b5389d"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/README.md",
+    "sha256": "f82f6147cf14f04c9efc1da246219b68318d6d51602d4f7fa032908108d0721f"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/REPORT.md",
+    "sha256": "59542890a12c65c5776e76e84124db47966bc55cb8586f3febe30da64e4204fa"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/configs/protocol.json",
+    "sha256": "0e00570a7a827780fb60c24605865b1ce7d297c6c8f4ae07325500ef568fde11"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/configs/source_lock.json",
+    "sha256": "2d119cc56f805613980e9008a474f25a42ca4d6009f1ace34cab60773c3b35c4"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/cache.py",
+    "sha256": "7a0f781c4225d21dd0e71cd0627d563ffe42175f195f2042ff3898b29a82feb5"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/code_contract.json",
+    "sha256": "2cf0f021cfc0c7d15111c20414f40070c6baad25ef09cbfe0f1673ade12e49e6"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/code_only.py",
+    "sha256": "ace2a64138f040ac95f3a22d44c0adf14eea327747ceb44d17b14a637035511e"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/common.py",
+    "sha256": "14b00f385e677b45ecaa6c745159f7efa4581a0457601f47ae1b5541de3f89b9"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/completion.py",
+    "sha256": "c60e9d798f05afe294824b51869c0781251e6a3286b464c55dfcd58dae675cb0"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/density_selection.py",
+    "sha256": "3126f4fba826f90d40a7e0999eccda025f67b831d8440365731e601138abc305"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/engine.py",
+    "sha256": "a78dc8c51af23cab6de191cbe6e50c3f27b270589a193b7e4cfdf9a551fcca6e"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/exposure_cache.py",
+    "sha256": "42dea21381f14aa283bb809f17cd92ef4654d018bde1b032caae35667f49b951"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/frozen_code_grader.py",
+    "sha256": "215a7f478dba3db839c684385e446517ff8ec5d2b0597bf91c25226943dd2f36"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/frozen_math_helpers.py",
+    "sha256": "be197826ac55620f672fa90799216ab73e77f1bfed9ac9addd38bbb49e9b2f54"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/global_cache.py",
+    "sha256": "7e40d44502375bca3c9e065f79768a298e2b6363c1364b7b3a88056baf942f2e"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/granular_cache.py",
+    "sha256": "c55015441d11bba47e125a238614e6a7a487733d428cfcc96e88dc87c9f20432"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/hierarchy.py",
+    "sha256": "32464e4125ff1b2633b8992c70bee2093b465ed37cc896c13e0365e40a316fea"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/hierarchy_cache.py",
+    "sha256": "d273896048cc5572bd7d7ed51e5a9a848a1f5e470c713a6cb7c0882956fa4386"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/joint_cache.py",
+    "sha256": "9ca33c2292735b110f6785ab11bded67718ec79ef58e2c4e8c5c542249657d0f"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/parity.py",
+    "sha256": "5454d12cecc69ce0692db3d57fb893742d94de66f3b4edf0dbf1440af00c6e9c"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/pooled_cache.py",
+    "sha256": "e32b0754d05aafe6ca64ec202d39ef5655dc23371adada8705a32f2aacd8a15e"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/price_exchange_cache.py",
+    "sha256": "e4ac5dc77fbf476c2f0942eedc507f6d656bb613384c73c963f2144f127fdf96"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/recent_cache.py",
+    "sha256": "a80f32a8e5baa28dfd4418eb756232aeaca18d9fc956321acdf26dc87c0c3b98"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/score.py",
+    "sha256": "b9920bdb2ece0bf34afe57f630f89f72f615e33511212931b72cb14293ce6261"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/score_dev64.py",
+    "sha256": "4e1b4e0d8be7620d6f639ec3b91e6eee880a7cfed7f61a4c123d7d62288b8ba1"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/streaming_cache.py",
+    "sha256": "42b9877288431b29e305dcb9486ccd5883857ff7f604045fafa35922323ececb"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/test_density.py",
+    "sha256": "2b3c47b7005802a302c69e60dc0580afe0a087b91d0acbe08ac64d6c99288bb7"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/test_exposure.py",
+    "sha256": "26787c98b0ed83ab351e5536a2797cc02134ba8a356c8d3ce0af7b7ec6a85a05"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/test_global.py",
+    "sha256": "15cac3aa3d9e485906ea58680c77da53ef0f8a3ff138a0dae584863824503445"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/test_granular.py",
+    "sha256": "9accda4c8d673fff4f672c617a72d13355338d7be1c6351d9e7a94a0130dd1e5"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/test_hierarchy.py",
+    "sha256": "b882f6194744ce03d8ae88ee9b0e0b47ebab0f4669234a4904cda35f0bacf862"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/test_hierarchy_cache.py",
+    "sha256": "6c5eff8cd366e8ae261a33469bb34e78703d00695535c22f090c476221992373"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/test_joint.py",
+    "sha256": "8c499b146cd5a2d1c681194c0f9693b2c1fe381c2e3eff0f1c1b4b061566625d"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/test_pooled_cache.py",
+    "sha256": "b26ebbf898e9061a3a036e3adf99586d9bbe5240662d8d7846a612fa230a3961"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/test_price_exchange.py",
+    "sha256": "af40181ba0b7bbf7635c0087922208b3d45cb822708711715433c2c60f56a20b"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/test_recent.py",
+    "sha256": "534548ffc90e4bffe53914f0d716bc17a939a0e2b7bf5049489780445fdae218"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/implementations/worker.py",
+    "sha256": "2fb6140ec56f2bb25116a554d1a4d202f45b435041e31e795491d3f67b22c94f"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/prompts/questions.jsonl",
+    "sha256": "232e38e7c95fe4aa0b76da1fc4391485f364120b6efadff90bb73a69c3ab0115"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/prompts/targets.json",
+    "sha256": "98173c8462770ad27f8adbd1bc220444d4c7aa9feda105c7a43cb108c9911b52"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/results/cpu_hierarchy_checks.json",
+    "sha256": "8f985692d74159718f228f4fc4a25da631b27459f749e2009dbd83fb2c6426ce"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/results/native_cache_cpu_checks.json",
+    "sha256": "3b5352cdb64065b97635c39cde699a6fef7a209e57b200e2dce69693a49638d6"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/results/per_document.json",
+    "sha256": "fa44dc5890a9a51a79f5b5b714b9a6f5874b4462751531426c6d64e163eac08e"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/results/price_exchange_cpu_checks.json",
+    "sha256": "ab931465dfa4506dbe428c75af5617bd88c4321c3e5392b8903a57a5bd925305"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/results/raw_audit.json",
+    "sha256": "736bf05af817204e80dc77d482c7da80cd10440cca3dae94bc720ccf2174cfc6"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/results/summary.json",
+    "sha256": "67fea4af0282098d697e9557e9ad230f6e71822d0de8e4ec813bd72e97409c68"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/scripts/cpu.sbatch",
+    "sha256": "7d050d00e595d81e74b63817d49870a9cb5cba171fcceeafb9222b27ffb56d6e"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/scripts/gpu.sbatch",
+    "sha256": "a414fa790e9541c2b6d4eba41e67290b990b849e02ed294fafe2678bda538482"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/scripts/runtime.sh",
+    "sha256": "095ded85b54396a4037bdd87e56c34cf43c404e785e7d703d33c43f37d740217"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_dev64/scripts/score_code.sh",
+    "sha256": "89ed475cfb096b0b9384054953873f77817e4b3c2c6e51a8f5d3bfb2b39f2541"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/README.md",
+    "sha256": "b6c6a1fa4ed6b0e3113ba6b18d85ef43f0a32af5e7630653284f4432895e35d2"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/REPORT.md",
+    "sha256": "368b56df80873095710650df75169fc6a5a8a9908d44149f3e6bab96b5cefe84"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/configs/candidate_dev_evidence.json",
+    "sha256": "78af111be88215352d475860f0cc706f98e9f49964ffe1aeeda66608f8b9d8e1"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/configs/control_reuse.json",
+    "sha256": "91c887ac02c6a23478108ea3b56797c8e5fc289b723620c5240a4bb0e9b7b90b"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/configs/dependencies.json",
+    "sha256": "ff7efcaa55c76f906b95cb9b05ae05031340ee95f6efcd2a3e086555369838dd"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/configs/engineering_doc.json",
+    "sha256": "6fdd463587bca8dd82e71f8550b89b3904497cbb6da55c4d592e70b6d6647181"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/configs/engineering_references.json",
+    "sha256": "a0a8e779f1acb263de413a71b01445a129b184c4a1624383b933bcb8d06e8af4"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/configs/full_reuse.json",
+    "sha256": "e26336e1491dfc413301ac7fa203d01fd5683f9ceb50ead5bf16549f26ad97aa"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/configs/promotion_gate.json",
+    "sha256": "2103cd38e3ef7dab66038015dd73a9cbebd0dd8a8d018a5e955548dcb46830ee"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/configs/protocol.json",
+    "sha256": "df90992da5bef71250fb474fc7336e4eecffc7b31294b0b5221b146b17e7d374"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/configs/source_lock.json",
+    "sha256": "357a4f85a8b9c2126ef81b5b2978aa3b2dd8767c33614b79ff9dae8c89bb92e3"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/cache.py",
+    "sha256": "7a0f781c4225d21dd0e71cd0627d563ffe42175f195f2042ff3898b29a82feb5"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/code_contract.json",
+    "sha256": "2cf0f021cfc0c7d15111c20414f40070c6baad25ef09cbfe0f1673ade12e49e6"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/code_only.py",
+    "sha256": "ace2a64138f040ac95f3a22d44c0adf14eea327747ceb44d17b14a637035511e"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/common.py",
+    "sha256": "b1168e9a5b9f7641cdd544983733d10f8f223a52285d4f3662d7ecb7f49e83c8"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/completion.py",
+    "sha256": "07e8a88322cfcd062f8ae5c8aa288ced27be31d5e3241e33b62aad524d5180a7"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/density_selection.py",
+    "sha256": "3126f4fba826f90d40a7e0999eccda025f67b831d8440365731e601138abc305"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/development_gate.py",
+    "sha256": "da5c8287f27c120f42091bf0d6fff0bef0307df1d628f35db52783de04fd6d8f"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/engine.py",
+    "sha256": "a78dc8c51af23cab6de191cbe6e50c3f27b270589a193b7e4cfdf9a551fcca6e"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/experiment7_audit.py",
+    "sha256": "b2318bdf41493f4d3756ea04dd1cfe1d99488950ce29fb31bfddafb2ac1c482a"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/export_reports.py",
+    "sha256": "07874ac144d698e5c9f3712aba8a2d5af59ff32ac481b4dd5f5784b28bffe17b"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/exposure_cache.py",
+    "sha256": "42dea21381f14aa283bb809f17cd92ef4654d018bde1b032caae35667f49b951"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/frozen_code_grader.py",
+    "sha256": "215a7f478dba3db839c684385e446517ff8ec5d2b0597bf91c25226943dd2f36"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/frozen_math_helpers.py",
+    "sha256": "be197826ac55620f672fa90799216ab73e77f1bfed9ac9addd38bbb49e9b2f54"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/global_cache.py",
+    "sha256": "7e40d44502375bca3c9e065f79768a298e2b6363c1364b7b3a88056baf942f2e"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/granular_cache.py",
+    "sha256": "c55015441d11bba47e125a238614e6a7a487733d428cfcc96e88dc87c9f20432"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/head_local_recent_cache.py",
+    "sha256": "bb56ba2029928d50f19fd4183e07a4b369eced2cf956772f4b93944aa921e837"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/heap_allocator.cpp",
+    "sha256": "35fd3b544698806b6e75584de4fab20788aa81b5aa04f08a46a8e68b85c09ad4"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/heap_allocator.py",
+    "sha256": "fe9d6bd5984d5fa7c6ef991ad5301c68f94765e887754e340ad6064a135ed2a7"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/hierarchy.py",
+    "sha256": "32464e4125ff1b2633b8992c70bee2093b465ed37cc896c13e0365e40a316fea"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/hierarchy_cache.py",
+    "sha256": "d273896048cc5572bd7d7ed51e5a9a848a1f5e470c713a6cb7c0882956fa4386"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/joint_cache.py",
+    "sha256": "9ca33c2292735b110f6785ab11bded67718ec79ef58e2c4e8c5c542249657d0f"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/joint_hierarchy_cache.py",
+    "sha256": "39caf5e06402cb4a59bdd56a371b1d835b26996119adca9031fcc5c776b463bc"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/local_recent_cache.py",
+    "sha256": "80f2a7b8dfd1d5df909ba461246e56de0dd37b68026a1537d90df53ba8b63900"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/parity.py",
+    "sha256": "5454d12cecc69ce0692db3d57fb893742d94de66f3b4edf0dbf1440af00c6e9c"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/pooled_cache.py",
+    "sha256": "e32b0754d05aafe6ca64ec202d39ef5655dc23371adada8705a32f2aacd8a15e"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/price_exchange_cache.py",
+    "sha256": "e4ac5dc77fbf476c2f0942eedc507f6d656bb613384c73c963f2144f127fdf96"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/recent_cache.py",
+    "sha256": "a80f32a8e5baa28dfd4418eb756232aeaca18d9fc956321acdf26dc87c0c3b98"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/score.py",
+    "sha256": "6b99369fbffca8298c58cb1ed97a9c54ae7e3867493e7fd7e2387d01fa50db28"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/score_dev64.py",
+    "sha256": "4e1b4e0d8be7620d6f639ec3b91e6eee880a7cfed7f61a4c123d7d62288b8ba1"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/streaming_cache.py",
+    "sha256": "42b9877288431b29e305dcb9486ccd5883857ff7f604045fafa35922323ececb"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/test_density.py",
+    "sha256": "2b3c47b7005802a302c69e60dc0580afe0a087b91d0acbe08ac64d6c99288bb7"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/test_experiment7.py",
+    "sha256": "48c179e3563678d0eb1c002fe3a0099abea433c884af99b9f50dc6993562f12b"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/test_exposure.py",
+    "sha256": "26787c98b0ed83ab351e5536a2797cc02134ba8a356c8d3ce0af7b7ec6a85a05"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/test_global.py",
+    "sha256": "15cac3aa3d9e485906ea58680c77da53ef0f8a3ff138a0dae584863824503445"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/test_granular.py",
+    "sha256": "9accda4c8d673fff4f672c617a72d13355338d7be1c6351d9e7a94a0130dd1e5"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/test_head_local.py",
+    "sha256": "d91bcbaf86faa609d01ab646e2855138bd7216b213b8395cee5be16b78103bae"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/test_joint.py",
+    "sha256": "8c499b146cd5a2d1c681194c0f9693b2c1fe381c2e3eff0f1c1b4b061566625d"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/test_local_recent.py",
+    "sha256": "954361d092a0f7b49e6e6f9b9a31ffc2f27a5d92d2f4085d2cd38974c7350022"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/test_pooled_cache.py",
+    "sha256": "b26ebbf898e9061a3a036e3adf99586d9bbe5240662d8d7846a612fa230a3961"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/test_recent.py",
+    "sha256": "534548ffc90e4bffe53914f0d716bc17a939a0e2b7bf5049489780445fdae218"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/implementations/worker.py",
+    "sha256": "e96ece38eb02d76f0516cc6ac36d97d4aae6297970eba223d61137014b3444d6"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/prompts/gsm8k.jsonl",
+    "sha256": "106cbaff22f9db59194ff4f2914e092f37f0d18e86574fdeae38a3da30f8a320"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/prompts/humaneval.jsonl",
+    "sha256": "27a40ecdf94f261ca49475910dcc902111a1ba3aefcfb3afb025000b82c32eb1"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/prompts/math500.jsonl",
+    "sha256": "68f949a2f5eb1c82e97ae45eb8b2be04e444bd7e2cca18a0280cee65afd28a55"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/prompts/mbpp_plus.jsonl",
+    "sha256": "50916c6899274e193f7e074b4cd3921bee48620ce0e3979eca6704924b04f8b1"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/scripts/cpu.sbatch",
+    "sha256": "9228cc4a790191ab7785990b19dd24e26d15b10400d04cc4986f37045846c782"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/scripts/gpu.sbatch",
+    "sha256": "b5c99943ba1eb3541eb000fbc436daca1957f4cb610a9c99438711e9a4dcae3a"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/scripts/gpu_retry.sbatch",
+    "sha256": "fc86289824122a902e59d86d02726f5d4efb6f48e6756de34c36d106eb5c76e5"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/scripts/recovery_cpu.sbatch",
+    "sha256": "6bc4ff056fec60be7e1e4dabc036d2edfff1e5da8ce435ce64b78d44adb72cec"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/scripts/recovery_score_code.sh",
+    "sha256": "bf084487f332e1d1dc73faa631aa595188f360b1defc38809f66a0af3095cb77"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/scripts/runtime.sh",
+    "sha256": "aa08586981d669fb7eb14db559d84a829553e99c765c115d1a492f4a686d8a8d"
+  },
+  {
+    "path": "experiments/streaming_hierarchy_band_guard60_formal/scripts/score_code.sh",
+    "sha256": "97a9a580ecb7e7da28c2a27a89e8596f813c79dcaa14b32dde01c7caced28a98"
+  }
+]

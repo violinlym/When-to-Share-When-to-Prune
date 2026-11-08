@@ -1,0 +1,127 @@
+{
+  "pilot_root": "/pfs/lustrep3/users/yiminliu/Project/kv cache management for loop transformer/motivation/gpt/algorithm_prototype/iterations/streaming_hierarchy_band_guard60_dev64",
+  "pilot_identity": "2d119cc56f805613980e9008a474f25a42ca4d6009f1ace34cab60773c3b35c4",
+  "files": {
+    "configs/source_lock.json": "2d119cc56f805613980e9008a474f25a42ca4d6009f1ace34cab60773c3b35c4",
+    "results/summary.json": "67fea4af0282098d697e9557e9ad230f6e71822d0de8e4ec813bd72e97409c68",
+    "results/raw_audit.json": "736bf05af817204e80dc77d482c7da80cd10440cca3dae94bc720ccf2174cfc6",
+    "REPORT.md": "59542890a12c65c5776e76e84124db47966bc55cb8586f3febe30da64e4204fa"
+  },
+  "dev_accuracy": {
+    "gsm_training_pilot": {
+      "full": {
+        "correct": 47,
+        "count": 64,
+        "accuracy_pct": 73.4375,
+        "capped": 0
+      },
+      "fts": {
+        "correct": 46,
+        "count": 64,
+        "accuracy_pct": 71.875,
+        "capped": 0,
+        "mean_final_payload_fraction": 0.500587143931047,
+        "generated_tokens_per_second": 8.245073796904629
+      },
+      "hierarchy_price_exchange": {
+        "correct": 47,
+        "count": 64,
+        "accuracy_pct": 73.4375,
+        "capped": 0,
+        "mean_final_payload_fraction": 0.40000032653374407,
+        "generated_tokens_per_second": 5.306845171503835,
+        "mean_final_mean_K_versions": 1.345966000749102,
+        "mean_final_mean_V_versions": 1.8540366115208504,
+        "mean_final_component_route_disagreement": 0.42003766756940153,
+        "mean_final_auxiliary_to_full_fraction": 0.0655517578125,
+        "mean_final_local_context_coverage": 0.9978188864202092,
+        "mean_final_pruned_layer_token_roots": 23.03125,
+        "mean_final_pruned_adjacent_layer_bands": 11.515625,
+        "mean_refinements_purchased_by_pruning": 737.0,
+        "mean_final_selected_K_extra_versions": 58020.6875,
+        "mean_final_selected_V_extra_versions": 142739.9375,
+        "statistics_ms_per_update": 23.46545822390267,
+        "decision_ms_per_update": 17.955374492032036,
+        "allocator_policy_ms_per_update": 41.4208327159347,
+        "cache_update_ms_per_update": 20.911477358011645
+      }
+    },
+    "math_training_pilot": {
+      "full": {
+        "correct": 53,
+        "count": 64,
+        "accuracy_pct": 82.8125,
+        "capped": 2
+      },
+      "fts": {
+        "correct": 42,
+        "count": 64,
+        "accuracy_pct": 65.625,
+        "capped": 5,
+        "mean_final_payload_fraction": 0.5003675823949607,
+        "generated_tokens_per_second": 7.799480006208061
+      },
+      "hierarchy_price_exchange": {
+        "correct": 42,
+        "count": 64,
+        "accuracy_pct": 65.625,
+        "capped": 5,
+        "mean_final_payload_fraction": 0.4000002286971369,
+        "generated_tokens_per_second": 4.825805273700381,
+        "mean_final_mean_K_versions": 1.3836011525798912,
+        "mean_final_mean_V_versions": 1.816400676997204,
+        "mean_final_component_route_disagreement": 0.38329178079936516,
+        "mean_final_auxiliary_to_full_fraction": 0.0655517578125,
+        "mean_final_local_context_coverage": 0.9994226639961431,
+        "mean_final_pruned_layer_token_roots": 13.46875,
+        "mean_final_pruned_adjacent_layer_bands": 6.734375,
+        "mean_refinements_purchased_by_pruning": 431.0,
+        "mean_final_selected_K_extra_versions": 130895.03125,
+        "mean_final_selected_V_extra_versions": 281088.40625,
+        "statistics_ms_per_update": 22.94501855696226,
+        "decision_ms_per_update": 28.449475250271178,
+        "allocator_policy_ms_per_update": 51.39449380723344,
+        "cache_update_ms_per_update": 30.997893005964578
+      }
+    },
+    "mbpp_training_pilot": {
+      "full": {
+        "correct": 33,
+        "count": 64,
+        "accuracy_pct": 51.5625,
+        "capped": 17
+      },
+      "fts": {
+        "correct": 28,
+        "count": 64,
+        "accuracy_pct": 43.75,
+        "capped": 24,
+        "mean_final_payload_fraction": 0.5010076597371161,
+        "generated_tokens_per_second": 8.088606865799315
+      },
+      "hierarchy_price_exchange": {
+        "correct": 30,
+        "count": 64,
+        "accuracy_pct": 46.875,
+        "capped": 30,
+        "mean_final_payload_fraction": 0.4000004846721465,
+        "generated_tokens_per_second": 5.1049464945806955,
+        "mean_final_mean_K_versions": 1.3798209178533347,
+        "mean_final_mean_V_versions": 1.8201829595238372,
+        "mean_final_component_route_disagreement": 0.39156214223711083,
+        "mean_final_auxiliary_to_full_fraction": 0.0655517578125,
+        "mean_final_local_context_coverage": 0.9994296994353857,
+        "mean_final_pruned_layer_token_roots": 3.09375,
+        "mean_final_pruned_adjacent_layer_bands": 1.546875,
+        "mean_refinements_purchased_by_pruning": 99.0,
+        "mean_final_selected_K_extra_versions": 85355.890625,
+        "mean_final_selected_V_extra_versions": 187940.296875,
+        "statistics_ms_per_update": 23.077810383346062,
+        "decision_ms_per_update": 22.399613260306435,
+        "allocator_policy_ms_per_update": 45.47742364365249,
+        "cache_update_ms_per_update": 24.57394210402686
+      }
+    }
+  },
+  "interpretation": "64 fixed training examples per domain. Candidate uses 40% current-N payload; FTS uses 50%. Frontier evidence only, not matched-budget superiority."
+}

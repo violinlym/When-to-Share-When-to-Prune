@@ -1,0 +1,184 @@
+{
+  "tasks": {
+    "humaneval": 164,
+    "mbpp_plus": 378,
+    "gsm8k": 400,
+    "math500": 500
+  },
+  "datasets": {
+    "humaneval": {
+      "count": 164,
+      "source_sha256": "969e56f4bc8440610770e40baf03238c71c3839dcc6ca07d0958392d799e6e7a",
+      "provenance": {
+        "evalplus": "0.4.0.dev44",
+        "official_data_sha256": "f5581de93b18e215e9b44edbd1b4fb4b5f59f11dcd72af56e6754acecf9b8b4b",
+        "shots": 0,
+        "primary": "HumanEval original/base pass@1"
+      }
+    },
+    "mbpp_plus": {
+      "count": 378,
+      "source_sha256": "30b9074c1a655ffad722d70903cdb4cd90465d92c0007a97c63fde02ad87a9af",
+      "provenance": {
+        "evalplus": "0.4.0.dev44",
+        "official_data_sha256": "a8e1b6789c68be6639dbe9d987bc42db2bf54695c6a1acf8350a46fd31cfe398",
+        "shots": 0,
+        "primary": "EvalPlus base+extra pass@1; greedy one completion; full tests, not mini"
+      }
+    },
+    "gsm8k": {
+      "count": 400,
+      "source_sha256": "05316f8cc5dddc8b82cb000904a8b95a180b4b5c6d0e7adb656507f2d43cc808",
+      "provenance": {
+        "original_manifest": "/pfs/lustrep3/users/yiminliu/Project/kv cache management for loop transformer/motivation/gpt/experiment_06_context_preserving_cross_loop_compression/ablations/attention_13_gsm8k/prompts/gsm8k400.jsonl",
+        "selection": "Same400 source doc_ids and original order; no resampling",
+        "scoring": "Previously approved flexible_numeric_diagnostic; exact Decimal equality"
+      }
+    },
+    "math500": {
+      "count": 500,
+      "source_sha256": "c07a2111eb8d3931b011b511b40ab9c8f89401bd0407b1d1656a641a87628786",
+      "provenance": {
+        "dataset": "HuggingFaceH4/MATH-500",
+        "fingerprint": "f3124375297911ba",
+        "shots": 0
+      }
+    }
+  },
+  "cpu_evaluator_identity": {
+    "metadata_sha256": "5f851c0120a9378796d4abf82a175a0ba7b4044974d12564a4935a56aacd8ecb",
+    "version": "0.4.0.dev44",
+    "evaluate_sha256": "47f766df2dbb2280f7dd2c1040bfff0396c2b414a8d44b639424aa941bee7eab",
+    "sanitize_sha256": "0269b69cb27199bfd56d7a00aedc17df5c72f7e60f9d60281a958d9d3dbc50f0",
+    "config_sha256": "d27099cc275ae6e64fb2c440643fc3b5d0952d1633db646e206b538517ffe6f2"
+  },
+  "generation": {
+    "humaneval": {
+      "max_gen_toks": 1024,
+      "do_sample": false,
+      "until": [
+        "\nif __name__"
+      ],
+      "eos": "unchanged model EOS"
+    },
+    "mbpp_plus": {
+      "max_gen_toks": 1024,
+      "do_sample": false,
+      "until": [
+        "\n```",
+        "\nif __name__"
+      ],
+      "eos": "unchanged model EOS"
+    },
+    "gsm8k": {
+      "do_sample": false,
+      "until": [
+        "Q:",
+        "</s>",
+        "<|im_end|>"
+      ],
+      "max_gen_toks": 2048,
+      "eos": "unchanged model EOS"
+    },
+    "math500": {
+      "max_gen_toks": 2048,
+      "do_sample": false,
+      "until": [
+        "\nProblem:",
+        "\nQuestion:"
+      ],
+      "eos": "unchanged model EOS"
+    }
+  },
+  "sample_seed": 20261031,
+  "dtype": "bfloat16",
+  "backend": "eager",
+  "manifests": {
+    "humaneval": {
+      "sha256": "27a40ecdf94f261ca49475910dcc902111a1ba3aefcfb3afb025000b82c32eb1",
+      "count": 164
+    },
+    "mbpp_plus": {
+      "sha256": "50916c6899274e193f7e074b4cd3921bee48620ce0e3979eca6704924b04f8b1",
+      "count": 378
+    },
+    "gsm8k": {
+      "count": 400,
+      "sha256": "106cbaff22f9db59194ff4f2914e092f37f0d18e86574fdeae38a3da30f8a320"
+    },
+    "math500": {
+      "sha256": "68f949a2f5eb1c82e97ae45eb8b2be04e444bd7e2cca18a0280cee65afd28a55",
+      "count": 500
+    }
+  },
+  "scoring_root": "/pfs/lustrep3/users/yiminliu/Project/kv cache management for loop transformer/motivation/gpt/algorithm_prototype",
+  "status": "AUTHORIZED",
+  "authority": "User explicitly authorized a four-node full four-benchmark evaluation of the frozen Band-Guard 60%-compression candidate.",
+  "prepared_at": "2026-11-06",
+  "models": {
+    "ouro": {
+      "path": "/scratch/project_462001687/yiminliu/models/Ouro-1.4B-574fa66cb8bf5abdc979642d01cf2b79b16bfab1",
+      "repo": "ByteDance/Ouro-1.4B",
+      "revision": "574fa66cb8bf5abdc979642d01cf2b79b16bfab1",
+      "loops": 4,
+      "layers": 24,
+      "query_heads": 16,
+      "kv_heads": 16,
+      "head_dim": 128
+    }
+  },
+  "store": "/flash/project_462001687/yiminliu/coverkv_band_guard60_formal_20261106",
+  "formal_benchmark": true,
+  "methods": [
+    "full",
+    "fts",
+    "hierarchy_price_exchange"
+  ],
+  "new_methods": [
+    "hierarchy_price_exchange"
+  ],
+  "planned_new_responses": 1442,
+  "reused_responses": 2884,
+  "planned_total": 4326,
+  "budget": {
+    "retention": 0.4,
+    "compression": 0.6,
+    "reference": "current logical prompt+forwarded decode length N; recomputed after every generated token",
+    "components": "L*H*4*N native BF16 KV vector components globally; all candidate numerical KV charged",
+    "fts_reference_retention": 0.5,
+    "metadata": "Non-reconstructive route/statistics metadata reported separately; no numerical KV, residual vector, or reconstruction value hidden from payload."
+  },
+  "candidate": "Frozen Band-Guard joint candidate: K/V-independent contiguous Complete-Linkage Version Trees with rightward routing; then pruning only low-risk token Roots jointly across adjacent deep-layer pairs, outside the protected recent20%; released slots purchase higher-value Version-Tree refinements. No parameter changes after opening the formal benchmark.",
+  "pilot_source_identity": "2d119cc56f805613980e9008a474f25a42ca4d6009f1ace34cab60773c3b35c4",
+  "pilot_root": "/pfs/lustrep3/users/yiminliu/Project/kv cache management for loop transformer/motivation/gpt/algorithm_prototype/iterations/streaming_hierarchy_band_guard60_dev64",
+  "engineering_replay_count": 0,
+  "resources": {
+    "max_nodes": 4,
+    "gcds": 32,
+    "wall_minutes": 480,
+    "gcd_hours_ceiling": 256,
+    "cpu_workers": 64,
+    "cpu_memory_gib": 64,
+    "cpu_wall_minutes": 120,
+    "storage_limit_bytes": 30000000000,
+    "global_concurrent_gpu_nodes_ceiling": 16,
+    "gpu_partition": "standard-g",
+    "cpu_partition": "standard",
+    "inodes_limit": 40000
+  },
+  "scientific_contract": "Ouro-1.4B pinned revision, native BF16, eager attention, four loops; frozen official cohorts GSM8K-400, MATH500-500, MBPP+-378 and HumanEval-164, exact prompts/token IDs, greedy decoding, task generation limits/stops and frozen official scoring. Generate only the Band-Guard candidate; reuse exact Full and FTS controls after per-item hashes and prompt/token identity checks. Candidate retains 40% of current logical Full-KV payload (60% compression) at every prefill/decode length. FTS reference retains 50% payload (50% compression), so interpret as a compression-accuracy frontier comparison, not an equal-budget comparison. No test-driven tuning.",
+  "promotion_gate": "User directly authorized this full benchmark after reviewing the fixed 64/domain development results. No additional score-dependent parameter selection.",
+  "success": "Report every benchmark separately against Full and FTS; include paired gains/losses, task-level bootstrap intervals, payload/metadata/context coverage, K/V and layer allocation, allocation and cache-update timing. The development pilot is not a formal guarantee; no average can conceal a per-task regression.",
+  "recovery": "Reuse only successful identity-matched outputs; failures preserved. Resource interruption resumes missing tasks only within bounded stage budget. Technical errors debug before recovery; never select retries by correctness.",
+  "efficiency": "Native eager/B1 unchanged for numerical contract;64persistent workers on8nodes and condition-level claims interleave all4domains.2newmethods only, reuse Full/FTS. Prior local96pilot22.8min/8GCD including startup; formal new2884responses and changed lengths,3h/64GCD=192GCDh planning maximum, not ETA. Current shared-filesystem cold loading is observed; amortize one model per worker, no unqualified batch/backend change. Stats/selection/packing and full runtimes separately recorded.",
+  "parameter_authority": {
+    "algorithm": "User mandates cheap nonenumerative, context-preserving jointsharing/pruning with KV/layerheterogeneity. Candidate frozen from stable trainingpilot; formula remains agenthypothesis, not provenoptimal.",
+    "budget": "Userexplicit currentFullKV50%, notprompt50%. Numerical nativeK/Vcounted; nonreconstructive metadata separate.",
+    "data_generation": "Exact previouslyapproved4formalcohorts, tokenIDs, greedycaps GSM/MATH2048 code1024/stops, officialbaseHE andextraMBPPgrader. No contexttruncation or capchange.",
+    "resources": "Latest21:29preview standard-g16nodes2h starts22:56 vs8nodes3h22:50;16nodes chosenforprojected~50min response work versus~101min on8nodes, plusstartup/tail. AllownedGPUjobscomplete;16nodeaggregatecap respected. CPUlargemem previewimmediate;dev-g8nodes3h rejectedQOS earlier. Agentbounded256GCDh, notuser-imposedcumulativecap."
+  },
+  "frozen_at": "2026-11-04T21:30:16.125847+02:00",
+  "hypothesis": "Head-specific local roots may help or hurt. Fixed 50%current FullKV comparison; no quality threshold or test-driven tuning.",
+  "promotion": "Full fixed comparison authorized after valid CPU+all576development responses/scoring/audits. No accuracy gate and no score tuning.",
+  "reuse": "Reuse exact Full and FTS responses from the frozen formal50 control manifests only when content hashes, model revision, prompt tokens, generation configuration and scoring provenance match; generate 1442 candidate responses."
+}

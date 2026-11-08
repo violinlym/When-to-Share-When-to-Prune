@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "native_online_steps": 16,
+  "growing_physical_budget": true,
+  "current_length_payload_retention": 0.4,
+  "nested_cuts_no_resurrection": true,
+  "original_native_history_reference": true,
+  "metadata_includes_anchor_order": true,
+  "scope": "CPU adapter only; no model accuracy or online device timing"
+}
