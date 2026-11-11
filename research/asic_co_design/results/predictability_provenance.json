@@ -1,0 +1,8 @@
+{
+  "source": "/pfs/lustrep3/users/yiminliu/Project/kv cache management for loop transformer/motivation/Cross-Loop Attention Evolution Profiling/results/per_prompt_predictions.csv",
+  "sha256": "7c81da8356624c4b4614e100d488b5b131d62b3eb37f80667e2fd6688a2603a6",
+  "evidence": "REAL_DENSE_PROFILING; NOT SPARSE_EXECUTION",
+  "scope": "32 GSM prompts;32 decode queries each;4 sampled layers (1-based 6,12,18,24);16 heads",
+  "aggregation": "Mean over sampled head/layer cells within each prompt, then median over prompts. p10 is of cell query means, not individual queries.",
+  "limitations": "Short dense reference trajectories, shared demonstrations, no causal sparse rollout, no test of compressed-cache interaction."
+}

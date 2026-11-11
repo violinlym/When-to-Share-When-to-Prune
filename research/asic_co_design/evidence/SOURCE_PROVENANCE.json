@@ -1,0 +1,38 @@
+[
+  {
+    "source": "/pfs/lustrep3/users/yiminliu/Project/kv cache management for loop transformer/motivation/gpt/experiment_08_lazy_score_updates/results/joint_cpu/gate_first/summary.json",
+    "copy": "experiment8_synthetic_joint_summary.json",
+    "sha256": "56276ecf20d40ae4b2f2edcd831a73ccdafac7331681a7657e273a9462ca80c7",
+    "copy_sha256": "56276ecf20d40ae4b2f2edcd831a73ccdafac7331681a7657e273a9462ca80c7",
+    "transform": "none"
+  },
+  {
+    "source": "/pfs/lustrep3/users/yiminliu/Project/kv cache management for loop transformer/motivation/gpt/experiment_08_lazy_score_updates/results/joint_cpu/gate_first/refresh_statistics.csv",
+    "copy": "experiment8_synthetic_refresh_statistics.csv",
+    "sha256": "43417f427d556cbaa2c4f6951d3239a13636b3eb4ac22dda401921d0a48890a5",
+    "copy_sha256": "7f4861c78c35ac0dfefd2dd90072462d372b294b6532f027178fedb37bfc57ac",
+    "transform": "CRLF to LF only"
+  },
+  {
+    "source": "/pfs/lustrep3/users/yiminliu/Project/kv cache management for loop transformer/motivation/gpt/experiment_08_lazy_score_updates/results/joint_cpu/gate_first_roundtrip/context_refresh_coverage_summary.json",
+    "copy": "experiment8_synthetic_context_coverage.json",
+    "sha256": "0d98eeed6d3731d8f92fb4d3ae6f895882ae674709fa5b4050ed315e429fbbda",
+    "copy_sha256": "0d98eeed6d3731d8f92fb4d3ae6f895882ae674709fa5b4050ed315e429fbbda",
+    "transform": "none"
+  },
+  {
+    "source": "/pfs/lustrep3/users/yiminliu/Project/kv cache management for loop transformer/paper/KV Cache Accelerator/V-Rex.pdf",
+    "sha256": "f8d45311342cdbc449fa653100e231c5ee6ddf28239ea3180782e4be1ffcceff",
+    "copy": null
+  },
+  {
+    "source": "/pfs/lustrep3/users/yiminliu/Project/kv cache management for loop transformer/motivation/Cross-Loop Attention Evolution Profiling/configs/protocol.json",
+    "sha256": "3c19445e8614456d285a5f022960fd6b92e30430c05e4a729d91e34b539a81a7",
+    "copy": null
+  },
+  {
+    "source": "/pfs/lustrep3/users/yiminliu/Project/kv cache management for loop transformer/motivation/Cross-Loop Attention Evolution Profiling/ATTENTION_EVOLUTION_ANALYSIS.md",
+    "sha256": "412ab2a7bb94a5e62a184b58f04d22f058ea7c354509582ee4f242a3acdbd63c",
+    "copy": null
+  }
+]

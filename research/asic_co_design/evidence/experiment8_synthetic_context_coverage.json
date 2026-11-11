@@ -1,0 +1,13 @@
+{
+  "evidence": "SYNTHETIC_ONLY; seed2 trajectory;15 decode steps; initial prefill excluded; newly appended tokens excluded",
+  "steps": 15,
+  "historical_token_touches": 130,
+  "historical_token_opportunities": 585,
+  "global_token_coverage": 0.2222222222222222,
+  "local_context_coverage": 0.05532015065913371,
+  "eligible_local_context_coverage": 0.08548563113859585,
+  "historical_score_refresh_ratio": 0.04301572617946346,
+  "global_min": 0.021739130434782608,
+  "global_max": 0.6590909090909091,
+  "attention_computation_reduction": 0
+}

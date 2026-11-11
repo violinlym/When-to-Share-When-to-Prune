@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "steps": 128,
+  "pruned_root_events": 112,
+  "provisional_evictions_retained_after_exchange": 448,
+  "exact_joint_fresh_refresh_ratio": 0.25386553161917996,
+  "gate_first": true,
+  "evidence": "SYNTHETIC_ONLY",
+  "production_source_sha256": "e4ac5dc77fbf476c2f0942eedc507f6d656bb613384c73c963f2144f127fdf96"
+}

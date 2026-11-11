@@ -2,6 +2,16 @@
 
 Research snapshot of the current CoVerKV 60%-compression prototype for Ouro-1.4B. The current implementation is named `hierarchy_price_exchange` (historical experiment name: Band-Guard). This is a research prototype, not a standalone installable release.
 
+## ASIC co-design research
+
+The next research direction targets **dedicated ASIC KV management**, with algorithms,
+storage layout and control designed together. See the [co-design plan and CPU models](research/asic_co_design/README.md)
+for hierarchy-aware threshold selection, low-cost scoring candidates and an optional
+predictive sparse-attention study. Existing dense profiling supports investigating
+later-loop prediction; it does not establish sparse-inference accuracy. The new integer
+selector passes synthetic functional tests only. No RTL/synthesis/power or ASIC speedup
+result is claimed, and the frozen algorithm snapshots below remain unchanged.
+
 ## Method
 
 - Build independent K and V contiguous Complete-Linkage version trees over four loops, retaining native BF16 representatives with rightward routing.

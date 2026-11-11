@@ -1,0 +1,24 @@
+{
+  "evidence": "SYNTHETIC_ONLY",
+  "cases": 1924,
+  "seeds": 64,
+  "integer_oracle_parity": true,
+  "logical_work": {
+    "live_children": 57404,
+    "count_passes": 28736,
+    "tree_metadata_reads": 610640,
+    "child_tests": 941418,
+    "threshold_shifts": 908909,
+    "certificate_scalar_reads": 1428136,
+    "comparisons": 1344227,
+    "current_mass_reads": 7345,
+    "cache_writes": 7345,
+    "count_increments": 356172,
+    "local_mass_reads": 194841,
+    "certificate_hits": 706723,
+    "output_id_writes": 26842,
+    "boundary_tie_candidates": 2117
+  },
+  "max_cached_mass_entries_any_case": 11,
+  "note": "Includes all budgets; no FP32 parity, root exchange, RTL, accuracy or latency validation."
+}

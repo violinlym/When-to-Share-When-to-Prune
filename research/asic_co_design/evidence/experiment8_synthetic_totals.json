@@ -1,0 +1,10 @@
+{
+  "score_calculations": 17535,
+  "bound_key_calculations": 46591,
+  "full_live_candidates": 69072,
+  "comparisons": 1013820,
+  "queue_reads": 2073147,
+  "queue_writes": 1350754,
+  "fresh_ratio": 0.25386553161917996,
+  "fresh_plus_bound_ratio": 0.9283935603428307
+}
