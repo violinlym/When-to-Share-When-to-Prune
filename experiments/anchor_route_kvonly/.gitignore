@@ -1,0 +1,7 @@
+/anchor50/model
+/anchor75/model
+/anchor50/results/
+/anchor75/results/
+*.lock
+*.tmp
+__pycache__/

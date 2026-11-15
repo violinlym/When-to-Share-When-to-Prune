@@ -1,0 +1,20 @@
+{
+  "source": "local tested independent-prototypes/anchor_route{50,75}_kvonly",
+  "files": {
+    "anchor50": {
+      "base_cache.py": "72b5fd3299b113bde39fab7f661526d1b8fd80daad8e366ef4cac63dba687201",
+      "sparse_cache.py": "1e55d34d2f48428a908e02a5a1609fc895078674c7380ae3d2ae483b33d34811",
+      "route_gain.py": "d1916dbe8eea3ec661fbc61d66c2cb8fc01756759db7ffecc7658c232056fbda",
+      "run_sparse.py": "3c019e1843d9176857de2d83cc51b1b604447993200fbeb17e1bfaad4b12680c",
+      "test_sparse.py": "4da93d190464487c01860bda1640d24ce146065a78b9ed2f9624522c74c5dc70"
+    },
+    "anchor75": {
+      "base_cache.py": "93246c7123e62366d44ce7d3e08d93d7df9cfdead112c0ae346b9f26b97b6704",
+      "sparse_cache.py": "cb20941d67b4ad7f76d28b468d96f7d96dc0424ff2be97239a60586e01c5b644",
+      "route_gain.py": "d1916dbe8eea3ec661fbc61d66c2cb8fc01756759db7ffecc7658c232056fbda",
+      "run_sparse.py": "937290f9eb8bb0c24342b184013783d79c694196e3ca624430fa4ce9476a10c0",
+      "test_sparse.py": "4767fe85a66dd52f123c1a7433ae0416bbf5cfa89342f17fecd00ef2f8f6303a"
+    }
+  },
+  "pilot_manifest_sha256": "f86a62c59efc43de86b00a3b53e56867f5a96c9e62af3beb65a43a3a02002141"
+}
