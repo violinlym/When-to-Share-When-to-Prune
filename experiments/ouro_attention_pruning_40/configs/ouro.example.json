@@ -16,5 +16,11 @@
     "retention_ratio": 0.6,
     "ratio": 0.3,
     "description": "Per current logical sequence length, target ceil(0.6*N) KV positions per layer/head (both K and V), after prefill and each completed decode forward."
+  },
+  "snapkv_d": {
+    "query_horizon": 128,
+    "pooling_kernel": 5,
+    "updated_recent_protection": "min(128, floor(capacity/2))",
+    "original_recent_protection": "min(128, capacity)"
   }
 }

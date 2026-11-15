@@ -17,6 +17,8 @@ def main():
     parser.add_argument('--methods', nargs='+', choices=('h2o', 'snapkv_d', 'rkv', 'triattention'),
                         default=('h2o', 'snapkv_d', 'rkv', 'triattention'))
     parser.add_argument('--loop-policy', choices=('bound', 'loop'), default='bound')
+    parser.add_argument('--snapkv-window-policy', choices=('budget-aware', 'original'), default='budget-aware',
+                        help='Updated SnapKV-D default; original reproduces min(128,capacity) recent protection')
     parser.add_argument('--limit', type=int, help='Optional prefix limit for a local smoke run')
     parser.add_argument('--tri-calibration', type=Path, help='TriAttention calibration .pt from calibrate_ouro.py')
     args = parser.parse_args()
@@ -55,9 +57,12 @@ def main():
                     'method': args.loop_policy,
                     'ratio': cfg['budget']['ratio'],
                 }
+                if method == 'snapkv_d' and args.snapkv_window_policy == 'budget-aware':
+                    condition['snapkv_recent_cap_fraction'] = .5
                 result, initial, final = engine.generate(doc, source, condition)
                 record = {
                     'id': row.get('id', index), 'method': method, 'loop_policy': args.loop_policy,
+                    'snapkv_window_policy': args.snapkv_window_policy if method == 'snapkv_d' else None,
                     'compression_ratio': cfg['budget']['compression_ratio'],
                     'generated_text': result['generated_text'],
                     'generated_tokens': result['generated_tokens'], 'stop_reason': result['stop_reason'],

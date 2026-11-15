@@ -3,12 +3,14 @@ import torch
 from transformers.cache_utils import DynamicCache,DynamicLayer
 from h2o_reference import H2OCache,Layer,budget_at,select
 from policies import snap_scores,rkv_scores,tri_scores
+from window_policy import window_scores
 
 
 class PruningLayer(Layer):
-    def __init__(self,kv,scores,queries,method,algorithm,stats,omega,ratio):
+    def __init__(self,kv,scores,queries,method,algorithm,stats,omega,ratio,recent_cap_fraction=None):
         self.algorithm=algorithm;self.stats=stats;self.omega=omega
-        self.ratio=ratio
+        self.ratio=ratio;self.recent_cap_fraction=recent_cap_fraction
+        assert recent_cap_fraction in (None,.5)
         self.window={'snapkv_d':128,'rkv':8,'triattention':0}[algorithm]
         self.queries=queries[...,-self.window:,:].clone() if self.window else None
         self.policy_seconds=0.;self.evictions=0
@@ -16,7 +18,8 @@ class PruningLayer(Layer):
 
     def compress(self):
         capacity=sum(budget_at(self.n,self.ratio));size=self.payload.shape[3]
-        self.recent=min(self.window,capacity);self.hh=capacity-self.recent
+        self.recent=min(self.window,capacity if self.recent_cap_fraction is None else capacity//2)
+        self.hh=capacity-self.recent
         assert size>=capacity, 'Capacity cannot require resurrection'
         if size==capacity:return
         t=time.perf_counter()
@@ -26,7 +29,10 @@ class PruningLayer(Layer):
         elif self.hh==0:
             score=torch.zeros_like(self.scores[...,:size-self.recent])
         elif self.algorithm=='snapkv_d':
-            score=snap_scores(self.queries,k,self.positions,self.n,self.recent)
+            if self.recent_cap_fraction is None:
+                score=snap_scores(self.queries,k,self.positions,self.n,self.recent)
+            else:
+                score,_,_=window_scores(self.queries,k,self.positions,self.n,self.recent)
         elif self.algorithm=='rkv':
             score=rkv_scores(self.queries,k,self.recent)
         else:raise ValueError(self.algorithm)
@@ -65,7 +71,8 @@ class PruningCache(H2OCache):
         for l in range(self.L):
             stats={name:calibration[name][l] for name in ('q_real','q_imag','q_abs')} if self.algorithm=='triattention' else None
             omega=calibration['omega'] if self.algorithm=='triattention' else None
-            self.states.append(PruningLayer(source['kv'][l],source['scores'][l],source['queries'][l],self.method,self.algorithm,stats,omega,self.ratio))
+            recent_cap_fraction=condition.get('snapkv_recent_cap_fraction') if self.algorithm=='snapkv_d' else None
+            self.states.append(PruningLayer(source['kv'][l],source['scores'][l],source['queries'][l],self.method,self.algorithm,stats,omega,self.ratio,recent_cap_fraction))
         self.calls=self.attention_calls=self.steps=0
 
     def attention(self,original,module,q,k,v,mask,*args,**kwargs):

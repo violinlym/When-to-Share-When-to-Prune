@@ -15,9 +15,11 @@ Portable Ouro adapters for **H2O, SnapKV-D, R-KV, and TriAttention**, exported f
 | Method | Importance / redundancy signal | Recent protection in this adapter |
 |---|---|---:|
 | H2O | Cumulative native attention; split retained positions between heavy hitters and recent tokens | Half the retained capacity |
-| SnapKV-D | Mean causal attention from the latest 128 queries, average-pool kernel 5 | `min(128, capacity)` positions |
+| SnapKV-D (default updated adapter) | Mean causal attention from the latest up to 128 queries, average-pool kernel 5 | `min(128, floor(capacity/2))` positions |
 | R-KV | Latest 8 queries, max-pool kernel 7, importance/redundancy mixture `0.1 / 0.9`; suppress similar keys using cosine threshold 0.5 | `min(8, capacity)` positions |
 | TriAttention | Official trigonometric/magnitude score over geometric offsets up to 65,536, with Ouro-specific query calibration | No separate recent window |
+
+The updated SnapKV-D adapter separates the query observation horizon from the recent-token protection budget. Even when the cache capacity is below 128, it observes up to 128 query rows and assigns at most half of the retained slots to unconditional recent protection. Query rows that have no remaining causal keys after irreversible pruning contribute zero rather than attending to future keys or producing NaNs. This is an Ouro budget-aware variant, not the unchanged official SnapKV-D default. The original `min(128, capacity)` protection rule remains selectable with `--snapkv-window-policy original`.
 
 The cache budget parameter `ratio=0.3` is the per-pool heavy-hitter fraction used by the original implementation; the corresponding total retained capacity is 60% (`HH + recent`). Do not change it to `0.6`.
 
@@ -45,7 +47,7 @@ python implementations/run_ouro.py \
   --loop-policy bound
 ```
 
-Use `--loop-policy loop` for independent per-loop pruning. Use `--methods h2o snapkv_d` to select a subset, and `--limit 2` for a local smoke run. The output is JSONL written after each method/input and includes generated text, stop reason, actual KV payload, context coverage, runtime, and peak CUDA memory. Choose a new output filename for each run; the runner starts a fresh file.
+Use `--loop-policy loop` for independent per-loop pruning. Use `--methods h2o snapkv_d` to select a subset, and `--limit 2` for a local smoke run. The updated SnapKV-D window policy is the runner default; pass `--snapkv-window-policy original` to reproduce the earlier full-recent-window adapter. The output is JSONL written after each method/input and includes generated text, stop reason, actual KV payload, context coverage, runtime, and peak CUDA memory. Choose a new output filename for each run; the runner starts a fresh file.
 
 TriAttention requires calibration generated from generic training/calibration text (not evaluation inputs or labels). Provide JSONL rows with a `text` field:
 
@@ -69,7 +71,7 @@ The calibration stores per-layer/loop/head pre-RoPE query moments and the model'
 
 - `implementations/engine.py`: Ouro eager-attention observer, prefill/decode, and generation adapter.
 - `implementations/cache.py`, `h2o_reference.py`: physical KV compaction, H2O baseline, and shared/loop-wise masks.
-- `implementations/policies.py`: SnapKV-D, R-KV, and TriAttention scoring ports.
+- `implementations/policies.py`, `window_policy.py`: SnapKV-D, R-KV, and TriAttention scoring ports, including the updated budget-aware SnapKV-D query/protection split.
 - `implementations/run_ouro.py`: CUDA JSONL runner.
 - `implementations/calibrate_ouro.py`: portable TriAttention calibration utility.
 - `configs/ouro.example.json`: editable model and budget configuration.
