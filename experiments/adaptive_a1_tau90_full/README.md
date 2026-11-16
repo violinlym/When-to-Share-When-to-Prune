@@ -10,8 +10,12 @@ The frozen manifest contains 1,319 GSM8K test prompts and 500 MATH500
 prompts from the existing local full benchmark, including prompt text, token
 IDs, gold answers and generation parameters. Its SHA256 is
 `02fe555ba90a4fe2caeef35848fc063293140400c8735ddd81863e77cb095c40`.
-The source dataset revision was not embedded in that legacy manifest; this
-hash identifies the exact frozen evaluation inputs.
+The upstream source rows were checked against their pinned local datasets:
+`openai/gsm8k` test (`740312add88f781978c0658806c59bc2815b9866`)
+and `HuggingFaceH4/MATH-500` test
+(`6e4ed1a2a79af7d8630a6b768ec859cb5af4d3be`). Every source problem and
+answer matches its manifest row. `DATA_PROVENANCE.json` records the checks and
+source file hash.
 
 Only K/V payload is capped at 25% Full KV. Metadata is measured separately.
 The original A2 chooses positive marginal route gains and may leave capacity

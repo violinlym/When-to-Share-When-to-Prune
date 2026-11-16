@@ -1,0 +1,19 @@
+{
+  "frozen_manifest_sha256": "02fe555ba90a4fe2caeef35848fc063293140400c8735ddd81863e77cb095c40",
+  "gsm8k": {
+    "dataset": "openai/gsm8k",
+    "config": "main",
+    "split": "test",
+    "revision": "740312add88f781978c0658806c59bc2815b9866",
+    "items": 1319,
+    "verification": "All 1319 manifest doc_id values index the cached test split; each source question appears in its frozen prompt and each source final answer matches the manifest gold."
+  },
+  "math500": {
+    "dataset": "HuggingFaceH4/MATH-500",
+    "split": "test",
+    "revision": "6e4ed1a2a79af7d8630a6b768ec859cb5af4d3be",
+    "source_jsonl_sha256": "35dc41080a3680858b27fa7e0533d2d547825316fc5dafe5d316f4ccc5a06132",
+    "items": 500,
+    "verification": "All 500 manifest doc_id values index the locally pinned test JSONL; each source problem appears in its frozen prompt and its answer matches the manifest gold."
+  }
+}
