@@ -44,3 +44,21 @@ Each sample is written atomically to `results/formal/NNN.json`; completed
 samples are skipped on restart. Analysis requires all 48 paired samples.
 The scripts never inspect gold answers or future attention when choosing
 tokens. The random seed is 20261116.
+
+## Attention dispersion follow-up
+
+This follow-up reruns only Full KV prefill on the same 48 prompts. It
+reconstructs each original deletion set, checks its checksum and removed
+attention mass against `per_sample.csv`, then measures token-mass entropy and
+effective attention coverage. It does not run a new A1 policy or decode.
+
+```bash
+CUDA_VISIBLE_DEVICES=4 python attention_dispersion.py --worker 0 --workers 4
+CUDA_VISIBLE_DEVICES=5 python attention_dispersion.py --worker 1 --workers 4
+CUDA_VISIBLE_DEVICES=6 python attention_dispersion.py --worker 2 --workers 4
+CUDA_VISIBLE_DEVICES=7 python attention_dispersion.py --worker 3 --workers 4
+python analyze_attention_dispersion.py
+```
+
+The resulting interpretation and limitations are in
+`ATTENTION_DISPERSION_REPORT.md`.
