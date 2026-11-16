@@ -6,6 +6,7 @@ import torch
 
 from core import masked_attention, output_kl, select_deleted
 from run_profile import clone_cache
+from measure_tau80 import root_masks
 from transformers.cache_utils import DynamicCache, DynamicLayer
 
 
@@ -54,6 +55,17 @@ class ProtocolTests(unittest.TestCase):
     def test_identical_logits_zero_kl(self):
         logits = torch.tensor([1.1, -2.0, 0.3])
         self.assertLess(output_kl(logits, logits.clone()), 1e-7)
+
+    def test_attention_mass_threshold_and_recent_protection(self):
+        peak = np.arange(10, dtype=float)[::-1]
+        fixed, adaptive, _ = root_masks(peak, np.ones(10))
+        self.assertEqual(int(fixed.sum()), 7)
+        self.assertEqual(int(adaptive.sum()), 8)
+        self.assertTrue(fixed[-2:].all() and adaptive[-2:].all())
+        mass = np.array([.01]*8 + [.46,.46])
+        _, adaptive, _ = root_masks(peak,mass)
+        self.assertEqual(int(adaptive.sum()), 2)
+        self.assertGreaterEqual(mass[adaptive].sum()/mass.sum(),.8)
 
 
 if __name__ == '__main__':

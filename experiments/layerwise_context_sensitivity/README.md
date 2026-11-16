@@ -62,3 +62,24 @@ python analyze_attention_dispersion.py
 
 The resulting interpretation and limitations are in
 `ATTENTION_DISPERSION_REPORT.md`.
+
+## Fixed 80% attention-mass threshold occupancy
+
+This measurement uses the same peak-attention token order in both policies.
+Fixed A1 retains `floor(0.75 × N)` roots per layer. The adaptive policy keeps
+the recent 20% and then takes high-ranked eligible tokens until that layer's
+aggregate prefill attention mass reaches 80%. This stage measures A1 root
+counts and BF16 K/V payload only; A2, KL and task accuracy are not run.
+
+```bash
+python -m unittest -v test_core.py
+CUDA_VISIBLE_DEVICES=4 python measure_tau80.py --smoke
+CUDA_VISIBLE_DEVICES=4 python measure_tau80.py --worker 0 --workers 4
+CUDA_VISIBLE_DEVICES=5 python measure_tau80.py --worker 1 --workers 4
+CUDA_VISIBLE_DEVICES=6 python measure_tau80.py --worker 2 --workers 4
+CUDA_VISIBLE_DEVICES=7 python measure_tau80.py --worker 3 --workers 4
+python analyze_tau80.py
+```
+
+See `TAU80_OCCUPANCY_REPORT.md` for the global budget comparison and the
+24-layer allocation table.
