@@ -1,4 +1,4 @@
-"""Measure fixed 80% attention-mass anchor occupancy, before any A2 allocation."""
+"""Measure a fixed attention-mass anchor threshold, before A2 allocation."""
 
 import argparse
 import json
@@ -49,7 +49,7 @@ def root_masks(peak, mass, tau=TAU):
 
 
 @torch.inference_mode()
-def measure_one(model,tokenizer,doc,index):
+def measure_one(model,tokenizer,doc,index,tau=TAU):
     ids=doc['context_ids']
     if ids!=tokenizer.encode(doc['context'],add_special_tokens=False):
         raise AssertionError('Tokenizer mismatch')
@@ -83,10 +83,10 @@ def measure_one(model,tokenizer,doc,index):
         raise AssertionError('Full KV prefill failed')
     rows=[]
     for layer in range(LAYERS):
-        fixed,adaptive,_=root_masks(peak[layer],mass[layer])
+        fixed,adaptive,_=root_masks(peak[layer],mass[layer],tau=tau)
         pmass=mass[layer]/mass[layer].sum()
         ptail=tail[layer]/tail[layer].sum()
-        rows.append(dict(sample_index=index,dataset=doc['task'],doc_id=doc['doc_id'],
+        rows.append(dict(sample_index=index,dataset=doc['task'],doc_id=doc['doc_id'],tau=tau,
                          layer=layer+1,prompt_tokens=n,recent_tokens=math.ceil(RECENT*n),
                          fixed_roots=int(fixed.sum()),adaptive_roots=int(adaptive.sum()),
                          fixed_ratio=float(fixed.mean()),adaptive_ratio=float(adaptive.mean()),
@@ -106,7 +106,10 @@ def main():
     ap.add_argument('--worker',type=int,default=0)
     ap.add_argument('--workers',type=int,default=1)
     ap.add_argument('--smoke',action='store_true')
+    ap.add_argument('--tau',type=float,default=TAU)
     a=ap.parse_args()
+    if not (0 < a.tau <= 1) or abs(a.tau*100-round(a.tau*100))>1e-8:
+        ap.error('--tau must be in (0,1] at an integer percent')
     torch.set_num_threads(2)
     torch.manual_seed(SEED)
     torch.backends.cuda.matmul.allow_tf32=False
@@ -114,7 +117,7 @@ def main():
            torch_dtype=torch.bfloat16,attn_implementation='eager').cuda().eval()
     tokenizer=AutoTokenizer.from_pretrained(a.model,trust_remote_code=True,local_files_only=True)
     docs=json.loads((HERE/'manifest48.json').read_text())
-    output=HERE/'results'/'tau80_anchors'
+    output=HERE/'results'/f'tau{round(a.tau*100):02d}_anchors'
     output.mkdir(parents=True,exist_ok=True)
     for index,doc in enumerate(docs):
         if (a.smoke and index!=0) or index%a.workers!=a.worker:
@@ -122,7 +125,7 @@ def main():
         path=output/f'{index:03d}.json'
         if path.exists():
             continue
-        rows=measure_one(model,tokenizer,doc,index)
+        rows=measure_one(model,tokenizer,doc,index,tau=a.tau)
         temp=path.with_suffix('.tmp')
         temp.write_text(json.dumps(rows))
         temp.replace(path)

@@ -83,3 +83,8 @@ python analyze_tau80.py
 
 See `TAU80_OCCUPANCY_REPORT.md` for the global budget comparison and the
 24-layer allocation table.
+
+For the 90% threshold measurement on the same prompts, pass `--tau 0.9` to
+each `measure_tau80.py` invocation above, then run
+`python analyze_tau80.py --tau 0.9`. This writes separate `tau90_*` outputs
+and `TAU90_OCCUPANCY_REPORT.md`, preserving the 80% results.

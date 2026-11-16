@@ -61,6 +61,8 @@ class ProtocolTests(unittest.TestCase):
         fixed, adaptive, _ = root_masks(peak, np.ones(10))
         self.assertEqual(int(fixed.sum()), 7)
         self.assertEqual(int(adaptive.sum()), 8)
+        _, adaptive90, _ = root_masks(peak, np.ones(10), tau=.9)
+        self.assertEqual(int(adaptive90.sum()), 9)
         self.assertTrue(fixed[-2:].all() and adaptive[-2:].all())
         mass = np.array([.01]*8 + [.46,.46])
         _, adaptive, _ = root_masks(peak,mass)
